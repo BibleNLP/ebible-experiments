@@ -1,3 +1,6 @@
+""" Take a folder of experiments as templates and create modifed copies
+in order to run similar experiments with data from different languages."""
+
 import shutil
 from pathlib import Path
 from pprint import pprint
@@ -5,8 +8,36 @@ from typing import Dict
 
 import yaml
 
+def print_command(experiment, experiments_folder_str, test_only=False, queue="langtech_40gb"):
+
+    command_folder = str(experiment["Destination file"])[len(str(experiments_folder_str)) + 1 : -11].replace("\\","/")
+    if test_only:
+        print(f"poetry run python -m silnlp.nmt.experiment --save-checkpoints --mixed-precision --memory-growth --clearml-queue {queue} --score-books --test --mt-dir eBible/MT ", command_folder)
+    else:
+        print(f"poetry run python -m silnlp.nmt.experiment --save-checkpoints --mixed-precision --memory-growth --clearml-queue {queue} --score-books --mt-dir eBible/MT ", command_folder)
+        #print(str(experiment["Destination file"])[len(str(experiments_folder_str)) + 1 : -11])
+
+
+def print_commands(experiments, experiments_folder_str, test_only=False, queue="langtech_40gb"):
+    for experiment in experiments:
+        print_command(experiment, experiments_folder_str, test_only=test_only, queue=queue)
+
+
+def is_excluded(source, excludes):
+
+    for exclude in excludes:
+        if exclude in source:
+            return True
+        
+    return False
+
+
 testing = False
 #testing = True
+do_copy = False
+#do_copy = True
+#test_only = False
+test_only = True
 
 language_families_details = {
     "Afro-Asiatic": {
@@ -79,51 +110,62 @@ language_families = [
     "Sino-Tibetan",
     "Trans-NewGuinea",
 ]
-
-subfolders_to_omit = ["Overall.Run"]
+# These parts of foldernames represent the various kinds of experiments
+# that we've run.
+# ["NewToOld.GEN_RUT_JON", "Overall.Run", "PartialNT.Scenario" "RelatedLanguage.PartialNT.Scenario", "SourceText.Greek.Scenario",]
+# Specify parts of foldernames plain strings, not regexes
+# subfolders_to_omit = ["Overall.Run"]
+subfolders_to_omit = ["NewToOld", "PartialNT.Scenario", "SourceText.Greek.Scenario",]
 
 # Set the series to create:
 # language_family = 'Afro-Asiatic'
 queue = "langtech_40gb"
 #queue = "idx_40gb"
-language_family = language_families[5]
+
+language_family = language_families[0]
 language_family_details = language_families_details[language_family]
 
 test_destination_family_folder = test_destination_folder / language_family
 destination_family_folder = experiments_folder / language_family
-
-print(
-    f"The source_folder is {source_family_folder}\nThe destination is   {destination_family_folder}"
-)
-
 source_subfolders = [folder for folder in source_family_folder.iterdir()]
 
-filtered_source_subfolders = []
-for source_subfolder in source_subfolders:
-    for subfolder_to_omit in subfolders_to_omit:
-        if subfolder_to_omit in source_subfolder.name:
-            print(f"Omitting {source_subfolder}")
-            continue
-        else:
-            
-
-print(f"Found {len(source_subfolders)} source subfolders")
-for source_subfolder in source_subfolders:
-    print(source_subfolder)
-
+filtered_source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_omit)]
 
 experiments = []
 
-print(f"Looking for files to copy.")
-for source_subfolder in source_subfolders:
-    for source_file in source_subfolder.rglob(config_filename):
+
+if do_copy:
+    print(
+        f"Found {len(source_subfolders)} folders in {source_family_folder}\nThe destination is   {destination_family_folder}"
+    )
+else :
+    print(
+        f"Found {len(source_subfolders)} folders in {source_family_folder}"
+    )
+
+#print(f"Removing subfolders whose names contain these strings:")
+#pprint(subfolders_to_omit)
+
+#print(f"These source folders remain after filtering.")
+#pprint(filtered_source_subfolders)
+
+if do_copy:
+    print(f"Looking for config.yml files to copy.")
+else:
+    if test_only:
+        print(f"Looking for config.yml files to create experiment training commands.")
+    else:
+        print(f"Looking for config.yml files to create experiment test commands.")
+
+
+for filtered_source_subfolder in filtered_source_subfolders:
+    for source_file in filtered_source_subfolder.rglob(config_filename):
         if source_file.is_file():
             
-
-            dest_folder = destination_family_folder / source_subfolder.name
+            dest_folder = destination_family_folder / filtered_source_subfolder.name
             destination_file = dest_folder / source_file.name
 
-            test_folder = test_destination_family_folder / source_subfolder.name
+            test_folder = test_destination_family_folder / filtered_source_subfolder.name
             test_file = test_folder / source_file.name
 
             # Get the experiment details from the config.yml file.
@@ -133,7 +175,7 @@ for source_subfolder in source_subfolders:
             if testing:
                 experiments.append(
                     {
-                        "Source folder": source_subfolder,
+                        "Source folder": filtered_source_subfolder,
                         "Source file": source_file,
                         "Destination file": test_file,
                         "Destination folder": test_folder,
@@ -144,7 +186,7 @@ for source_subfolder in source_subfolders:
             if not testing:
                 experiments.append(
                     {
-                        "Source folder": source_subfolder,
+                        "Source folder": filtered_source_subfolder,
                         "Source file": source_file,
                         "Destination file": destination_file,
                         "Destination folder": dest_folder,
@@ -187,29 +229,24 @@ for experiment in experiments:
 
         related_code = list(language_family_details["related_lang_code"].keys())[0]
         related_ws = language_family_details["related_lang_code"][related_code]
-        print(related_code, " : ", related_ws)
+        #print(related_code, " : ", related_ws)
         config["data"]["lang_codes"][related_code] = related_ws
 
-    # Make necessary folders.
-    if not experiment["Destination folder"].is_dir():
-        experiment["Destination folder"].mkdir(parents=True, exist_ok=True)
-        print(f"Created destination folder: {dest_folder}")
+    if do_copy :
+        # Make necessary folders.
+        if not experiment["Destination folder"].is_dir():
+            experiment["Destination folder"].mkdir(parents=True, exist_ok=True)
+            print(f"Created destination folder: {dest_folder}")
 
-    # print(destination_config_file.parent , type(destination_config_file.parent))
-    new_config_file = experiment["Destination file"]
-    with new_config_file.open("w", encoding="utf-8") as file:
-        yaml.dump(config, file)
+        # print(destination_config_file.parent , type(destination_config_file.parent))
+        new_config_file = experiment["Destination file"]
+        with new_config_file.open("w", encoding="utf-8") as file:
+            yaml.dump(config, file)
     
-    print(experiment["Destination file"])
-    pprint(corpus_pairs)
-    pprint(data_config["lang_codes"])
-    print()
+        print(experiment["Destination file"])
+        pprint(corpus_pairs)
+        pprint(data_config["lang_codes"])
+        print()
 
-for experiment in experiments:
 
-    if testing:
-        print(str(experiment["Destination file"])[len(str(test_destination_folder)) + 1 : -11])
-    if not testing:
-        command_folder = str(experiment["Destination file"])[len(str(experiments_folder_str)) + 1 : -11].replace("\\","/")
-        print(f"poetry run python -m silnlp.nmt.experiment --save-checkpoints --mixed-precision --memory-growth --clearml-queue {queue} --mt-dir eBible/MT ", command_folder)
-        #print(str(experiment["Destination file"])[len(str(experiments_folder_str)) + 1 : -11])
+print_commands(experiments, experiments_folder_str, test_only=test_only, queue=queue)
