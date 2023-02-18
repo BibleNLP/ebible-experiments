@@ -8,19 +8,19 @@ from typing import Dict
 
 import yaml
 
-def print_command(experiment, experiments_folder_str, test_only=False, queue="langtech_40gb"):
+def print_command(experiment, base_folder_str, test_only=False, queue="langtech_40gb"):
 
-    command_folder = str(experiment["Destination file"])[len(str(experiments_folder_str)) + 1 : -11].replace("\\","/")
+    command_folder = str(experiment["Destination file"])[len(str(base_folder_str)) + 1 : -11].replace("\\","/")
     if test_only:
         print(f"poetry run python -m silnlp.nmt.experiment --save-checkpoints --mixed-precision --memory-growth --clearml-queue {queue} --score-books --test --mt-dir eBible/MT ", command_folder)
     else:
         print(f"poetry run python -m silnlp.nmt.experiment --save-checkpoints --mixed-precision --memory-growth --clearml-queue {queue} --score-books --mt-dir eBible/MT ", command_folder)
-        #print(str(experiment["Destination file"])[len(str(experiments_folder_str)) + 1 : -11])
+        #print(str(experiment["Destination file"])[len(str(base_folder_str)) + 1 : -11])
 
 
-def print_commands(experiments, experiments_folder_str, test_only=False, queue="langtech_40gb"):
+def print_commands(experiments, base_folder_str, test_only=False, queue="langtech_40gb"):
     for experiment in experiments:
-        print_command(experiment, experiments_folder_str, test_only=test_only, queue=queue)
+        print_command(experiment, base_folder_str, test_only=test_only, queue=queue)
 
 
 def is_excluded(source, excludes):
@@ -31,13 +31,17 @@ def is_excluded(source, excludes):
         
     return False
 
-
-testing = False
-#testing = True
 do_copy = False
-#do_copy = True
-#test_only = False
-test_only = True
+test_only = False
+testing = False
+
+# Comment or uncomment these
+# Whether or not to copy the files
+do_copy = True
+# Whether to copy them to the testing folder or the live folder
+testing = True
+#Whether to add --test to the command line
+#test_only = True
 
 language_families_details = {
     "Afro-Asiatic": {
@@ -115,7 +119,7 @@ language_families = [
 # ["NewToOld.GEN_RUT_JON", "Overall.Run", "PartialNT.Scenario" "RelatedLanguage.PartialNT.Scenario", "SourceText.Greek.Scenario",]
 # Specify parts of foldernames plain strings, not regexes
 # subfolders_to_omit = ["Overall.Run"]
-subfolders_to_omit = ["NewToOld", "PartialNT.Scenario", "SourceText.Greek.Scenario",]
+subfolders_to_omit = ["NewToOld","Overall.Run","RelatedLanguage", "SourceText.Greek.Scenario",]
 
 # Set the series to create:
 # language_family = 'Afro-Asiatic'
@@ -248,5 +252,7 @@ for experiment in experiments:
         pprint(data_config["lang_codes"])
         print()
 
-
-print_commands(experiments, experiments_folder_str, test_only=test_only, queue=queue)
+if not testing:
+    print_commands(experiments, experiments_folder_str, test_only=test_only, queue=queue)
+else :
+    print_commands(experiments, test_destination_folder, test_only=test_only, queue=queue)
