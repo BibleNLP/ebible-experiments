@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "ebible-experiments"
+version = "0.1.0"
+description = "Results and data for NMT experiments using the ebible corpus"
+authors = ["David Baines <david_baines@sil.org>"]
+license = "cc by 4.0"
+readme = "README.md"
+packages = [{include = "ebible_experiments"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+PyYAML = "^6.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.1.0"
+isort = "^5.12.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
