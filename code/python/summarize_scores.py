@@ -11,6 +11,8 @@ import re
 import time
 import yaml
 
+# To Do: Add code to collect the by book scores
+
 csv.register_dialect("default")
 
 
