@@ -253,7 +253,8 @@ def main():
         pprint(language_families)
         parser.error("Please specify one of these language families.")
 
-    else:
+    if args.dest and not args.source: 
+
         # experiments_folder_str = "S:/eBible/MT/experiments"
         experiments_folder_str = args.source
         experiments_folder = Path(experiments_folder_str)
@@ -261,9 +262,6 @@ def main():
         source_language_family = args.source_family
         source_family_folder = experiments_folder / source_language_family
 
-        language_family = args.dest_family
-        language_family_details = language_families_details[language_family]
-        destination_family_folder = experiments_folder / language_family
         source_subfolders = [folder for folder in source_family_folder.iterdir()]
         filtered_source_subfolders = [
             source_subfolder
@@ -275,6 +273,12 @@ def main():
             for filtered_source_subfolder in filtered_source_subfolders
             for source_file in filtered_source_subfolder.rglob(config_filename)
         ]
+
+    if args.source and args.dest:
+                
+        language_family = args.dest_family
+        language_family_details = language_families_details[language_family]
+        destination_family_folder = experiments_folder / language_family
         destination_files = [
             destination_family_folder
             / filtered_source_subfolder.name
@@ -283,7 +287,6 @@ def main():
             for source_file in filtered_source_subfolder.rglob(config_filename)
         ]
 
-    if args.source and args.dest:
         for source_file, destination_file in zip(source_files, destination_files):
             print(f"These are the to files to copy:")
             print(f"{source_file}    ->     {destination_file}")
