@@ -31,6 +31,14 @@ def is_excluded(source, excludes):
         
     return False
 
+def is_included(source, includes):
+
+    for include in includes:
+        if include in source:
+            return True
+    return False
+
+
 # DON'T CHANGE THESE - SEE BELOW
 do_copy = False
 test_only = False
@@ -48,7 +56,7 @@ do_copy = True
 
 # Choose which ClearML queue to use
 queue = "langtech_40gb"
-queue = "idx_40gb"
+#queue = "idx_40gb"
 
 
 language_families_details = {
@@ -77,10 +85,10 @@ language_families_details = {
         "related_lang_code": {"guj": "guj_Gujr"},
     },
     "Niger-Congo": {
-        "1st_pair": {"src": "hau-hausa", "trg": "daa-daaNT"},
-        "2nd_pair": {"src": "hau-hausa", "trg": "fuh-fuhbkf"},
-        "lang_codes": {"hau": "hau_Latn", "daa": "daa_Latn"},
-        "related_lang_code": {"fuh": "fuh_Latn"},
+        "1st_pair": {"src": "swh-swhonen", "trg": "cwe-cwe"},
+        "2nd_pair": {"src": "swh-swhonen", "trg": "vid-vid"},
+        "lang_codes": {"swh": "swh_Latn", "cwe": "cwe_Latn"},
+        "related_lang_code": {"vid": "vid_Latn"},
     },
     "Otomanguean": {
         "1st_pair": {"src": "spa-sparvg", "trg": "zat-zatNTps"},
@@ -115,10 +123,11 @@ language_families = [
 
 # These parts of foldernames represent the various kinds of experiments
 # that we've run.
-# ["NewToOld.GEN_RUT_JON", "Overall.Run", "PartialNT.Scenario" "RelatedLanguage.PartialNT.Scenario", "SourceText.Greek.Scenario",]
+# ["NewToOld.GEN_RUT_JON", "Overall.Run", "PartialNT.Scenario",""NewToOld", "RelatedLanguage.PartialNT.Scenario", "SourceText.Greek.Scenario",]
 # Specify parts of foldernames plain strings, not regexes
-# subfolders_to_omit = ["Overall.Run"]
-subfolders_to_omit = ["Overall.Run", "NewToOld","Overall.Run","RelatedLanguage", "PartialNT",]
+# subfolders_to_include = ["Overall.Run"]
+subfolders_to_include = ["Overall.Run", "_2", "Greek","Clone", "GEN_RUT_JON" , "NewToOld",]
+subfolders_to_include = ["RelatedLanguage.PartialNT.Scenario"]
 
 # Set the series to create:
 # language_family = 'Afro-Asiatic'
@@ -133,15 +142,21 @@ test_destination_folder = Path("C:/Gutenberg/MT/experiments/")
 source_language_family = "Niger-Congo"
 source_family_folder = experiments_folder / source_language_family
 source_subfolders = [folder for folder in source_family_folder.iterdir()]
-filtered_source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_omit)]
+filtered_source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_include)]
+included_source_subfolders = [source_subfolder for source_subfolder in source_subfolders if is_included(source_subfolder.name, includes=subfolders_to_include)]
 
-language_families_to_omit = ["Niger-Congo"]
+
+# Choose included or filtered folders
+#source_subfolders = filtered_source_subfolders
+source_subfolders = included_source_subfolders
+
+language_families_to_omit = []
 language_families_to_omit.append(source_language_family)
 language_families = [language_family for language_family in language_families if not is_excluded(language_family, language_families_to_omit)]
 
         
 experiments = []
-language_family = language_families[2]
+language_family = language_families[6]
 language_family_details = language_families_details[language_family]
 
 test_destination_family_folder = test_destination_folder / language_family
@@ -157,10 +172,10 @@ destination_family_folder = experiments_folder / language_family
 #     )
 
 # #print(f"Removing subfolders whose names contain these strings:")
-# #pprint(subfolders_to_omit)
+# #pprint(subfolders_to_include)
 
 # #print(f"These source folders remain after filtering.")
-# #pprint(filtered_source_subfolders)
+# #pprint(source_subfolders)
 
 # if do_copy:
 #     print(f"Looking for config.yml files to copy.")
@@ -170,14 +185,14 @@ destination_family_folder = experiments_folder / language_family
 #     else:
 #         print(f"Looking for config.yml files to create experiment test commands.")
 
-for filtered_source_subfolder in filtered_source_subfolders:
-    for source_file in filtered_source_subfolder.rglob(config_filename):
+for source_subfolder in source_subfolders:
+    for source_file in source_subfolder.rglob(config_filename):
         if source_file.is_file():
             
             if not testing:
-                dest_folder = destination_family_folder / filtered_source_subfolder.name
+                dest_folder = destination_family_folder / source_subfolder.name
             elif testing:
-                dest_folder = test_destination_family_folder / filtered_source_subfolder.name
+                dest_folder = test_destination_family_folder / source_subfolder.name
             else:
                 print("Can't determine whether testing is True or False: testing={testing}")
                 exit()                
@@ -193,7 +208,7 @@ for filtered_source_subfolder in filtered_source_subfolders:
 
             experiments.append(
                     {
-                        "Source folder": filtered_source_subfolder,
+                        "Source folder": source_subfolder,
                         "Source file": source_file,
                         "Destination file": destination_file,
                         "Destination folder": dest_folder,
