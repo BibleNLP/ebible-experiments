@@ -10,6 +10,7 @@ packages = [{include = "ebible_experiments"}]
 [tool.poetry.dependencies]
 python = "^3.8"
 PyYAML = "^6.0"
+tqdm = "^4.64.1"
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
