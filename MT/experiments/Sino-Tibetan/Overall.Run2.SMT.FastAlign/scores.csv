@@ -1,0 +1,6 @@
+src_iso,trg_iso,sent_len,scorer,score
+npi,taj,250,BLEU,9.91/36.54/13.56/6.05/3.22/1.000/5626/5613
+npi,taj,250,chrF3,42.59
+npi,taj,250,spBLEU,31.24
+npi,taj,250,TER,85.00
+npi,taj,250,WER,37.45

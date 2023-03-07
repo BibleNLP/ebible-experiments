@@ -1,0 +1,8 @@
+model: fast_align
+seed: 111
+src_lang: npi-npiulb
+src_tokenizer: latin
+test_size: 250
+trg_lang: taj-taj
+trg_tokenizer: latin
+use_test_set_from: Sino-Tibetan\Overall.Run3

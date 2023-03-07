@@ -1,0 +1,6 @@
+book,src_iso,trg_iso,num_refs,references,sent_len,scorer,score
+ALL,spa,zat,0,,250,BLEU,28.33/59.96/34.53/21.64/14.39/1.000/6943/6850
+ALL,spa,zat,0,,250,CHRF3,55.45
+ALL,spa,zat,0,,250,WER,49.66
+ALL,spa,zat,0,,250,TER,66.68
+ALL,spa,zat,0,,250,spBLEU,44.04

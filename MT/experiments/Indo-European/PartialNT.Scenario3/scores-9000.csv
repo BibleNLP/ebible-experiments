@@ -1,0 +1,16 @@
+book,src_iso,trg_iso,num_refs,references,sent_len,scorer,score
+ALL,hin,pan,0,,838,BLEU,29.53/63.35/37.08/22.98/14.60/0.991/23532/23748
+ALL,hin,pan,0,,838,CHRF3,55.13
+ALL,hin,pan,0,,838,WER,40.04
+ALL,hin,pan,0,,838,TER,53.33
+ALL,hin,pan,0,,838,spBLEU,38.14
+ROM,hin,pan,0,,433,BLEU,29.96/63.89/37.85/23.56/14.90/0.987/10837/10977
+ROM,hin,pan,0,,433,CHRF3,56.13
+ROM,hin,pan,0,,433,WER,39.16
+ROM,hin,pan,0,,433,TER,52.70
+ROM,hin,pan,0,,433,spBLEU,38.23
+REV,hin,pan,0,,405,BLEU,29.15/62.88/36.44/22.50/14.36/0.994/12695/12771
+REV,hin,pan,0,,405,CHRF3,54.25
+REV,hin,pan,0,,405,WER,40.97
+REV,hin,pan,0,,405,TER,53.87
+REV,hin,pan,0,,405,spBLEU,38.06

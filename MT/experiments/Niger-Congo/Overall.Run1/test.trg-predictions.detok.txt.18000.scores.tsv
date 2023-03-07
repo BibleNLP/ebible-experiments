@@ -1,0 +1,2 @@
+Verse	BLEU	1-gram	2-gram	3-gram	4-gram	BP	Prediction	Reference
+1	37.59	68.00	50.00	34.78	27.27	0.887	Niye mulala mulangulizi, nokwandikila weye muke usaguligwe na wanage, womulonda muna ikweli. Si niye muhala mbali iviya wanhu wose wowoumanya ukweli.	Niye mulala mulangulizi, nokwandikila weye mama usaguligwe na Mulungu, hamwe na wanago woniwalonda muna ikweli, siyo niye muhala mbali iviya wanhu wose wowoimanya kweli,
