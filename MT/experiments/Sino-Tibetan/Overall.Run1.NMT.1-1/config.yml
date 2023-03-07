@@ -1,0 +1,18 @@
+data:
+  corpus_pairs:
+  - src: npi-npiulb
+    test_size: 250
+    trg: taj-taj
+    type: train,test,val
+    use_test_set_from: Sino-Tibetan/Overall.Run1
+    val_size: 250
+  seed: 111
+  share_vocab: false
+  src_casing: lower
+  src_vocab_size: 5000
+  trg_casing: preserve
+  trg_vocab_size: 2000
+train:
+  keep_checkpoint_max: 1
+  maximum_features_length: 100
+  maximum_labels_length: 100

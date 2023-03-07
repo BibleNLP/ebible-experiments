@@ -1,0 +1,6 @@
+book,src_iso,trg_iso,num_refs,references,sent_len,scorer,score
+ALL,hau,daa,0,,250,BLEU,30.91/58.31/35.58/24.51/17.96/1.000/7727/7464
+ALL,hau,daa,0,,250,CHRF3,53.23
+ALL,hau,daa,0,,250,WER,51.89
+ALL,hau,daa,0,,250,TER,67.46
+ALL,hau,daa,0,,250,spBLEU,39.20

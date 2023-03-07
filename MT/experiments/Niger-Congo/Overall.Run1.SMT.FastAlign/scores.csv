@@ -1,0 +1,6 @@
+src_iso,trg_iso,sent_len,scorer,score
+swh,cwe,250,BLEU,18.66/51.69/24.04/12.97/7.53/1.000/5280/5252
+swh,cwe,250,chrF3,47.69
+swh,cwe,250,spBLEU,26.35
+swh,cwe,250,TER,75.57
+swh,cwe,250,WER,44.42

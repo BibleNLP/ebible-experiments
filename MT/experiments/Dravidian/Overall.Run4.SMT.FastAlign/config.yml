@@ -1,0 +1,8 @@
+model: fast_align
+seed: 111
+src_lang: tam-tam2017
+src_tokenizer: latin
+test_size: 250
+trg_lang: mal-mal
+trg_tokenizer: latin
+use_test_set_from: Dravidian\Overall.Run4

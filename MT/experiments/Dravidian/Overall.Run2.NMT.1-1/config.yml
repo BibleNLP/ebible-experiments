@@ -1,0 +1,18 @@
+data:
+  corpus_pairs:
+  - src: tam-tam2017
+    test_size: 250
+    trg: mal-mal
+    type: train,test,val
+    use_test_set_from: Dravidian/Overall.Run2
+    val_size: 250
+  seed: 111
+  share_vocab: false
+  src_casing: lower
+  src_vocab_size: 8000
+  trg_casing: preserve
+  trg_vocab_size: 8000
+train:
+  keep_checkpoint_max: 1
+  maximum_features_length: 100
+  maximum_labels_length: 100

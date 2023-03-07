@@ -1,0 +1,6 @@
+book,src_iso,trg_iso,num_refs,references,sent_len,scorer,score
+ALL,npi,taj,0,,250,BLEU,31.45/57.74/37.33/25.45/17.83/1.000/7627/7587
+ALL,npi,taj,0,,250,CHRF3,57.87
+ALL,npi,taj,0,,250,WER,52.02
+ALL,npi,taj,0,,250,TER,63.98
+ALL,npi,taj,0,,250,spBLEU,49.45

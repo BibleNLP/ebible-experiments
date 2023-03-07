@@ -1,0 +1,598 @@
+▁Kawa uza ▁ka idi , ▁" Na ▁vin im ogo le ▁ya ja ▁yam ag ate ▁saba ▁na ▁ku weng ' ha ▁wan hu ▁magana ▁mal ongo ▁mane , ▁mud ondola ▁vig elo ▁v inga hi ▁va ▁masi ga vu ?" ▁Wam wid ika , ▁" Ch id ondola ▁vig elo ▁saba . " </s> cwe_Latn
+▁Na ▁wa fundi za ▁Ma lagi li zo ▁wala wile ▁Yel usalem u ▁wal onga , ▁" Kana ▁Mwen emba go ! ▁Na ▁im kulu ▁wa ▁viny am kela ▁iyo ▁yom ta za ▁kuwala va ▁viny am kela . " </s> cwe_Latn
+▁Ma aba ho ▁kawa fundi za , ▁" M una ▁yama andiko ▁Mulungu ▁kolonga , ▁' K aye ▁yangu ▁iz atang wa ▁kaye ▁ya ▁nh amb iko , ▁kwa ▁wan hu ▁wa ▁zi isi ▁zose .' ▁Mbali ▁mwe ye ▁muit enda ▁kuwa ▁mina ▁ya ▁waba vi !. " </s> cwe_Latn
+▁No wal ongela ▁kweli , ▁one ▁munhu ▁yaha ulong ela ▁lug ongo ▁luno , ▁' H ita ▁uk ay ase ▁mui ba hali ,' ▁one ▁ha wile ▁na ▁beg eta ▁mumo yo ▁wake , ▁ila ▁ko hu wila ▁kuwa ▁chay along ile ▁chi zala wilila , ▁chi zat endeka ▁kum wake . </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" M we ye ▁wose ▁mwi zak im bila ▁na ▁kund eka , ▁fana ▁Maandiko ▁Ye lile ▁vi yol onga , ▁' N iz am towa ▁im dimi , ▁na ▁ng ' h ondolo ▁we zap wililika .' </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" Sek em um g ome . ▁Ha bule ▁munhu ▁yot enda ▁mau za uza ▁kwa ▁zina ▁j angu ▁na ▁kuno ▁kon ilonga ▁vi hile . </s> cwe_Latn
+▁Na ▁di lagi zo ▁da ▁ka idi ▁kwa ▁ukulu ▁ijo ▁dino , ▁' Mul onde ▁miya go ▁fana ▁vo wi il onda ▁mwenye wo .' ▁Ha bule ▁lagi li zo ▁kulu ▁kuf osa ▁yano ▁ma idi . " </s> cwe_Latn
+▁Wad imi ▁wa ▁zing ulu we ▁wak im bila ▁na ▁ku zip wi lil isa ▁m buli ▁izo ▁muy ama bul ulu ▁na ▁mwi imig unda . ▁Wan hu ▁wah ita ▁kulo la ▁yala wilile . </s> cwe_Latn
+▁Yesu ▁vi ya onile ▁lung ' hus esa ▁lwa ▁wan hu ▁wok ongezeka ▁kuul ongozi ▁kum wake , ▁kamb waki la ▁ch iny am kela ▁ija , ▁" We ye ▁ch iny am kela ▁wa ▁ubu bu ▁na ▁un zi wi , ▁nok ulong ela ▁mula we ▁im wana ▁ino , ▁seke um wing ile ▁ka idi !" </s> cwe_Latn
+▁Ka wal ongela , ▁" Us ungu ▁uli ▁muna ▁umoyo ▁wangu ▁ni ▁mkulu ▁ng ' hani , ▁woda ha ▁kun ik oma . ▁Kal eni ▁hano ▁na ▁kal eni ▁meso . " </s> cwe_Latn
+▁Ul anga ▁na ▁isi ▁viza f osa , ▁mbali ▁m buli ▁zangu ▁ha ziza f osa ▁bule . </s> cwe_Latn
+▁" Kol onda ▁uch it ende ▁ch oni , ▁we ye ▁Yesu ▁wa ▁Na za leti ? ▁Vino ▁kwi za ▁kuch ikom eleza ? ▁Nok umanya ▁we ye ▁iyo ▁Ye lile ▁wa ▁Mulungu !" </s> cwe_Latn
+▁Ka wal ongela , ▁" H it eni ▁kuch ib ululu ▁chili ▁kuul ongozi . ▁Vond am wing ile , ▁mwiza ▁mu wona ▁mwana ▁chi hong we ▁ka fung igwa , ▁yang ' hali ▁han akwe lig wa ▁na ▁munhu . ▁M fung uleni ▁mum gale ▁hano . </s> cwe_Latn
+▁Vi wa fikile ▁mwi ik aye ▁ya ▁mkulu ▁wa ▁kaye ▁ya ▁kut os ela ▁yat ang igwe ▁Ya ilo , ▁Yesu ▁ka wona ▁tib wi liti b wili ▁na ▁ka hu lika ▁ny angi ▁na ▁ndilo . </s> cwe_Latn
+▁Nayo ▁ke zawa lag us ila ▁chi hele to ▁chik ulu ▁chili ▁uch any ha ▁chima lile ▁kut andi gwa . ▁Umo ▁m nis asa lile . " </s> cwe_Latn
+▁Yesu ▁kamb waki la ▁ch iny am kela ▁ija , ▁" Ny amala ! ▁Lawa ▁kwa ▁munhu ▁ino !" </s> cwe_Latn
+▁Na ▁one ▁z iso ▁jako ▁da hak utenda ▁u tende ▁vi hile , ▁ding ' ole . ▁Mu ha vu ▁kwingila ▁muna ▁U fal ume ▁wa ▁Mulungu ▁na ▁z iso ▁dim we , ▁kuf osa ▁kuwa ▁na ▁meso ▁ma idi ▁na ▁kw asiga ▁je han amu . </s> cwe_Latn
+▁Na ▁wan hu ▁wose ▁wa ▁dib ululu ▁waiting ' hana ▁hana ▁ul wi vi ▁lwa ▁ik aye . </s> cwe_Latn
+▁W amu uza , ▁" We ye ▁kot enda ▁vin hu ▁vino ▁kwa ▁uda hi ▁gani ? ▁Ye lihi ▁yak wing ' hile ▁uda hi ▁wa ▁kutenda ▁yayo ?" </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" N is onde leleni , ▁na ▁niye ▁ni zawa fundi zani ▁kuwa vu wa ▁wan hu . " </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" V ino ▁mwe ye ▁ivi ya ▁mwa bule ▁hakili ? ▁H amu vim any ile ▁bule ? ▁Ha bule ▁chinhu ▁cho chim wing ila ▁munhu ▁kulawa ▁kunze ▁cho chim ten da ▁y ambu le ▁mw iko . </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁ka wal ongela ▁wana hina ▁wake ▁wawal ongele ▁wan hu ▁wose ▁wa ig ole ▁m wii vi b umbi la - b umbi la , ▁wakale ▁hasi ▁hana ▁yam asa vu ▁mab isi . </s> cwe_Latn
+▁Wana hina ▁wake ▁wad ondola ▁ya ja ▁yam asiga vu ▁ya ▁mag ate ▁na ▁som ba ▁na ▁kum emeza ▁vig elo ▁longo ▁na ▁vidi . </s> cwe_Latn
+▁Na wo ▁wab wela ▁na ▁wawal ongela ▁wo wam son de lele ▁Yesu , ▁mbali ▁nawo ▁ivi ya ▁ha wat ogo le ▁bule . </s> cwe_Latn
+▁Ka wasa ▁ngolo le ▁wake , ▁kaz um ha ▁na ▁kum witi la ▁Yesu . </s> cwe_Latn
+▁Vi wa fikile ▁habe hi ▁na ▁Yel usalem u , ▁habe hi ▁na ▁mab ululu ▁ya ▁B esi f age ▁na ▁Bes aniya , ▁kuna ▁um ulima ▁wa ▁Mi za it uni , ▁Yesu ▁kawat uma ▁wana hina ▁wake ▁wa idi ▁wal ongole . </s> cwe_Latn
+▁Ka wal ongela , ▁" I no ▁iyo ▁damu ▁yangu ▁ya ▁lag ano ▁ik wit ika ▁kwa ▁ich imu ▁cha ▁wan hu ▁wengi . </s> cwe_Latn
+▁Muy ilo le , ▁m kale ▁meso ▁kwa ▁ich imu ▁ham vim anya ▁bule , ▁iz akuwa ▁zu waki . </s> cwe_Latn
+▁kau leka ▁ngolo le ▁wake , ▁kak im bila ▁mwa zi . </s> cwe_Latn
+▁Ye lihi ▁yo yam wing ' hile ▁Yohana ▁uda hi ▁wa ▁kub atiza ? ▁Mulungu ▁he bu ▁wan hu ? ▁Nil ong eleni . " </s> cwe_Latn
+▁Pilato ▁kal onga ▁ivo ▁kwa vi ya ▁ka vim anya ▁kuwa ▁wak ulu ▁wa ▁nh amb iko ▁waka la ▁wam ga lile ▁Yesu ▁kum wake ▁kwa ▁kumu won ela ▁mig ongo . </s> cwe_Latn
+▁Yesu ▁kawa pet ela ▁wan hu ▁m buli ▁yake ▁kwa ▁mas imwe ▁yam wenga ▁fana ▁ino , ▁ka wal ongela ▁vi ya ▁viwo da ha ▁ku vim anya . </s> cwe_Latn
+▁Pet ili ▁ha chim any ile ▁cha ▁kulonga ▁kwa vi ya ▁yeye ▁na ▁way age ▁waka la ▁wod umba ▁ng ' hani . </s> cwe_Latn
+▁Maf alisayo ▁wam ulong ela , ▁" L ola ! ▁Ha bali ▁wana hina ▁wako ▁wot enda ▁chinhu ▁ha chil ondeka ▁kuten dig wa ▁m wii ▁Is iku ▁ya ▁M hum ulo ?" </s> cwe_Latn
+▁Munhu ▁yo yose ▁yon da ▁yat ogo le ▁na ▁kub ati zig wa ▁ke zak ombo lig wa , ▁mbali ▁yon da ▁ya leme ▁kut og ola ▁ke zat agus igwa . </s> cwe_Latn
+▁Fana ▁vi y and ikile ▁mulo te zi ▁wa ▁Mulungu ▁Isaya , ▁" Mulungu ▁kal onga , ▁' N iz amt uma ▁m sang ' hani ▁wangu ▁kuul ongozi ▁wako , ▁iyo ▁keza it anda ▁nzila ▁yako .' </s> cwe_Latn
+▁Wan hu ▁wo wa woni le ▁dila wilile , ▁wawal ongela ▁wam wenga ▁ya ja ▁y amp atile ▁munhu ▁ija ▁yo yaka lile ▁na ▁viny am kela ▁na ▁m buli ▁za ▁ng ulu we . </s> cwe_Latn
+▁Vi i fikile ▁chi gul og ulo , ▁wana hina ▁wake ▁wam uh itila ▁na ▁wam ulong ela , ▁" Han hu ▁hano ▁ho chi li ▁ni ▁chu wala ▁mu hala , ▁na ▁sam bi ▁dis wa . </s> cwe_Latn
+▁Nd ugu ▁zake ▁va wa hu like , ▁wah ita ▁kum sola ▁kwa vi ya ▁wan hu ▁waka la ▁wol onga , ▁" K ok wing ili lwa !" </s> cwe_Latn
+▁kwa vi ya ▁kaka la ▁kowa fundi za ▁wana hina ▁wake . ▁Ka wal ongela , ▁" Ni ye , ▁Mwana ▁wa ▁Munhu ▁niz age lig wa ▁muna ▁yam akono ▁ya ▁wan hu , ▁nawo ▁we zan ik oma . ▁Mbali ▁zi haf osa ▁siku ▁n hatu , ▁ni zazi lib uka . " </s> cwe_Latn
+▁Yesu ▁kag endelela ▁ku wal ongela , ▁" Moya lema ▁mala gili zo ▁ya ▁Mulungu ▁mu ladi ▁mu win ze ▁ma fundi zo ▁ya ▁wan hu . </s> cwe_Latn
+▁Yesu ▁kalam uka , ▁kadib waki la ▁beho ▁na ▁kay along ela ▁maw imbi , ▁" Ny amala !" ▁Ma aba ho ▁beho ▁d ikala ▁h upi ▁na ▁kukala ▁zin ziwa . </s> cwe_Latn
+▁Kat osa , ▁" Tata , ▁Tati ▁yangu ! ▁Yose ▁yo dah ika ▁kum wako . ▁Un is ege zele ▁nh ungo ▁ino ▁ya ▁manh esa ▁kum wangu . ▁Mbali ▁si ▁fana ▁vin il onda ▁niye , ▁ila ▁vi ul onda ▁we ye . " </s> cwe_Latn
+▁Yesu ▁kaka la ▁kuch is ogo ▁mwi inga lawa , ▁kag ona ▁na ▁kad ika ▁dit wi ▁jake ▁mum to . ▁Wana hina ▁wamu lam usa , ▁wam ulong ela , ▁" M fundi za , ▁hug esa ▁che ye ▁vi chid angan ika ?" </s> cwe_Latn
+▁Ivo ▁Yohana ▁kala wilila ▁mu ich u wala , ▁kop etela ▁na ▁kob atiza . ▁Ka wal ongela ▁wan hu , ▁" L ekeni ▁u has anyi ▁wenu ▁na ▁mub ati zig we , ▁na ▁Mulungu ▁keza was ege zela ▁u has anyi ▁wenu . " </s> cwe_Latn
+▁Ba ho baho ▁mn dele ▁ija ▁ken uka ▁na ▁kand usa ▁kugenda . ▁Mn dele ▁iyo ▁kaka la ▁na ▁mi yaka ▁longo ▁na ▁midi . ▁Chin hu ▁icho ▁vi chila wilile , ▁wan hu ▁waz anywa ▁ng ' hani . </s> cwe_Latn
+▁Ch iny am kela ▁kang ela ▁chis ango ▁munhu ▁ija , ▁kali la ▁kwa ▁dizi ▁kulu , ▁na ▁kum ula wa . </s> cwe_Latn
+▁Wan hu ▁wam wenga ▁wal inga ▁mbe yu ▁zi han dig we ▁muna ▁imi wa . ▁Wo hu lika ▁m buli , </s> cwe_Latn
+▁I kala ▁ich ig ulog ulo ▁ya ▁Is iku ▁ya ▁Ku yis asala ▁kwa ▁Is iku ▁ing ' hali ▁ya ▁M hum ulo . </s> cwe_Latn
+▁Mbali ▁Yesu ▁kah induka , ▁kaw alola ▁wana hina ▁wake ▁na ▁kum bw akila ▁Pet ili , ▁" Seg ela ▁kuch is ogo ▁changu , ▁Luf y ende ! ▁Kwa vi ya ▁mag esa ▁yako ▁siyo ▁ya ▁Mulungu , ▁ila ▁ya ▁chi unhu !" </s> cwe_Latn
+▁Yesu ▁vi yaw onile ▁u hu wilo ▁wawo , ▁kam ulong ela ▁munhu ▁ija ▁ya holo lile , ▁" M wan angu , ▁kus ege zig wa ▁u has anyi ▁wako . " </s> cwe_Latn
+▁Na ▁niye ▁ni za wat uma ▁was enga ▁wangu ▁wa ▁kuul anga ▁kuwas ola ▁wa ja ▁woni was agu le ▁m wii ▁isi ▁yose , ▁kulawa ▁uban zi ▁umwe ▁mb aka ▁uban zi ▁um wenga . </s> cwe_Latn
+▁Wan hu ▁wose ▁we za we hila ▁kwa ▁ich imu ▁changu . ▁Mbali ▁yo yose ▁yon da ▁ya funye ▁umoyo ▁mb aka ▁kuu helelo ▁ke zak ombo lig wa . </s> cwe_Latn
+▁Yesu ▁kala va ▁dizi ▁kulu , ▁ma aba ho ▁kad angan ika . </s> cwe_Latn
+▁Mbali ▁Yesu ▁kale mela , ▁kam ulong ela , ▁" H ita ▁uk aye ▁kwa ▁ndugu ▁zako ▁uka wal ongele ▁ya ja ▁yose ▁M nde wa ▁yo yak ut endele ▁na ▁vi yaku won ele ▁uba zi . " </s> cwe_Latn
+▁Maf alisayo ▁wam wenga ▁wam witi la ▁Yesu ▁na ▁kum geza , ▁wamu uza , ▁" C hil ongele , ▁vino ▁vino ga ▁mulume ▁kumu leka ▁muke ▁wake ?" </s> cwe_Latn
+▁na ▁yo yose ▁kum wenu ▁yol onda ▁kuwa ▁wa ▁mwand uso , ▁kol ondeka ▁yawe ▁mtum wa ▁wa ▁wose . </s> cwe_Latn
+▁Ha bule ▁chinhu ▁munhu ▁cho yo da ha ▁kula va ▁ku up ata ▁ug ima ▁wake ▁ka idi . </s> cwe_Latn
+▁M eso ▁mun ayo ▁mbali ▁hamu wona ? ▁Mag ut wi ▁mun ayo ▁mbali ▁hamu hu lika ? ▁Wala ▁ham uk umbuka ? </s> cwe_Latn
+▁Lus ita ▁ulo ▁ulo ▁ul ung ' hus esa ▁lwa ▁wan hu ▁vi wamu woni le ▁Yesu , ▁waz anywa ▁ng ' hani ▁na ▁wam kim bili la ▁kumu lam sa . </s> cwe_Latn
+▁Ka wal ongela , ▁" K aleni ▁meso ▁na ▁mt ose ▁sek em wi ze ▁ku ge zig wa . ▁Mu he ▁wol onda ▁kutenda ▁yan ogile , ▁mbali ▁luku li ▁lwa bule ▁lu da bwa . " </s> cwe_Latn
+▁Wan hu ▁waz anywa ▁ng ' hani ▁na ▁wai uza ▁wenye wo , ▁" Chin hu ▁gani ▁chino ? ▁Y ano ▁ma fundi zo ▁ya ▁sam bi ? ▁Munhu ▁ino ▁kana ▁uda ha ▁wa ▁kula va ▁viny am kela , ▁nawo ▁w omu hu lika !" </s> cwe_Latn
+▁M win uke , ▁chi h ite ! ▁Lol eni ▁ija ▁y oni hinduka ▁kam ma be hi !" </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kalo la ▁kuul anga , ▁kab wele za ▁umu he ▁na ▁kum ulong elela ▁munhu ▁iyo , ▁" E fata !" ▁F amb ulo ▁jake , ▁" V ug uka !" </s> cwe_Latn
+▁Yesu ▁kawa uza ▁wana hina ▁wake , ▁" Mo ib ishila ▁ch oni ▁na ▁wawo ?" </s> cwe_Latn
+▁Wan hu ▁wengi ▁waka la ▁wam zung uluka . ▁Na wo ▁wam ulong ela , ▁" M ami ▁yake ▁yako ▁na ▁wand ugu ▁zako ▁wak unze ▁woku za hila . " </s> cwe_Latn
+▁Lus ita ▁lw ingi ▁w ageza ▁kum zing ili za , ▁mbali ▁ka id umula ▁miny ololo ▁vi wam zing ili zaga ▁muna ▁yam akono ▁yake ▁na ▁kuvi bena ga - bena ga ▁viz uma ▁vi wam zing ili zaga ▁muna ▁yam ag ulu ▁yake . ▁Ha bule ▁munhu ▁yo yada hile ▁kum g wila . </s> cwe_Latn
+▁Mbali ▁Yesu ▁kaum anya ▁ud elen ya ▁wawo . ▁Kawa uza , ▁" M bona ▁mw on ige za ? ▁Nga lil eni ▁hela ▁ni ilo le . " </s> cwe_Latn
+▁Fana ▁uf alume ▁waha ig ola ▁wenye wo , ▁uf alume ▁uwo ▁uz agwa . </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" M ulo te zi ▁wa ▁Mulungu ▁koh ishim igwa ▁chi la ▁han hu , ▁kas olo ▁mwi isi ▁yake ▁mwenye wo , ▁na ▁kwa ▁ndugu ▁zake ▁na ▁kwa ▁wan hu ▁wa ▁ul ukolo ▁lw ake ▁mwenye wo . " </s> cwe_Latn
+▁Ka wal ongela , ▁" Mwa hah ita , ▁sek em uso le ▁chinhu , ▁kas olo ▁mh ome ▁mu hala . ▁Sek em uso le ▁gate ▁na ▁chig elo ▁na ▁hela ▁mwi chib indo . </s> cwe_Latn
+▁Pan zia ▁dika lile ▁m wii ▁K aye ▁ya ▁Mulungu ▁did eg eka ▁vi hande ▁vidi ▁kulawa ▁kuch any ha ▁mb aka ▁hasi . </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kal utanga ▁ka idi ▁ul ung ' hus esa ▁lwa ▁wan hu ▁na ▁kal ulong ela , ▁" N he gele zeni ▁mose ▁na ▁mu vim anye . </s> cwe_Latn
+▁Wam gala ▁kwa ▁Yesu . ▁Ch iny am kela ▁vi yamu wone ▁Yesu , ▁baho baho ▁kam g uma ▁chis ango ▁mwana ▁ija , ▁mwana ▁ija ▁kag wa ▁hasi ▁ko ib im bil isa ▁kuno ▁kola va ▁h ovu ▁mu umul omo . </s> cwe_Latn
+▁Yesu ▁vi yaka lile ▁ya id umwe , ▁wana hina ▁wake ▁longo ▁dim we ▁na ▁wa idi ▁wam uh itila ▁na ▁kum ulong ela ▁yawa f ambu lile ▁mas imwe ▁yayo . </s> cwe_Latn
+▁Yesu ▁kawa lamula , ▁ka wal ongela , ▁" M wi ilo le ! ▁Muy iteg anye ▁na ▁l usu ▁da ▁Maf alisayo ▁na ▁da ▁Hel ode !" </s> cwe_Latn
+▁Ha bule ▁chinhu ▁cho chim wing ila ▁munhu ▁kulawa ▁kunze ▁chi chida ha ▁kum ten da ▁y ambu le ▁mw iko . ▁Mbali ▁chi ya ▁cho chila wa ▁mg ati ▁mwa ▁munhu ▁nii cho ▁chi chida ha ▁kum ten da ▁y ambu le ▁mw iko . " </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kas eg ela ▁han hu ▁haja ▁na ▁kwita ▁Yude ya , ▁na ▁kukan ha ▁l wanda ▁lwa ▁Yol od ani . ▁Lung ' hus esa ▁lwa ▁wan hu ▁lum witi la , ▁nayo ▁kawa fundi za ▁fana ▁v ayat endaga . </s> cwe_Latn
+▁Chi la ▁siku ▁n ikala ▁hamwe ▁na ▁mwe ye , ▁n ikala ▁no fundi za ▁m wii ▁K aye ▁ya ▁Mulungu , ▁ham nig wilile . ▁Mbali ▁leka ▁Maandiko ▁Ye lile ▁yat im ie . " </s> cwe_Latn
+▁Vi waka lile ▁mwi inzi la , ▁way il ongela , ▁" Y eli hi ▁yon da ▁yach ib im bil isile ▁dib we ▁diya ▁ham ul omo ▁ha ▁di leme ?" </s> cwe_Latn
+▁Munhu ▁ija ▁kalo la ▁kuch any ha , ▁kal onga , ▁" Ona ! ▁No wona ▁wan hu , ▁mbali ▁wal inga ▁mib iki ▁yog enda . " </s> cwe_Latn
+▁Kamu lamba ▁ng ' hani ▁Yesu ▁seke yawa w inge ▁kunze ▁mwa ▁isi ▁ija . </s> cwe_Latn
+▁Lus ita ▁ulo ▁ulo ▁Yesu ▁vi ya hulum uke ▁mwi inga lawa , ▁kait ing ' ha ▁na ▁munhu ▁yeli ▁na ▁ch iny am kela ▁yo yala wile ▁kuna ▁ivi leme ▁kowa wan dig wa ▁wan hu . </s> cwe_Latn
+▁Wam wenga ▁wand usa ▁kum tem ela ▁mate , ▁wam gub ika ▁yam eso , ▁na ▁wam towa ▁na ▁kum ulong ela , ▁" L agula , ▁ye lihi ▁yak uto wile !" ▁Ivi ya ▁waka lizi ▁wam sola ▁na ▁kum towa ▁mang ' huwa . </s> cwe_Latn
+▁Pet ili ▁kam ulong ela ▁Yesu , ▁" M fundi za , ▁vino ga ▁che ye ▁kukala ▁ba hano . ▁Leka ▁chiz enge ▁vize we ▁vitatu , ▁chimwe ▁chako ▁na ▁chim wenga ▁cha ▁Musa ▁na ▁chim wenga ▁cha ▁Eliya . " </s> cwe_Latn
+▁Yesu ▁hada hile ▁kutenda ▁mau za uza ▁yo yose , ▁ila ▁kaw ek ila ▁mak ono ▁wat amu ▁wad odo ▁na ▁kuwa hon yeza . </s> cwe_Latn
+▁Nd ugu ▁ke zam uh induka ▁ndugu ▁yake ▁yak om igwe , ▁na ▁tata ▁ke zam uh induka ▁mwana ge ▁yak om igwe . ▁Wana ▁we zawa lema ▁na ▁kuwak oma ▁tati ▁zawo ▁na ▁mami ▁zawo . </s> cwe_Latn
+▁Wana ake ▁wam we ga ▁waka la ▁w olola ▁kwa ▁kutali . ▁Wam wenga ▁wawo ▁waka la ▁Maliya ▁Mag idal ena , ▁na ▁Maliya ▁mami y ake ▁yawo ▁Yakobo ▁nd odo ▁na ▁Yosefu , ▁hamwe ▁na ▁Sal ome . </s> cwe_Latn
+▁mu ladi , ▁W alo le , ▁mbali ▁seke wa wone , ▁wahu like , ▁mbali ▁seke wa vim anye , ▁Kwa vi ya ▁waha vim anya ▁woda ha ▁kum bwe lela ▁Mulungu , ▁naye ▁kez adaha ▁kuwas ege zela ▁u has anyi ▁wawo . " </s> cwe_Latn
+▁Yohana ▁kaya wala ▁chi walo ▁ch iten dig we ▁kwa ▁mazo ya ▁ya ▁ng amiya ▁na ▁mk wiji ▁wa ▁mb ende ▁mch ig udi ▁chake , ▁na ▁kaka la ▁koja ▁nz ige ▁na ▁uki ▁wa ▁mwi imba go . </s> cwe_Latn
+▁Wan hu ▁wam wenga ▁waka lile ▁baho ▁weh ilwa ▁na ▁way il ongela , ▁" Ha bali ▁koya ban anga ▁vino ▁ma vuta ▁yano ▁ya ▁bei ▁ng ' hulu ▁ng ' hani ? </s> cwe_Latn
+▁Is iku ▁ya ▁M hum ulo ▁vid ima lile , ▁Maliya ▁Mag idal ena , ▁na ▁Maliya ▁mami y ake ▁yake ▁Yakobo , ▁na ▁Sal ome ▁wag ula ▁ma vuta ▁ya ▁kun ung ' hila ▁mu ladi ▁wak alub ob ode ▁luku li ▁lwa ▁Yesu . </s> cwe_Latn
+▁Siku ▁isonde lele ▁im ito ot ondo ▁ng ' hani , ▁Yesu ▁kalam ka ▁na ▁kus eg ela ▁uk aye . ▁Kala wa ▁hanze ▁mudi bul ulu , ▁kah ita ▁han hu ▁hali bule ▁wan hu , ▁uko ▁kat osa . </s> cwe_Latn
+▁Mbali ▁wali mi ▁wa ja ▁wa il ongela , ▁' I no ▁iyo ▁mu hazi . ▁Leka ▁chim k ome ▁na ▁u hazi ▁wiz akuwa ▁wetu .' ▁" </s> cwe_Latn
+▁Maliya ▁Mag idal ena ▁na ▁Maliya ▁mami y ake ▁yake ▁Yosefu ▁wa haw ona ▁han hu ▁haw ik igwe ▁luku li ▁lwa ▁Yesu . </s> cwe_Latn
+▁" C hil ongele ▁m buli ▁izo ▁zi zala wilila ▁zu waki , ▁yayo ▁yose ▁ye zala wilila ▁zu waki ? ▁Na ▁vi lag uso ▁vi lihi ▁v onda vi lag use ▁kuwa ▁yayo ▁yose ▁ya ▁mma be hi ▁kula wilila ?" </s> cwe_Latn
+▁Munhu ▁yo yose ▁yot enda ▁ya ja ▁yom n oge za ▁Mulungu , ▁iyo ▁ndugu ▁yangu ▁na ▁lum bu ▁j angu ▁na ▁mami ▁yangu . " </s> cwe_Latn
+▁Lus ita ▁ulo ▁ulo ▁wana hina ▁walo la ▁kuno ▁na ▁kuno , ▁haw amu wone ▁munhu ▁im wenga ▁ila ▁Yesu ▁ya id umwe . </s> cwe_Latn
+▁Ba ho baho ▁munhu ▁iyo ▁kand usa ▁kuhu lika ▁na ▁l udan ha ▁lwa ▁lulimi ▁lw ake ▁lu lege la , ▁kand usa ▁kulonga ▁go ya . </s> cwe_Latn
+▁Ut eme lig we ▁mate ▁uf alume ▁wo uk wiza ▁wa ▁wasa ho ▁yetu ▁Daudi . ▁N hog olwa ▁Mulungu ▁yeli ▁Kuch any ha ▁ng ' hani ▁kuul anga !" </s> cwe_Latn
+▁Mbe yu ▁yo i han dig we ▁na ▁mu handi ▁ni ▁m buli ▁ya ▁Mulungu . </s> cwe_Latn
+▁Wa wa leka ▁wan hu ▁wose ▁weli ▁haja , ▁wana hina ▁weng ila ▁mwi inga lawa ▁iy eng ile ▁Yesu ▁na ▁wand usa ▁kus eg ela . ▁Kuka la ▁nga lawa ▁zim wenga . </s> cwe_Latn
+▁Yesu ▁kah ita ▁ka idi ▁mum gwa zog wazo ▁wa ▁ba hali . ▁Lung ' hus esa ▁luk ulu ▁lwa ▁wan hu ▁lum wi zila , ▁naye ▁kand usa ▁kuwa fundi za . </s> cwe_Latn
+▁" Ha bule ▁munhu ▁yoy okan ha ▁chik upo ▁cha ▁walo ▁da ▁sam bi ▁na ▁kuch ika ▁m wii ▁chi walo ▁cha ▁umwaka . ▁Kwa vi ya ▁ya hat enda ▁ivo , ▁chik upo ▁cha ▁sam bi ▁chi zach iban anga ▁chi walo ▁cha ▁umwaka , ▁na ▁han hu ▁had eg eke ▁he zak onge zek ela . </s> cwe_Latn
+▁Kuy amanya ▁mala gili zo , ▁seke uk ome ▁na ▁seke ut ende ▁uz inzi ▁na ▁seke uba we ▁na ▁seke ub unze ▁na ▁seke uv wi ze ▁na ▁u wat eg ele ze ▁tati ▁yako ▁na ▁mami ▁yako . </s> cwe_Latn
+▁Kal onga ▁kwa ▁kuila ha , ▁" No ila ha , ▁cho chose ▁ch onda ▁un ip ule ▁ni zak wing ' ha , ▁hata ▁nusu ▁ya ▁uf alume ▁wangu !" </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" Mu hu wile ▁Mulungu . </s> cwe_Latn
+▁Vi ya hu like ▁m buli ▁za ▁Yesu , ▁kaf osa ▁mg ati ▁mu ulung ' hus esa , ▁kam son de lela ▁Yesu ▁kuch is ogo ▁na ▁kud alisa ▁walo ▁jake , </s> cwe_Latn
+▁Wan hu ▁wam wenga ▁wam ga lila ▁Yesu ▁wana ▁w adood odo ▁ya wek ile ▁mak ono ▁yake , ▁mbali ▁wana hina ▁wa wab waki la ▁wan hu ▁wa ja . </s> cwe_Latn
+▁Lelo ▁hit eni ▁muka wal ongele ▁wana hina ▁wake ▁hamwe ▁na ▁Pet ili ▁kuwa , ▁' Yesu ▁ka wal ongo lela ▁Gali laya , ▁uko ▁mwi z amu wona ▁fana ▁vaya wal ongele .' ▁" </s> cwe_Latn
+▁Kam uh itila , ▁kam wam ha ▁mkono ▁na ▁kum win ula . ▁Ut amu ▁um ula wa , ▁naye ▁kand usa ▁kuwas ang ' hani la . </s> cwe_Latn
+▁Vi ya vi ya ▁wak ulu ▁wa ▁nh amb iko ▁na ▁wa fundi za ▁Ma lagi li zo ▁wam ke weza ▁Yesu , ▁way il ongela , ▁" Ka wa hon ya ▁wam wenga , ▁mbali ▁hada ha ▁kuyi hon ya ▁mwenye wo ! </s> cwe_Latn
+▁Zim wenga ▁z ila ga lila ▁muna ▁ulu we ▁hali ▁na ▁ul ongo ▁chid ogo . ▁Z ota ▁h ima ▁h ima ▁kwa vi ya ▁ul ongo ▁uka la ▁chid ogo . </s> cwe_Latn
+▁Yesu ▁kay amanya ▁yo waka lile ▁woi uz agiza . ▁Ka wal ongela , ▁" M bona ▁moi uz agiza ▁wenye wo ▁kwa vi ya ▁mwa bule ▁yam ag ate ? ▁M ng ' hali ▁ham n alola ▁wala ▁ham na vim anya ? ▁Vino ▁mizo yo ▁yenu ▁ing ' hali ▁mid ala ? </s> cwe_Latn
+▁Wa wo ▁wam wid ika ▁" Musa ▁kach il ongela ▁kuwa ▁mulume ▁koda ha ▁kum wing ' ha ▁chi buwa ▁cha ▁ny asa ▁na ▁kumu leka ▁muke ▁wake . " </s> cwe_Latn
+▁Wak ulu ▁wa ▁nh amb iko ▁na ▁wa fundi za ▁Ma lagi li zo ▁va wa hu like ▁yayo , ▁wand usa ▁kulonda ▁nzila ▁ya ▁kum koma ▁Yesu . ▁Mbali ▁waka la ▁wam d umba ▁kwa vi ya ▁lung ' hus esa ▁lose ▁luk ang anyika ▁kwa ▁ma fundi zo ▁yake . </s> cwe_Latn
+▁Yohana ▁vay ek igwe ▁m wii chi fungo , ▁Yesu ▁kah ita ▁kuna ▁um ko wa ▁wa ▁Gali laya ▁kuwa pet ela ▁wan hu ▁M buli ▁In ogile ▁ya ▁Mulungu . </s> cwe_Latn
+▁Wa wa wona ▁wana hina ▁wake ▁wam wenga ▁wo ja ▁ndiya ▁kuno ▁mak ono ▁hay ana wig we , ▁hawana wile ▁mak ono ▁fana ▁Maf alisayo ▁vi wol onda ▁wan hu ▁wana we . </s> cwe_Latn
+▁Yesu ▁kawa uza , ▁" Na ▁mwe ye ▁mw olonga ▁niye ▁ni ▁ye lihi ?" ▁Pet ili ▁kam wid ika , ▁" We ye ▁ni ▁Ch ilis ito . " </s> cwe_Latn
+▁M nde wa ▁Yesu ▁vi yak om ele ze ▁kulonga ▁na ▁wana hina ▁wake , ▁kaso lig wa ▁kuul anga , ▁na ▁kaka la ▁uban zi ▁wa ▁kul ume ▁wa ▁Mulungu . </s> cwe_Latn
+▁We ▁ka idi ▁kam sola ▁mg ane ▁iyo , ▁nayo ▁kad angan ika ▁ivi ya ▁ha lekile ▁mwana . ▁Ila wilila ▁ivo ▁ivo ▁kwa ▁ndugu ▁we ▁ket atu . </s> cwe_Latn
+▁Na ▁ik aye ▁yaha ig ola gola ▁yenye wo , ▁ik aye ▁iyo ▁iz agwa . </s> cwe_Latn
+▁Fana ▁munhu ▁yah amb on ela ▁ch inya la ▁niye ▁na ▁m buli ▁zangu ▁muna ▁u lelwa ▁uno ▁wa ▁uz inzi ▁na ▁u has anyi , ▁niye , ▁Mwana ▁wa ▁Munhu ▁niz amu won ela ▁ch inya la ▁munhu ▁iyo ▁vond ani ze ▁muna ▁ut un hi zo ▁wa ▁Tati ▁yangu , ▁hamwe ▁na ▁was enga ▁wa ▁kuul anga ▁we lile . </s> cwe_Latn
+▁W amu ya wala ▁chi walo ▁cha ▁langi ▁ya ▁z amba lau , ▁na ▁wal uka ▁komb elo ▁da ▁mf alume ▁dod il uk igwe ▁na ▁mi wa , ▁wad ika ▁muna ▁id it wi ▁da ▁Yesu . </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" M we ye ▁weng ' heni ▁ndiya ▁waje . " ▁W amu uza , ▁" V ino ▁chi h ite ▁chik agu le ▁mag ate ▁ya ▁hela ▁nyingi ▁ng ' hani ▁chi weng ' he ▁waje ?" </s> cwe_Latn
+▁Na ▁mwe ye ▁mwi zada ha ▁kula va ▁viny am kela . " </s> cwe_Latn
+▁Siku ▁isonde lele ▁va waka lile ▁wo lawa ▁Bes aniya , ▁Yesu ▁kaka la ▁na ▁nzala . </s> cwe_Latn
+▁Yesu ▁ka wal anga ▁hamwe ▁na ▁ku wal ongela , ▁" M uv imanya ▁wa ja ▁wo woneka ▁kuwa ▁wata wala ▁wa ▁wan hu ▁weli ▁siyo ▁Wayahudi ▁wo ta wala ▁kwa ▁nguvu , ▁na ▁walang ulizi ▁wawo ▁wana ▁uda hi ▁mkulu ▁kwa ▁wan hu . </s> cwe_Latn
+▁Mbali ▁niye ▁sida ha ▁kus agula ▁ye lihi ▁yakale ▁uban zi ▁wangu ▁wa ▁kul ume ▁he bu ▁wa ▁kum oso . ▁Han hu ▁baho ▁wez akala ▁wa ja ▁was agu lig we ▁na ▁Mulungu . " </s> cwe_Latn
+▁" Ha bule ▁munhu ▁yo da ha ▁kwingila ▁mwi ik aye ▁ya ▁munhu ▁yeli ▁na ▁nguvu ▁na ▁kusola ▁vin hu ▁vake , ▁mb aka ▁yand use ▁kum funga ▁munhu ▁iyo ▁yali ▁na ▁nguvu . ▁Ma aba ho ▁kez adaha ▁kusola ▁vin hu ▁vake . </s> cwe_Latn
+▁Yakobo ▁na ▁ndugu ▁yake ▁Yohana , ▁wana ▁wa ▁Zeb ed ayo , ▁wano ▁kaw eng ' ha ▁zina ▁Bo ane lige , ▁famb ulo ▁jake ▁" Wan hu ▁wa ▁Ng ' huwa , " </s> cwe_Latn
+▁Yesu ▁na ▁wana hina ▁wake ▁waka la ▁mwi inzi la , ▁wo ita ▁Yel usalem u . ▁Yesu ▁kaka la ▁ka wal ongo lela , ▁wana hina ▁wake ▁wa zany igwa , ▁na ▁wan hu ▁was onde lele ▁weng ilwa ▁na ▁lud umbo . ▁Yesu ▁kawas ola ▁ka idi ▁kum gwa zo ▁wa ja ▁wana hina ▁longo ▁na ▁wa idi , ▁kand usa ▁ku wal ongela ▁ya ja ▁yon da ▁yam ula wilile . </s> cwe_Latn
+▁Yohana ▁kam ulong ela ▁Yesu , ▁" M fundi za , ▁ch imu wona ▁munhu ▁imwe ▁kola va ▁ch iny am kela ▁kwa ▁zina ▁jako . ▁Che ye ▁ching ' oma ▁kwa vi ya ▁siyo ▁miy etu ▁vichi li . " </s> cwe_Latn
+▁Yohana ▁Mb ati zi ▁kaka la ▁kom ulong ela ▁Hel ode , ▁Ma lagi li zo ▁yol onga , ▁" Ha vil ondeka ▁bule ▁we ye ▁kum sola ▁mke ▁wa ▁sek ulu ▁wako . " </s> cwe_Latn
+▁Kam wam ha ▁mkono ▁na ▁kum ulong ela , ▁" T ali ta , ▁ko umu !" ▁F amb ulo ▁jake , ▁" M n dele , ▁nok ulong ela ▁lam ka !" </s> cwe_Latn
+▁Munhu ▁imwe ▁mu ja ▁mu ulung ' hus esa ▁lwa ▁wan hu ▁kam wid ika , ▁" M fundi za , ▁niku ga lila ▁mwan angu , ▁kana ▁ch iny am kela ▁yam ten dile ▁kuwa ▁bubu . </s> cwe_Latn
+▁Kwa vi ya ▁muna ▁zis iku ▁izo ▁kwi z akuwa ▁maga yo ▁makulu ▁ng ' hani , ▁yayo ▁yang ' hali ▁kula wilila ▁kus ongela ▁mwand uso ▁Mulungu ▁vi yal um bile ▁isi ▁yose ▁mb aka ▁sam bi , ▁na ▁h aye zala wilila ▁ka idi ! </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" V ino ▁wan hu ▁wag onek igwe ▁kud id ug ila ▁da ▁kusola ▁woda ha ▁kufunga ▁kuja ▁chip indi ▁munhu ▁yo yos ola ▁ka hamwe ▁nawo ? ▁Ha wada ha ▁kufunga ▁kuja . </s> cwe_Latn
+▁Yesu ▁kam ulong ela , ▁" M wan angu , ▁u hu wilo ▁wako ▁uku hon yeza . ▁Hita ▁kwa ▁tin di walo , ▁na ▁ut amu ▁wako ▁uh ona . " </s> cwe_Latn
+▁Yesu ▁kas eg ela ▁baho , ▁kah ita ▁kudi bul ulu ▁jake ▁na ▁wana hina ▁wake ▁wam son de lela . </s> cwe_Latn
+▁Mbali ▁zim wenga ▁z ila ga lila ▁han hu ▁hana ▁ud ongo ▁un ogile . ▁Mino ga ▁yo ta , ▁iku la ▁na ▁ku lela , ▁zim wenga ▁zile la ▁mal ongo ▁matatu , ▁zim wenga ▁zile la ▁mal ongo ▁mas ita , ▁na ▁zim wenga ▁zile la ▁gana . " </s> cwe_Latn
+▁Kam sola ▁im wana ▁md odo , ▁kam wimi za ▁hagati ▁yawo . ▁Ma aba ho ▁kamu hag atila ▁na ▁ku wal ongela , </s> cwe_Latn
+▁Mwan amke ▁iyo ▁kaka la ▁Mu yun ani , ▁ya lek igwe ▁mudi bul ulu ▁da ▁Silo fo inike ▁uko ▁Sili ya . ▁Kamp ula ▁Yesu ▁yam ula ve ▁mn dele ▁wake ▁ch iny am kela . </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁mu ilo le , ▁munhu ▁seke ye ze ▁yawa v wi zile . </s> cwe_Latn
+▁Mbali ▁vi walo lile , ▁wa wona ▁dib we ▁diya ▁kulu ▁dib im bilis igwa ▁mwaka . </s> cwe_Latn
+▁Wan hu ▁wengi ▁we zak wiza ▁na ▁kulonga , ▁niye ▁nii yo ! ▁Na ▁we zawa v wi zila ▁wengi . </s> cwe_Latn
+▁Ivi ya ▁wos agula ▁vig oda ▁va ▁kuul ongozi ▁m wii ▁zik aye ▁za ▁kut os ela , ▁na ▁kukala ▁han hu ▁han ogile ▁kuna ▁yam ad ug ila . </s> cwe_Latn
+▁Vi ya gende lele ▁ha ul ongozi ▁chid ogo , ▁kawa ona ▁Yakobo ▁na ▁Yohana , ▁wana ▁wa ▁Zeb ed ayo . ▁W akala ▁mwi inga lawa , ▁wo zit enda ▁go ya ▁nya vu ▁zawo . </s> cwe_Latn
+▁Yesu ▁na ▁wana hina ▁wake ▁wah ita ▁mudi bul ulu ▁da ▁Kap elina umu . ▁Is iku ▁ya ▁M hum ulo ▁vii fikile , ▁Yesu ▁keng ila ▁m wii ▁K aye ▁ya ▁kut os ela , ▁kand usa ▁ku fundi za . </s> cwe_Latn
+▁Vi wama lile ▁kukan ha ▁di lamba , ▁wa fika ▁isi ▁ya ▁Genesa leti , ▁baho ▁wa imiza ▁nga lawa ▁yawo . </s> cwe_Latn
+▁Ba ho baho ▁nz ogolo ▁keka ▁kwa ▁umwan za ▁we ▁ka idi . ▁Pet ili ▁kak umbuka ▁vi ya ▁Yesu ▁v ayam ulong ele , ▁" Ich ilo ▁cha ▁diy elo , ▁yang ' hali ▁nz ogolo ▁han akw ika ▁mi yan za ▁midi , ▁kwi zani bela ▁mi yan za ▁mitatu . " ▁Kand usa ▁kulila . </s> cwe_Latn
+▁Mw and uso ▁wa ▁M buli ▁In ogile ▁ya ▁Yesu ▁Ch ilis ito , ▁Mwana ▁wa ▁Mulungu . </s> cwe_Latn
+▁Kau wona ▁mb iki ▁wa ▁mt ini ▁kwa ▁kutali ▁uli ▁na ▁may ani ▁mengi . ▁Ka ug endela ▁yaw one ▁fana ▁koda ha ▁kupata ▁nh ini . ▁Mbali ▁vi ya fikile , ▁haw onile ▁tini , ▁ila ▁may ani ▁mu hala , ▁kwa vi ya ▁ha uka lile ▁ms imu ▁wa ▁nh ini . </s> cwe_Latn
+▁Kwa ▁ich imu ▁munhu ▁yol onda ▁kuk ombola ▁ug ima ▁wake ▁mwenye wo ▁ke zawa giza , ▁mbali ▁munhu ▁yo wagi za ▁ug ima ▁wake ▁kwa ▁sama ▁yangu , ▁na ▁kwa ▁sama ▁ya ▁M buli ▁In ogile , ▁munhu ▁iyo ▁keza uk ombola . </s> cwe_Latn
+▁Wa wala va ▁viny am kela ▁wengi , ▁na ▁wa wab oboda ▁ma vuta ▁wan hu ▁wengi ▁wo waka lile ▁wat amu ▁na ▁kuwa hon yeza . </s> cwe_Latn
+▁Ma aba ho ▁wan hu ▁we zani ona ▁niye , ▁Mwana ▁wa ▁Munhu ▁na heza ▁mma w ingu ▁kwa ▁uda hi ▁mkulu ▁na ▁ut un hi zo . </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" M bona ▁mw ok wiza ▁na ▁ma zele ▁na ▁mal ungu ▁kun ig wila ▁niye , ▁fana ▁niye ▁mba vi ? </s> cwe_Latn
+▁Lus ita ▁ulo ▁ulo , ▁mf alume ▁kam ula gi liza ▁m kali zi ▁kudi gala ▁dit wi ▁da ▁Yohana . ▁M kali zi ▁kah ita ▁kuna ▁ichi fungo ▁na ▁kum kan ha ▁Yohana ▁id it wi . </s> cwe_Latn
+▁Wa ja ▁wana hina ▁longo ▁viwa hu like ▁chi ya ▁chi wa pu lile ▁Yakobo ▁na ▁Yohana , ▁wawa won ela ▁lud oko . </s> cwe_Latn
+▁" Nowa on ela ▁uba zi ▁wan hu ▁wano , ▁ich imu ▁waka la ▁na ▁niye ▁siku ▁n hatu , ▁na ▁sam bi ▁wa bule ▁ndiya . </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁hal ondi le ▁munhu ▁yo yose ▁yam son de lele , ▁ila ▁Pet ili ▁na ▁Yakobo ▁na ▁Yohana , ▁ndugu ▁yake ▁Yakobo . </s> cwe_Latn
+▁Ma aba ho ▁kaw alola ▁wan hu ▁wam zung uluke ▁na ▁kulonga , ▁" M ami ▁yangu ▁na ▁wand ugu ▁zangu ▁iw ano ▁waba hano ! </s> cwe_Latn
+▁Mbali ▁wan hu ▁wo wa onile ▁vi waka lile ▁wos eg ela , ▁wa vim anya . ▁Ivo ▁wah ita ▁kulawa ▁mab ululu ▁yose , ▁wak im bila ▁na ▁wawal ongo lela ▁kufika ▁Yesu ▁na ▁wana hina ▁wake . </s> cwe_Latn
+▁Kawa pet ela , ▁" Ku chis ogo ▁changu ▁ke zak wiza ▁munhu ▁yeli ▁mkulu ▁kuf osa ▁niye . ▁Ni ye ▁sif aya ▁hata ▁kwi inama ▁na ▁kuf ungula ▁nza bi ▁za ▁vila tu ▁vake . </s> cwe_Latn
+▁Wana hina ▁wa ja ▁wah ita ▁na ▁kumu wona ▁mwana ▁chi hong we ▁ka fung igwa ▁hana ▁ul wi vi ▁wa ▁kaye . ▁V aw aka lile ▁wom fung ula , </s> cwe_Latn
+▁Wam wing ' ha ▁di vai ▁iti b wi liz igwe ▁na ▁chiw ope ▁cha ▁man emane , ▁mbali ▁Yesu ▁ka lema ▁ku ing ' wa . </s> cwe_Latn
+▁Chip indi ▁icho , ▁kukala ▁na ▁munhu ▁yot ang igwa ▁Bala ba . ▁Iyo ▁kaka la ▁ka fung igwa ▁hamwe ▁na ▁wan hu ▁wam we ga ▁kwa ▁kutenda ▁us onga ▁mag ida ▁na ▁kuwak oma ▁wan hu ▁vik uka lile ▁na ▁mag od og odo . </s> cwe_Latn
+▁Yesu ▁kal onga ▁ivo ▁kwa ▁ich imu ▁wan hu ▁waka la ▁wol onga , ▁" Kana ▁ch iny am kela . " </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁ka wal ongela ▁wana hina ▁wake , ▁" Ha bali ▁mod umba ? ▁Mwa bule ▁u hu wilo ▁mb aka ▁sam bi ?" </s> cwe_Latn
+▁Na ▁wawo ▁we zani ze ha ▁kuno ▁won item ela ▁mate ▁kuno ▁won ito wa ▁mi bala ti , ▁ma aba ho ▁we zan ik oma . ▁Mbali ▁siku ▁ya ▁tatu ▁ni zazi lib uka . " </s> cwe_Latn
+▁Mbali ▁Yesu ▁hed ike ▁m buli , ▁Pilato ▁kaz anywa . </s> cwe_Latn
+▁Hel ode ▁kaka la ▁kom d umba ▁Yohana ▁kwa vi ya ▁ka vim anya ▁Yohana ▁kaka la ▁munhu ▁yan ogile ▁na ▁ye lile , ▁ivo ▁kaka la ▁kom ka liza . ▁K akala ▁kon og elwa ▁kum teg eleza , ▁ingawa ▁kaka la ▁kony ul uluka ▁ng ' hani ▁chi la ▁vi yama lile ▁kum teg eleza . </s> cwe_Latn
+▁Mwana ▁wa ▁Munhu ▁kez ad angan ika ▁fana ▁Maandiko ▁vay andik igwe . ▁Mbali ▁keza gaya ▁ng ' hani ▁munhu ▁ija ▁yom uh induka ▁Mwana ▁wa ▁Munhu . ▁I ha wile ▁mu ha vu ▁fana ▁munhu ▁iyo ▁sig ambe ▁ye lek igwe !" </s> cwe_Latn
+▁Ba ho baho ▁munhu ▁yo yaka lile ▁na ▁ch iny am kela ▁keng ila ▁m wii ▁kaye ▁ya ▁kut os ela ▁na ▁ka gu ta ▁kwa ▁dizi ▁kulu , </s> cwe_Latn
+▁Mb wanga ▁iyo ▁ka wal ongela , ▁wana ake ▁wa ja ▁" Sek em wany we . ▁Mw om za hila ▁Yesu ▁Mna za leti ▁yo yaw ambi gwe ▁mu ▁m sala ba . ▁Kaha bule ▁hano , ▁kazi lib uka ! ▁Lol eni ▁han hu ▁ha wam wik ile . </s> cwe_Latn
+▁Yesu ▁kam ulong ela , ▁" N ok ulong ela ▁kweli , ▁ich ilo ▁cha ▁diy elo , ▁yang ' hali ▁nz ogolo ▁han akw ika ▁mi yan za ▁midi , ▁kwi zani bela ▁mi yan za ▁mitatu . " </s> cwe_Latn
+▁Mwan amke ▁ija ▁kah ita ▁ku wal ongela ▁wa ja ▁wo waka lile ▁hamwe ▁na ▁Yesu , ▁nawo ▁wang ' hali ▁mwi in hanga ▁na ▁kulila . </s> cwe_Latn
+▁Yesu ▁vi yaka lile ▁yo f osa ▁mum gwa zog wazo ▁mwa ▁di lamba ▁da ▁Gali laya , ▁kawa ona ▁wa vula ▁wa idi , ▁Sa imoni ▁na ▁An dele ya ▁ndugu ▁yake . ▁W akala ▁wov ula ▁som ba ▁kwa ▁lwa vu . </s> cwe_Latn
+▁Wana hina ▁was eg ela , ▁wah ita ▁kudi bul ulu , ▁na ▁wa wona ▁chi la ▁chinhu ▁fana ▁Yesu ▁vaya wal ongele . ▁Ivo ▁was asala ▁ndiya ▁ya ▁Pas aka . </s> cwe_Latn
+▁Vi waka lile ▁mwi inzi la , ▁waiting ' hana ▁na ▁munhu ▁imwe ▁yat ang igwe ▁Sa imoni , ▁munhu ▁wa ▁isi ▁ya ▁Ch il ene , ▁tati ▁yawo ▁Ale kiz anda ▁na ▁Lu fo . ▁Munhu ▁iyo ▁kaka la ▁ko lawa ▁kum gun da ▁ko ita ▁kudi bul ulu . ▁Waka lizi ▁wam sh ulu ti za ▁ya uso le ▁m sala ba ▁wa ▁Yesu . </s> cwe_Latn
+▁kwa vi ya ▁hawa vim any ile ▁bule ▁im buli ▁ya ▁kwing ' hi gwa ▁ndiya ▁lung ' hus esa ▁luk ulu ▁lwa ▁wan hu , ▁mizo yo ▁yawo ▁ikala ▁mid ala ▁ku vim anya . </s> cwe_Latn
+▁Vi waka lile ▁wo hulum uka ▁mu umu lima , ▁Yesu ▁ka wal ongela , ▁" Sek em um ulong ele ▁munhu ▁yo yose ▁y omu yaw one ▁mb aka ▁niye , ▁Mwana ▁wa ▁Munhu ▁vond ani zi lib uke ▁kulawa ▁ku ii fa . " </s> cwe_Latn
+▁Mbali ▁mwe ye ▁mo fundi za ▁vino , ▁fana ▁munhu ▁kana ▁chinhu ▁cha ▁kum wing ' ha ▁tati ▁yake ▁he bu ▁mami ▁yake , ▁mbali ▁kal onga , ▁' Ch ino ▁ni ▁Ko lib ani ,' ▁famb ulo ▁jake , ▁chinhu ▁chino ▁ni ▁cha ▁kum wing ' ha ▁Mulungu , </s> cwe_Latn
+▁Mu he ▁Ye lile ▁kam ulang uliza ▁Daudi , ▁nayo ▁kal onga . ▁' M nde wa ▁kam ulong ela ▁M nde wa ▁wangu , ▁Uka le ▁uban zi ▁wangu ▁wa ▁kul ume ▁mb aka ▁ni weke ▁wehi ▁wako ▁hasi ▁ya ▁magulu ▁yako .' </s> cwe_Latn
+▁Yesu ▁vi ya onile ▁kam wid ika ▁kwa ▁u bala , ▁kam ulong ela , ▁" H uli ▁kutali ▁na ▁U fal ume ▁wa ▁Mulungu . " ▁Kula wa ▁baho , ▁ha bule ▁munhu ▁yoy amuu zile ▁Yesu ▁chinhu ▁cho chose ▁ka idi . </s> cwe_Latn
+▁Ma aba ho ▁wan hu ▁wam wenga ▁muna ▁ich ib umbi la ▁cha ▁Mas ad uk ayo , ▁wan hu ▁wol onga ▁kuwa ▁ha bule ▁kuzi lib uka , ▁wam witi la ▁Yesu , ▁wamu uza , </s> cwe_Latn
+▁Wag endelela ▁kum towa ▁na ▁bala ti ▁muna ▁id it wi ▁jake ▁na ▁kum tem ela ▁mate . ▁Ma aba ho ▁wam t umba lila ▁ma vin di ▁na ▁kum win amila . </s> cwe_Latn
+▁Wat um igwa ▁wab wela , ▁waiting ' hana ▁na ▁Yesu ▁na ▁kum ulong ela ▁ya ja ▁yose ▁yo wat endi le ▁na ▁ku fundi za . </s> cwe_Latn
+▁Ba ho baho ▁Yesu ▁vi yawa onile , ▁kawat anga . ▁Na ▁wawo ▁wamu leka ▁Zeb ed ayo ▁tati ▁yawo ▁hamwe ▁na ▁wan hu ▁wa ▁kusang ' hana ▁mwi inga lawa , ▁wam son de lela . </s> cwe_Latn
+▁We za gaya ▁ng ' hani ▁wana ake ▁weli ▁na ▁zi w imo ▁na ▁wa ja ▁wok ong ' heza ▁muna ▁zis iku ▁izo ! </s> cwe_Latn
+▁Yesu ▁kab wela ▁um w ambu ▁wa ▁di lamba . ▁Lung ' hus esa ▁luk ulu ▁lwa ▁wan hu ▁lum mem ela ▁mum gwa zog wazo ▁mwa ▁di lamba . </s> cwe_Latn
+▁Vi yaka lile ▁ko fundi za , ▁ka wal ongela , ▁" M wi ilo le ▁na ▁wa fundi za ▁Ma lagi li zo ! ▁Wol onda ▁kuya wala ▁vi walo ▁vita li ▁na ▁kuita ▁m mas oko ▁mu ladi ▁wa lam sig we ▁kwa ▁nh unya . </s> cwe_Latn
+▁" M una ▁zis iku ▁izo , ▁munhu ▁yo yose ▁yaha wal ongela , ▁' L oleni , ▁Ch ilis ito ▁M kom bola ,' ▁he bu ▁' L ola , ▁kaku ja !' ▁Sek em umt ogo le . </s> cwe_Latn
+▁Wan hu ▁wam wenga ▁waka lile ▁wema ▁haja ▁viwa hu like ▁ivo , ▁wal onga , ▁" T eg eleza , ▁kom utanga ▁Eliya !" </s> cwe_Latn
+▁Yesu ▁kag endelela ▁kulonga , ▁" U fal ume ▁wa ▁Mulungu ▁ul inga ▁munhu ▁ya handi le ▁mbe yu ▁mum gun da ▁wake . </s> cwe_Latn
+▁Munhu ▁imwe ▁kak im bila , ▁ka vab ika ▁dod oki ▁mwi idi vai ▁yo ig wad uke ▁na ▁kud ika ▁muna ▁ul um ango . ▁Ma aba ho ▁kumw ikila ▁Yesu ▁mum ul omo ▁na ▁kulonga , ▁" Go za ▁chilo le ▁fana ▁Eliya ▁ke zak wiza ▁kum uh ulum usa ▁mu ▁m sala ba !" </s> cwe_Latn
+▁Vi yamu woni le ▁Yesu ▁kwa ▁kutali , ▁kam kim bili la ▁na ▁ma aba ho ▁kum t umba lila ▁ma vin di . </s> cwe_Latn
+▁Lung ' hus esa ▁lwa ▁wan hu ▁lum witi la ▁Pilato ▁na ▁kump ula ▁yawa leke lele ▁mf ungwa ▁im wenga ▁fana ▁vi yot endaga . </s> cwe_Latn
+▁Ivo ▁m kale ▁meso , ▁kwa vi ya ▁hamu vim any ile ▁bule ▁mwene ▁kaye ▁kok wiza ▁zu waki , ▁koda ha ▁kwi za ▁ich ig ulog ulo , ▁he bu ▁ich ilo ▁chik ulu , ▁he bu ▁nz ogolo ▁z ikw ika , ▁he bu ▁imit ondo . </s> cwe_Latn
+▁Pet ili ▁kand usa ▁kuy id uila ▁na ▁kuyi laha , ▁" Ni ye ▁sim many ile ▁munhu ▁ino ▁im ul onga ▁m buli ▁zake !" </s> cwe_Latn
+▁Siku ▁isonde lele ▁imit ondo , ▁va waka lile ▁wo f osa ▁wau wona ▁mb iki ▁wa ▁mt ini ▁un yala ▁kus ongela ▁muna ▁yama zizi ▁mb aka ▁kwin h emb eti . </s> cwe_Latn
+▁Mbali ▁si ▁ivo ▁kum wenu . ▁Munhu ▁yo yose ▁yol onda ▁kuwa ▁mkulu ▁kum wenu , ▁kol ondeka ▁yawe ▁m sang ' hani ▁wenu , </s> cwe_Latn
+▁Yesu ▁kam wam ha ▁mkono ▁munhu ▁ija ▁chi pofu , ▁kani gala ▁kunze ▁ya ▁dib ululu . ▁Ma aba ho ▁kam tem ela ▁mate ▁muna ▁yam eso , ▁kam w ikila ▁mak ono ▁yake ▁na ▁kum uuza , ▁" V ino ▁koda ha ▁kulo la ▁chinhu ?" </s> cwe_Latn
+▁Yesu ▁kaka la ▁m wii ▁K aye ▁ng ' hulu ▁ya ▁Mulungu ▁habe hi ▁na ▁chit anda ▁cha ▁sadaka , ▁kaw alola ▁wan hu ▁va waka lile ▁wo lava ▁sadaka . ▁Mata jili ▁wengi ▁wala va ▁hela ▁nyingi . </s> cwe_Latn
+▁Yesu ▁kamu uza , ▁" N ikut endele ▁ch oni ?" ▁Chi pofu ▁iyo ▁kam wid ika , ▁" M fundi za , ▁nol onda ▁kuwona . " </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kah ita ▁hamwe ▁na ▁Ya ilo . ▁Lung ' hus esa ▁luk ulu ▁lwa ▁wan hu ▁lum son de lela ▁na ▁kum sung ' ha - sung ' ha . </s> cwe_Latn
+▁Vi waka lile ▁wo ja , ▁Yesu ▁kas ola ▁gate , ▁kam ulong ela ▁Mulungu , ▁" He wela . " ▁Ma aba ho ▁kad im og ola ▁na ▁ku weng ' ha ▁wana hina ▁wake , ▁ka wal ongela , ▁" S oleni , ▁luno ▁ulo ▁luku li ▁lw angu . " </s> cwe_Latn
+▁Pet ili ▁kam ulong ela ▁Yesu , ▁" Che ye ▁chi leka ▁vose ▁na ▁chik us onde lela ▁we ye !" </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" H ach imanya ▁ch imp ula . ▁Vino ▁m wo da ha ▁kung ' wila ▁nh ungo ▁ya ▁manh esa ▁in ing ' wila ▁niye ▁he bu ▁kub ati zig wa ▁ub atizo ▁un ib ati zig wa ▁niye ?" </s> cwe_Latn
+▁Yesu ▁vi yeng ile ▁m nyumba , ▁wana hina ▁wake ▁wamu uza ▁vi yaka lile ▁ya id umwe , ▁" Ha bali ▁che ye ▁ha chida hile ▁bule ▁kum ula va ▁ch iny am kela ?" </s> cwe_Latn
+▁Ma aba ho ▁wamu wamba ▁Yesu ▁hamwe ▁na ▁waba vi ▁mu ▁misa laba , ▁imwe ▁uban zi ▁wake ▁wa ▁kul ume ▁na ▁imwe ▁uban zi ▁wake ▁wa ▁kum oso . </s> cwe_Latn
+▁Yesu ▁kaw alola ▁wa ja ▁wan hu ▁kwa ▁lud oko , ▁na ▁ka wona ▁us ungu ▁mu umo yo ▁wake ▁kwa ▁ch imu ▁cha ▁u dala ▁wa ▁mizo yo ▁yawo . ▁Ma aba ho ▁kam ulong ela ▁munhu ▁ya holo lile , ▁" G olosa ▁umk ono ▁wako . " ▁Nayo ▁kaug olosa , ▁baho baho ▁umk ono ▁wake ▁uh ona . </s> cwe_Latn
+▁Ch ilo ch ilo , ▁wak ulu ▁wa ▁nh amb iko ▁waiting ' hana ▁na ▁wa lala ▁na ▁wa fundi za ▁Ma lagi li zo ▁na ▁bala za ▁j ose , ▁wait ogo lela ▁kum gala ▁Yesu ▁kwa ▁Pilato . ▁Ivo ▁wanda za ▁w angala ▁na ▁kum wing ' ha ▁Pilato . </s> cwe_Latn
+▁Na ▁ha chida ha ▁kulonga ▁' U lawa ▁kwa ▁munhu .' ▁" ▁Waw ad umba ▁wan hu ▁kwa vi ya ▁wan hu ▁wose ▁wa vim anya ▁kuwa ▁Yohana ▁kaka la ▁mulo te zi ▁wa ▁Mulungu . </s> cwe_Latn
+▁Han hu ▁ho h ose ▁h onda ▁muh ok elwe , ▁muka le ▁umo ▁mb aka ▁vond amus eg ele . </s> cwe_Latn
+▁Dili hi ▁dibu hile , ▁kum ulong ela ▁munhu ▁ya holo lile , ▁' U has anyi ▁wako ▁us ege zig wa , ▁he bu ▁kulonga , ▁in uka , ▁papa ▁dili li ▁jako ▁w ite '? </s> cwe_Latn
+▁Na ▁ka wal ongela , ▁" I teg anyeni ▁na ▁ya ja ▁y omu ya hu lika ! ▁Nda gili zi ▁zom usang ' hani la ▁kuwat agus ila ▁wam wenga , ▁Mulungu ▁keza zis ang ' hani la ▁nda gili zi ▁izo ▁kuwat ag usa ▁mwe ye , ▁ma aba ho ▁mwi zak onge ze lig wa . </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁na ▁wana hina ▁wake ▁wah ita ▁muna ▁yama bul ulu ▁ya ▁Ka isa liya ▁Filipi . ▁Mwi inzi la ▁Yesu ▁kawa uza , ▁" N ilong eleni , ▁wan hu ▁wol onga ▁niye ▁iyo ▁ye lihi ?" </s> cwe_Latn
+▁Yesu ▁vi yaka lile ▁yog endelela ▁kulonga , ▁Yuda , ▁imwe ▁wa ▁wa ja ▁wana hina ▁longo ▁na ▁wa idi , ▁ka fika . ▁Ke za ▁hamwe ▁na ▁lung ' hus esa ▁lwa ▁wan hu ▁weli ▁na ▁mi zele ▁na ▁vil ungu . ▁W akala ▁wat um igwa ▁na ▁wak ulu ▁wa ▁nh amb iko ▁na ▁wa fundi za ▁Ma lagi li zo ▁na ▁wa lala . </s> cwe_Latn
+▁Ma aba ho ▁Yuda ▁Is ikali yoti , ▁imwe ▁wa ▁wa ja ▁longo ▁na ▁wa idi , ▁kah ita ▁kwa ▁wak ulu ▁wa ▁nh amb iko ▁mu ladi ▁yam uh ind uke ▁Yesu ▁kum wawo . </s> cwe_Latn
+▁Vi yaka lile ▁ko f osa , ▁kamu wona ▁La wi , ▁mwana ge ▁Alu f ayo ▁kaka la ▁m wii ▁kaye ▁ya ▁kuli hila ▁kodi . ▁Yesu ▁kam ulong ela , ▁" N is onde lele . " ▁La wi ▁ken uka ▁na ▁kum son de lela . </s> cwe_Latn
+▁Waka lizi ▁wam w ingiza ▁Yesu ▁mg ati ▁mwa ▁mh ongono ▁ya ▁kaye ▁ya ▁Pilato , ▁mkulu ▁wa ▁isi , ▁ma aba ho ▁wawal anga ▁waya wo ▁wose . </s> cwe_Latn
+▁Yesu ▁na ▁wana hina ▁wake ▁wa fika ▁um w ambu ▁wa ▁di lamba ▁da ▁Gali laya ▁mwi isi ▁ya ▁Wag ela si . </s> cwe_Latn
+▁We zak wam ha ▁maz oka , ▁na ▁hata ▁wa hang ' wa ▁mad aka ▁h ayeza wat enda ▁vi hile ▁bule . ▁We za wek ila ▁wat amu ▁mak ono ▁yawo , ▁nawo ▁we za hona . " </s> cwe_Latn
+▁Na ▁han hu ▁ho h ose ▁ha wam uh ok eleni ▁he bu ▁kuwat eg eleza , ▁seg eleni ▁han hu ▁baho , ▁na ▁kung ' hun eni ▁mat imb wisi ▁yeli ▁muna ▁yam ag ulu ▁yenu , ▁ku lag usa ▁chi lag uso ▁cha ▁kuw akanya . " </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" M we ye ▁u lelwa ▁uli bule ▁u hu wilo ! ▁Ng ' hale ▁na ▁mwe ye ▁mb aka ▁zu waki ? ▁M gal eni ▁kum wangu . " </s> cwe_Latn
+▁Wak ulu ▁wa ▁nh amb iko ▁na ▁wan hu ▁wose ▁mud il undo ▁da ▁Wayahudi ▁wal onda ▁m buli ▁wada he ▁kum koma ▁Yesu , ▁mbali ▁hawa woni le . </s> cwe_Latn
+▁Vi ya vi ya ▁muke ▁y omu leka ▁mul umake ▁na ▁kuso lig wa ▁na ▁mulume ▁im wenga , ▁kom ten dela ▁uz inzi ▁mul umake . " </s> cwe_Latn
+▁" Munhu ▁yo yose ▁yon da ▁yam uh okele ▁im wana ▁fani le ▁ino ▁kwa ▁zina ▁j angu , ▁koni hokela ▁niye . ▁Na ▁munhu ▁yo yoni hokela ▁niye , ▁hani hokela ▁niye ▁ni id umwe , ▁ila ▁kom uh okela ▁na ▁ija ▁yo yan hum ile ▁ivi ya . " </s> cwe_Latn
+▁Kwa vi ya ▁Mwana ▁wa ▁Munhu ▁he zile ▁kusang ' han ilwa ▁bule , ▁ila ▁kuwas ang ' hani la ▁wan hu ▁na ▁kuula va ▁ug ima ▁wake ▁kuwak ombola ▁wan hu ▁wengi . " </s> cwe_Latn
+▁Di zi ▁da ▁munhu ▁dot anga ▁mu ich u wala , ▁' Mu it ande ▁nzila ▁ya ▁M nde wa , ▁mu hag ol ose ▁han hu ▁h onda ▁yaf ose .' ▁" </s> cwe_Latn
+▁Wai uza ▁wenye wo ▁na ▁kulonga , ▁" One ▁cha hal onga , ▁' U lawa ▁kwa ▁Mulungu ,' ▁keza chi uza , ▁' L elo ▁ha bali ▁ham umu hu wile ?' </s> cwe_Latn
+▁Wal onga , ▁" S eke chim g wile ▁m wii is iku ▁ya ▁did ug ila ▁da ▁Pas aka , ▁bule ▁wan hu ▁we zat enda ▁fu jo . " </s> cwe_Latn
+▁Munhu ▁ija ▁kal onga , ▁" M fundi za ! ▁Niz am ha ▁nda gili zi ▁zose ▁kw andus ila ▁ud odo ▁wangu . " </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁ka wag omesa ▁kum ulong ela ▁munhu ▁yo yose ▁m buli ▁ino . ▁Mbali ▁v ayag ende lele ▁kuwa gom esa , ▁nii vo ▁va wag ende lele ▁kuip wi lil isa ▁m buli ▁iyo . </s> cwe_Latn
+▁Maf alisayo ▁na ▁Wayahudi ▁wose ▁waka la ▁wam hilila ▁mala gili zo ▁ya ▁wasa ho ▁zawo . ▁W akala ▁hawa ja ▁chinhu ▁wang ' hali ▁hawana ▁nawa ▁mak ono ▁mb aka ▁mu ich ing ' ho . </s> cwe_Latn
+▁ka il ongela ▁mwenye wo , ▁" N ih ad alisa ▁walo ▁jake ▁mu hala , ▁ni za hona . " </s> cwe_Latn
+▁Ma aba ho ▁keza ▁mwanamke ▁mg ane ▁na ▁nga yen gaye , ▁kala va ▁sente ▁mbili . </s> cwe_Latn
+▁Yesu ▁kawa uza , ▁" Chin hu ▁gani ?" </s> cwe_Latn
+▁Ma aba ho ▁wana hina ▁wah ita ▁chi la ▁han hu ▁kup etela ▁M buli ▁In ogile . ▁M nde wa ▁kas ang ' hana ▁nawo ▁na ▁kalag usa ▁ma pet elo ▁yawo ▁ni ▁ya ▁kweli ▁kwa ▁vi lag uso ▁vov ila wilile . </s> cwe_Latn
+▁Ma aba ho ▁kak wela ▁mwi inga lawa ▁mu weli ▁wana hina ▁wake , ▁na ▁beho ▁diny amala ▁h upi . ▁Wana hina ▁waz anywa ▁ng ' hani , </s> cwe_Latn
+▁Yesu ▁kamu uza ▁tata ▁wa ▁mwana ▁ija , ▁" Mwana ▁ino ▁kawa ▁vino ▁kus ongela ▁zu waki ?" ▁Kam wid ika , ▁" Kus ongela ▁kuud odo ▁wake . </s> cwe_Latn
+▁Vi yaka lile ▁komi za , ▁mbe yu ▁zim wenga ▁z ila ga lila ▁mwi inzi la , ▁na ▁ndege ▁we za ▁wa zija . </s> cwe_Latn
+▁Mbali ▁Hel ode ▁vi ya hu like ▁ivo , ▁kal onga , ▁" I no ▁nii yo ▁Yohana ▁Mb ati zi ▁inim kan hile ▁id it wi ▁kazi lib uka ▁kulawa ▁m wii fa !" </s> cwe_Latn
+▁Vi ya hu like ▁Yesu ▁Mna za leti ▁ko f osa ▁baho , ▁kand usa ▁kutanga ▁kwa ▁dizi ▁kulu , ▁" Yesu ! ▁Mwana ▁wa ▁Daudi ! ▁Ni won ele ▁uba zi !" </s> cwe_Latn
+▁Na wo ▁viwa hu like ▁Yuda ▁ch aya wal ongele , ▁wad eng ' helela , ▁wam ulong ela ▁kuwa ▁we zam wing ' ha ▁hela . ▁Ivo ▁Yuda ▁kand usa ▁kuza hila ▁nzila ▁ya ▁kum uh induka . </s> cwe_Latn
+▁Ivi ya , ▁vond amu wone ▁yose ▁yayo ▁yola wilila , ▁m vim anye ▁Mwana ▁wa ▁Munhu ▁kam ma be hi ▁ng ' hani ▁kwi za . </s> cwe_Latn
+▁M fal ume ▁keng ilwa ▁na ▁ch inya la ▁ng ' hani , ▁mbali ▁kwa vi ya ▁kaila ha ▁ha ul ongozi ▁ha ▁wag eni ▁wake ▁hana ▁did ug ila , ▁hada hile ▁kum ule mela ▁bule . </s> cwe_Latn
+▁Chino ▁chini wal ongela ▁mwe ye , ▁no wal ongela ▁wan hu ▁wose , ▁' M kale ▁meso !'" </s> cwe_Latn
+▁Ivo ▁wam g wila ▁na ▁kum koma , ▁ma aba ho ▁wam wasa ▁kunze ▁mwa ▁m gun da ▁uwo . </s> cwe_Latn
+▁Won it amb ikila ▁bule ▁kwa vi ya ▁wo fundi za ▁Ma lagi li zo ▁ya ▁wan hu ▁fana ▁vi ya ▁ni ▁mala gili zo ▁ya ▁Mulungu !' </s> cwe_Latn
+▁Mbali ▁Pet ili ▁kakan h amiza ▁kulonga , ▁" H ata ▁i hal ondeka ▁chid angan ike ▁hamwe ▁na ▁we ye , ▁siz aku bela . " ▁Na ▁wana hina ▁wam wenga ▁wose ▁wal onga ▁ivo ▁ivo . </s> cwe_Latn
+▁Mbali ▁Pet ili ▁ka bela ▁ka idi . ▁Ham wan de ▁chid ogo ▁wan hu ▁waka lile ▁wema ▁haja ▁wam ulong ela ▁Pet ili ▁ka idi , ▁" We ye ▁ni ▁imwe ▁wa ▁wawo ▁kweli , ▁kwa ▁ich imu ▁we ye ▁ivi ya ▁kwa ▁Mga lila ya . " </s> cwe_Latn
+▁Ivo ▁was eg ela ▁na ▁kuwa pet ela ▁wan hu ▁wa leke ▁u has anyi ▁wawo . </s> cwe_Latn
+▁Chi la ▁dug ila ▁da ▁Pas aka , ▁Pilato ▁kaka la ▁na ▁ichi h endo ▁cha ▁kumu leke lela ▁munhu ▁imwe ▁yeli ▁m chi fungo ▁wan hu ▁wo wam ul ondi le . </s> cwe_Latn
+▁Kasi gala ▁na ▁munhu ▁imwe ▁wa ▁kum tuma , ▁nayo ▁kaka la ▁mwana ge ▁nya ch ende . ▁Kal onga , ▁' I no ▁wa ▁u helelo ▁we zam teg eleza , ▁kwa vi ya ▁ni ▁mwan angu .' </s> cwe_Latn
+▁Siku ▁dim we ▁ya ▁M hum ulo , ▁Yesu ▁hamwe ▁na ▁wana hina ▁wake ▁waka la ▁wo f osa ▁muna ▁imig unda ▁ya ▁u hem ba . ▁Vi waka lile ▁wo f osa , ▁wana hina ▁wake ▁wand usa ▁ku hulula ▁u hem ba . </s> cwe_Latn
+▁Na wo ▁wawal ongela ▁fana ▁Yesu ▁vaya wal ongele , ▁na ▁wan hu ▁wa ja ▁wawa leka ▁wah ite . </s> cwe_Latn
+▁Yesu ▁kam ulong ela , ▁" H ita , ▁kuhu wila ▁kwako ▁kuku hon ya . " ▁Lus ita ▁ulo ▁chi pofu ▁kada ha ▁kuwona , ▁kam son de lela ▁Yesu ▁m zila . </s> cwe_Latn
+▁Mwan amke ▁ija ▁ked ika , ▁" M nde wa , ▁mbali ▁hata ▁z imbwa ▁zo zika lile ▁hasi ▁ha ▁ime za ▁zo ja ▁ndiya ▁za ▁wana ▁zo zisi gale !" </s> cwe_Latn
+▁kamp ula , ▁" M n dele ▁wangu ▁ni ▁mt amu ▁ng ' hani . ▁Noku lamba ▁wi ze ▁uk am wik ile ▁mak ono ▁yap ate ▁ku hona . " </s> cwe_Latn
+▁Wam wenga ▁wal onga , ▁" Iyo ▁ni ▁Eliya . " ▁Na ▁wam wenga ▁wal onga , ▁" Iyo ▁ni ▁mulo te zi ▁wa ▁Mulungu ▁yal ingane ▁na ▁wa lag ula ▁wa ▁umwaka . " </s> cwe_Latn
+▁Yesu ▁kat uma ▁wana hina ▁wake ▁wa idi , ▁ka wal ongela , ▁" H it eni ▁mudi bul ulu , ▁umo ▁mwi zay iting ' hana ▁na ▁mulume ▁kay it wika ▁n ongo ▁ya ▁mazi . ▁M son de leleni </s> cwe_Latn
+▁Vi zi fos ile ▁siku ▁chid ogo , ▁Yesu ▁kab wela ▁ka idi ▁Kap elina umu , ▁na ▁wan hu ▁wahu lika ▁kuwa ▁ka ▁uk aye . </s> cwe_Latn
+▁Ma aba ho ▁wana hina ▁wa ja ▁watatu ▁wawa ona ▁Musa ▁na ▁Eliya ▁wol onga ▁na ▁Yesu . </s> cwe_Latn
+▁Yesu ▁na ▁wana hina ▁wake ▁was eg ela ▁han hu ▁haja ▁kuf os ela ▁Gali laya . ▁Hal ondi le ▁munhu ▁ya vim anye ▁kuye li , </s> cwe_Latn
+▁M nde wa ▁ka chit enda ▁chinhu ▁chino , ▁na ▁chi wa ▁chinhu ▁cha ▁mwa zan yo ▁ng ' hani ▁kum wetu .' ▁" </s> cwe_Latn
+▁Mbali ▁yo yose ▁y ond ay amu lige ▁Mu he ▁Ye lile ▁he zas ege ze lig wa ▁ng ' o , ▁kwa vi ya ▁kat enda ▁u has anyi ▁wa ▁siku ▁zose . " </s> cwe_Latn
+▁Maf alisayo ▁wam wenga ▁we za ▁kwa ▁Yesu , ▁wand usa ▁ku ib ishila ▁na ▁Yesu . ▁W akala ▁wol onda ▁kum geza , ▁ivo ▁wam ul onda ▁yat ende ▁chi lag uso ▁cha ▁mau za uza ▁kulawa ▁kwa ▁Mulungu . </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" I mwe ▁vum wili ▁longo ▁na ▁wa idi , ▁iye ye ▁y oto weza ▁gate ▁hamwe ▁na ▁niye ▁m wii chi ziga . </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" K weli ▁Eliya ▁ke zak wiza ▁teng ' hu ▁na ▁kus asala ▁chi la ▁chinhu ▁go ya . ▁Mbali , ▁ha bali ▁y andik igwa ▁Mwana ▁wa ▁Munhu ▁keza gaz igwa ▁ng ' hani ▁na ▁kulem igwa ? </s> cwe_Latn
+▁Ma aba ho ▁wa fika ▁Ye liko . ▁Yesu ▁na ▁wana hina ▁wake ▁hamwe ▁na ▁lung ' hus esa ▁luk ulu ▁lwa ▁wan hu ▁va waka lile ▁wos eg ela ▁mudi bul ulu ▁ijo , ▁chi pofu ▁imwe ▁yo yat ang igwe ▁Bat ul ome ▁mwana ▁wa ▁Tim ayo ▁kaka la ▁yaka lile ▁mum gwa zog wazo ▁mwa ▁in zila , ▁kop ula . </s> cwe_Latn
+▁Wan hu ▁wengi ▁waiting ' hana ▁hamwe ▁mb aka ▁kukala ▁ha bule ▁han hu ▁hasi gale ▁hana ▁ul wi vi , ▁wam ema ▁mb aka ▁hal uh el engo . ▁Yesu ▁kaka la ▁kowa pet ela ▁m buli . </s> cwe_Latn
+▁Yesu ▁kalo la ▁ban zi ▁zose ▁na ▁ku wal ongela ▁wana hina ▁wake , ▁" Iz akuwa ▁vid ala ▁ng ' hani ▁wan hu ▁weli ▁na ▁vin hu ▁vingi ▁kwingila ▁muna ▁U fal ume ▁wa ▁Mulungu !" </s> cwe_Latn
+▁Vi i fikile ▁ich ig ulog ulo , ▁Yesu ▁keza ▁na ▁na wana hina ▁longo ▁na ▁wa idi . </s> cwe_Latn
+▁W amh isa ▁m buli ▁ija , ▁mbali ▁wai uz agiza ▁wawo ▁kwa ▁wawo , ▁" Ku zi lib uka ▁kulawa ▁ku ii fa ▁famb ulo ▁jake ▁ch oni ?" </s> cwe_Latn
+▁Ma aba ho ▁kawa hag atila ▁wana ▁wa ja , ▁kaw ek ila ▁mak ono ▁yake ▁na ▁kuwat emela ▁mate . </s> cwe_Latn
+▁Ma aba ho ▁wana hina ▁wose ▁wamu leka ▁na ▁kukim bila . </s> cwe_Latn
+▁Pilato ▁vi yal ongi lig we ▁na ▁ija ▁mkulu ▁wa ▁waka lizi ▁kuwa ▁Yesu ▁kama la ▁kud angan ika , ▁kamu lekela ▁Yosefu ▁yal uso le ▁luku li ▁lwa ▁Yesu . </s> cwe_Latn
+▁Wa fika ▁mudi bul ulu ▁da ▁Bes isa ida , ▁wan hu ▁wem wenga ▁wam ga lila ▁Yesu ▁munhu ▁chi pofu ▁na ▁wamu lamba ▁yand alise . </s> cwe_Latn
+▁Han hu ▁ho h ose ▁haja ▁Yesu ▁haya h itile , ▁mu imig unda ▁he bu ▁muna ▁yama bul ulu ▁he bu ▁m wii zi isi , ▁wan hu ▁wa weka ▁wat amu ▁muna ▁yam ag ulilo . ▁W amu lamba ▁yawa leke lele ▁wad alise ▁hata ▁muna ▁im h indo ▁ya ▁walo ▁jake . ▁W ose ▁wo wad id alise ▁wah ona . </s> cwe_Latn
+▁Mwan amke ▁ija ▁kach imanya ▁chinhu ▁cho chim ula wilile , ▁ivo ▁kam uh itila ▁Yesu ▁kuno ▁kod umba ▁na ▁kug ud emeka . ▁Kam t umba lila ▁ma vin di ▁na ▁kam ulong ela ▁ukweli ▁wose . </s> cwe_Latn
+▁Kwa vi ya ▁mu umo yo ▁wa ▁munhu ▁mola wa ▁mag esa ▁ye hile ▁na ▁ug oni ▁na ▁uba vi ▁na ▁kukoma ▁na ▁ku igona ▁na ▁wihi </s> cwe_Latn
+▁Wana hina ▁wake ▁hawa vim any ile ▁bule ▁m buli ▁iyo , ▁mbali ▁wad umba ▁kum uuza . </s> cwe_Latn
+▁Na ▁dizi ▁di hu lik igwa ▁kulawa ▁kuul anga , ▁" We ye ▁niyo ▁mwan angu ▁nya ch ende ▁wangu , ▁nin ogi lig we ▁na ▁we ye . " </s> cwe_Latn
+▁mbali ▁beg ete ▁da ▁ug ima ▁uno , ▁uv wi zi ▁wa ▁vin hu , ▁na ▁kulonda ▁m buli ▁zim wenga , ▁vo yi be ben yeka ▁m buli ▁mb aka ▁ipot we ▁ku lela . </s> cwe_Latn
+▁Muna wo ▁nga enga e ▁siku ▁zose , ▁na ▁m wo da ha ▁kuw ata za ▁lus ita ▁lol ose ▁lum ul onda . ▁Mbali ▁ham wi z akuwa ▁hamwe ▁na ▁niye ▁siku ▁zose . </s> cwe_Latn
+▁Kwa vi ya ▁wose ▁wala va ▁zaw asiga ze , ▁mbali ▁mg ane ▁ino ▁kala va ▁vose ▁vay alina vo . " </s> cwe_Latn
+▁Ma aba ho ▁kas ola ▁nh ungo ▁ya ▁di vai , ▁kam ulong ela ▁Mulungu , ▁" He wela . " ▁Ka weng ' ha , ▁na ▁wose ▁wang ' wa ▁mwi inh ungo ▁iyo . </s> cwe_Latn
+▁Is iku ▁ya ▁M hum ulo ▁vii fikile , ▁kand usa ▁ku fundi za ▁mwi ik aye ▁ya ▁kut os ela . ▁Wan hu ▁wow amu hu like ▁waz anywa . ▁Wa uza , ▁" V ino ▁kazi pata hi ▁m buli ▁zino ?" ▁Vi ya ▁u bala ▁waki ▁woy eng ' hig we ▁ino ▁mb aka ▁yat ende ▁mau za uza ▁yano ? </s> cwe_Latn
+▁Yesu ▁vi y anduse ▁kus eg ela , ▁munhu ▁imwe ▁kam kim bili la , ▁kam t umba lila ▁ma vin di ▁na ▁kum uuza , ▁" M fundi za ▁un ogile , ▁nit ende ze ▁niye ▁ni up ate ▁ug ima ▁wa ▁siku ▁zose "? </s> cwe_Latn
+▁Lelo ▁wan hu ▁v onda wazi lib uke ▁kulawa ▁mwi ▁ifa , ▁muke ▁iyo ▁kez akuwa ▁muke ▁wa ▁ye lihi ? ▁Kwa vi ya ▁ndugu ▁wose ▁saba ▁waka la ▁wam sola . " </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kab wela ▁uk aye . ▁Lung ' hus esa ▁luk ulu ▁lwa ▁wan hu ▁lu iting ' hana ▁ka idi ▁mb aka ▁Yesu ▁na ▁wana hina ▁wake ▁haw ada hile ▁kuja . </s> cwe_Latn
+▁Yesu ▁ka wal anga ▁wana hina ▁wake ▁na ▁ku wal ongela , ▁" No wal ongela ▁kweli , ▁mg ane ▁ino ▁keka ▁nyingi ▁mwi ich it anda ▁cha ▁sente ▁kuf osa ▁wose . </s> cwe_Latn
+▁Mb wanga ▁imwe ▁yo yaka lile ▁kaya wala ▁ngolo le ▁kaka la ▁yom son de lela ▁Yesu . ▁Vi wal ondi le ▁kum g wila , </s> cwe_Latn
+▁Ivo ▁was eg ela ▁wa id umwe ▁kwa ▁nga lawa , ▁wah ita ▁han hu ▁heli bule ▁wan hu . </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁ka wal ongela ▁wana hina ▁wake , ▁" H am udim any ile ▁sim we ▁dino ? ▁Lelo ▁muz amanya ze ▁sim we ▁dim wenga ▁joj ose ? </s> cwe_Latn
+▁Mbali ▁wan hu ▁wam wenga ▁wen uka , ▁wala va ▁us indi la ▁wa ▁uv wi zi , ▁wal onga , </s> cwe_Latn
+▁ma aba ho ▁mol onga ▁munhu ▁iyo ▁hal on dig wa ▁kum wing ' ha ▁tati ▁yake ▁he bu ▁mami ▁yake . </s> cwe_Latn
+▁" M fundi za , ▁Musa ▁kach and ikila ▁lagi li zo ▁dino , ▁' F ana ▁munhu ▁ya had angan ika ▁na ▁kuleka ▁muke ▁mg ane ▁yeli bule ▁mwana , ▁ndugu ▁wa ▁munhu ▁ya file ▁kol ondeka ▁yam sole ▁mg ane ▁iyo , ▁mu ladi ▁yamu lelele ▁ndugu ▁yake ▁wana .' </s> cwe_Latn
+▁Mbali ▁maand iko ▁yol onga , ▁kulawa ▁kw andus igwa ▁kul umbwa ▁isi , ▁Mulungu ▁ka wal umba ▁mulume ▁na ▁muke . </s> cwe_Latn
+▁Ma aba ho ▁Pilato ▁ka hal onda ▁ku wan oge za ▁wan hu , ▁ivo ▁kamu lekela ▁Bala ba ▁kulawa ▁m chi fungo . ▁Ma aba ho ▁kala gi liza ▁Yesu ▁yato wig we ▁mi bala ti ▁na ▁yaw ambi gwe ▁mu ▁m sala ba . </s> cwe_Latn
+▁" M we ye ▁mo leka ▁mala gili zo ▁ya ▁Mulungu , ▁mo win za ▁ma fundi zo ▁ya ▁wan hu . " </s> cwe_Latn
+▁Wan hu ▁wengi ▁wala wa ▁mwi isi ▁ya ▁Yude ya ▁na ▁bul ulu ▁da ▁Yel usalem u ▁wah ita ▁kum teg eleza ▁Yohana . ▁Wat og ola ▁kuleka ▁u has anyi ▁wawo , ▁na ▁Yohana ▁ka wab atiza ▁mu ▁ul wanda ▁wa ▁Yol od ani . </s> cwe_Latn
+▁Yesu ▁kak wela ▁han hu ▁hen uke ▁na ▁ku wal anga ▁wan hu ▁wo ya wal ondi le ▁mwenye wo , ▁na ▁wawo ▁wam son de lela . </s> cwe_Latn
+▁mbali ▁vi wamu woni le ▁kog enda ▁mch any ha ▁ya ▁mazi , ▁wag esa ▁mzimu . ▁Wag uta ▁ng ' hondo . </s> cwe_Latn
+▁Na ▁niye ▁naha wala ga ▁wah ite ▁uk aye ▁kum wawo ▁wa hawa ▁na ▁nzala , ▁we zas induka ▁mwi inzi la , ▁kwa vi ya ▁wam wenga ▁wawo ▁wala wa ▁kutali . " </s> cwe_Latn
+▁M kulu ▁wa ▁nh amb iko ▁kade ga ▁di walo ▁jake , ▁kal onga , ▁" V ino ▁chol onda ▁us indi la ▁um wenga ? </s> cwe_Latn
+▁Ivi ya ▁one ▁um gulu ▁wako ▁uhak utenda ▁u tende ▁ye hile , ▁ukan he . ▁Mu ha vu ▁w ingile ▁muna ▁ug ima ▁na ▁um gulu ▁umwe , ▁kuf osa ▁kuwa ▁na ▁mig ulu ▁midi ▁na ▁kwas igwa ▁je han amu . </s> cwe_Latn
+▁Pilato ▁kawa uza , ▁" V ino ▁kat enda ▁chinhu ▁gani ▁chi hile ?" ▁Mbali ▁wawo ▁wai yo ha ▁kul and ula ▁yam adi zi , ▁" M uw ambe ▁mu ▁m sala ba !" </s> cwe_Latn
+▁' Kwa ▁ich imu ▁icho ▁mulume ▁keza ▁mu leka ▁tati ▁yake ▁na ▁mami ▁yake , ▁nayo ▁keza ilumba ▁na ▁muke ▁wake , </s> cwe_Latn
+▁" C hila ▁munhu ▁ke zah ung igwa ▁kwa ▁um oto , ▁fana ▁nyama ▁vi ig um igwa ▁mun yu . </s> cwe_Latn
+▁Wa fika ▁ka idi ▁Yel usalem u . ▁Yesu ▁vi yaka lile ▁yo ita ▁m wii ▁K aye ▁ya ▁Mulungu , ▁wak ulu ▁wa ▁nh amb iko ▁na ▁wa fundi za ▁Ma lagi li zo ▁na ▁wa lala ▁wam witi la . </s> cwe_Latn
+▁Mwan amke ▁ino ▁kat enda ▁chi ya ▁chay ada hile . ▁Kal ongola ▁ku lub oboda ▁luku li ▁lw angu ▁ma vuta ▁yon ung ' hila ▁kul us asala ▁kwa ▁maz isi . </s> cwe_Latn
+▁Ivo ▁kah ita ▁uk aye ▁kum wake , ▁kam fika ▁mwana ge ▁kat amba lala ▁mud ikom wa , ▁ch iny am kela ▁kaka la ▁kam ula wa . </s> cwe_Latn
+▁Mbali ▁wali mi ▁wam g wila , ▁wam towa ▁na ▁kum uw inga ▁bila ▁kum wing ' ha ▁chinhu . </s> cwe_Latn
+▁Kwa vi ya ▁munhu ▁yo yose ▁ha is wela ▁na ▁che ye , ▁ni ▁miy etu ▁vichi li . </s> cwe_Latn
+▁Mbali ▁Yesu ▁kalo la ▁ban zi ▁zose ▁mu ladi ▁yamu wone ▁yo yat endi le ▁ivo . </s> cwe_Latn
+▁Ye li ▁na ▁mag ut wi ▁ya ▁kuhu lika , ▁naya hu like . " </s> cwe_Latn
+▁Yesu ▁ka wal anga , ▁ka wal ongela ▁sim we , ▁" V ino ▁Luf y ende ▁koda ha ▁kum ula va ▁Setani ? </s> cwe_Latn
+▁Yesu ▁kamu uza , ▁" Z ina ▁jako ▁nani ?" ▁Nayo ▁ked ika , ▁" Z ina ▁j angu ▁Lung ' hus esa , ▁kwa vi ya ▁chaw engi !" </s> cwe_Latn
+▁Vi i fikile ▁chi gul og ulo , ▁nga lawa ▁ikala ▁mg ati ▁mudi lamba , ▁mbali ▁Yesu ▁kaka la ▁ya id umwe ▁mwi isi ▁inya lile . </s> cwe_Latn
+▁Wam wid ika , ▁" C hoda ha . " ▁Yesu ▁ka wal ongela , ▁" M wiza ing ' wila ▁nh ungo ▁in ing ' wila ▁niye ▁na ▁kub ati zig wa ▁ub atizo ▁un ib ati zig we ▁niye . </s> cwe_Latn
+▁Lelo ▁hul umuka ▁mu ▁m sala ba ▁na ▁uwi hon ye ▁mwenye wo !" </s> cwe_Latn
+▁No wal ongela ▁kweli , ▁munhu ▁yo yose ▁yon da ▁ya weng ' he ▁nh ungo ▁ya ▁mazi ▁ya ▁kung ' wa ▁kwa vi ya ▁mwe ye ▁mwa ▁wan hu ▁wa ▁Ch ilis ito , ▁keza hokela ▁gw eko ▁jake . </s> cwe_Latn
+▁M sang ' hani ▁ija ▁mwanamke ▁kamu wona ▁ka idi ▁Pet ili ▁haja . ▁Kand usa ▁ka idi ▁ku wal ongela ▁wan hu ▁waka lile ▁wema ▁haja , ▁" Munhu ▁ino ▁ni ▁imwe ▁wa ▁wawo !" </s> cwe_Latn
+▁Wana hina ▁wand usa ▁kui uz agiza ▁wenye wo , ▁" Kal onga ▁vino ▁kwa vi ya ▁cha bule ▁mag ate . " </s> cwe_Latn
+▁" Mun yu ▁un oga , ▁mbali ▁one ▁wa hagi za ▁umun yu ▁wake , ▁wiz ag um igwa ▁ch oni ▁mb aka ▁uko lele ? ▁" Mu we ▁na ▁umun yu ▁wa ▁umb wiya ▁mg ati ▁yenu , ▁muka le ▁kwa ▁tin di walo . " </s> cwe_Latn
+▁Mbali ▁w ams eka , ▁ivo ▁Yesu ▁kawas ege za ▁wose ▁kunze , ▁kam sola ▁tati ▁yake ▁ija ▁im wana ▁na ▁mami ▁yake ▁na ▁wa ja ▁wana hina ▁watatu , ▁weng ila ▁mums ana ▁mu yat amb alis igwe ▁im n dele . </s> cwe_Latn
+▁Fana ▁ya heza ▁kwa ▁kuwas inh usa , ▁seke yawa fike ▁mug ona ▁nh ongo . </s> cwe_Latn
+▁Vi ika lile ▁zuwa ▁da ▁sita ▁imisi , ▁isi ▁yose ▁ikala ▁ig ub ik igwe ▁na ▁zi za ▁mb aka ▁vii fikile ▁zuwa ▁da ▁kenda ▁imisi . </s> cwe_Latn
+▁Mbali ▁Pet ili ▁ka bela , ▁" S imm any ile ▁bule ▁wala ▁sich imanya ▁chi ul onga . " ▁Ma aba ho ▁kala wa ▁mb aka ▁kulu hel engo , ▁baho baho ▁nz ogolo ▁keka . </s> cwe_Latn
+▁M koi ▁wa ▁Sa imoni ▁kaka la ▁yag onile ▁mud ikom wa , ▁kol umwa . ▁Ba ho baho ▁Yesu ▁vi ya fikile ▁wam ulong ela ▁m buli ▁za ▁mt amu ▁iyo . </s> cwe_Latn
+▁Yesu ▁keng ila ▁Yel usalem u ▁na ▁kah ita ▁m wii ▁K aye ▁ya ▁Mulungu . ▁Kalo la ▁chi la ▁chinhu ▁ug aluga , ▁mbali ▁kwa vi ya ▁zuwa ▁d ikala ▁dis wile , ▁kah ita ▁Bes aniya ▁hamwe ▁na ▁wana hina ▁wake ▁longo ▁na ▁wa idi . </s> cwe_Latn
+▁We za ▁wan hu ▁wane , ▁wamp apa ▁munhu ▁ya holo lile , ▁wam gala ▁kwa ▁Yesu . </s> cwe_Latn
+▁Kawa fundi za ▁vin hu ▁vingi ▁kwa ▁mas imwe . ▁Muna ▁yama fundi zo ▁yake ▁ka wal ongela , </s> cwe_Latn
+▁Ivo ▁munhu ▁iyo ▁kas eg ela ▁na ▁kuh ita ▁uko ▁Dek apo li , ▁ka wal ongela ▁ya ja ▁yose ▁Yesu ▁yo yam ten dele . ▁Wan hu ▁wose ▁wo wa hu like ▁waz anywa . </s> cwe_Latn
+▁Yesu ▁vi yazi lib uke ▁Jum ap ili ▁im ito ot ondo , ▁mosi ▁kam ula wilila ▁Maliya ▁Mag idal ena , ▁ija ▁Yesu ▁yo yam ula vile ▁viny am kela ▁saba . </s> cwe_Latn
+▁Yesu ▁vi yawa hu like , ▁ka wed ika , ▁" Wan hu ▁wag ima ▁ha wam ul onda ▁mg anga ▁mbali ▁wat amu ▁wom ul onda . ▁Si zile ▁kuwat anga ▁wan hu ▁wan ogile , ▁mbali ▁weli ▁na ▁u has anyi . " </s> cwe_Latn
+▁Ma aba ho ▁wan hu ▁wamu lamba ▁Yesu ▁yas eg ele ▁mwi isi ▁yawo . </s> cwe_Latn
+▁Wana hina ▁wany unyu wala , ▁wamu uza ▁imwe ▁imwe , ▁" V ino ▁iyo ▁niye ?" </s> cwe_Latn
+▁Ivo ▁Yesu ▁kah ita ▁chi la ▁han hu ▁mwi isi ▁ya ▁Gali laya , ▁kawa pet ela ▁wan hu ▁M buli ▁In ogile ▁muna ▁zik aye ▁za ▁kut os ela ▁na ▁kuw inga ▁viny am kela . </s> cwe_Latn
+▁Wana hina ▁wake ▁wam wid ika , ▁" Ko wona ▁wan hu ▁vi w okus ung ' ha - sung ' ha , ▁ma aba ho ▁we ye ▁kou za ▁ye lihi ▁yo yak ud alise ?" </s> cwe_Latn
+▁Yesu ▁vi ya hulum uke ▁kulawa ▁mwi inga lawa , ▁kalu wona ▁lung ' hus esa ▁luk ulu ▁lwa ▁wan hu . ▁Kawa on ela ▁uba zi ▁kwa vi ya ▁waka la ▁fana ▁ng ' h ondolo ▁weli bule ▁wad imi . ▁Ivo ▁kand usa ▁kuwa fundi za ▁vin hu ▁vingi . </s> cwe_Latn
+▁Ich ig ulog ulo ▁cha ▁siku ▁ija , ▁Yesu ▁ka wal ongela ▁wana hina ▁wake , ▁" Ch ikan he ▁l wanda ▁chi h ite ▁um w ambu . " </s> cwe_Latn
+▁Mbali ▁kwa vi ya ▁wa bule ▁mi zizi ▁mg ati ▁mm wawo , ▁wok ala ▁chip indi ▁chid ogo . ▁Wa hap ata ▁maga yo ▁he bu ▁manh esa ▁kwa ▁ch imu ▁cha ▁m buli , ▁baho baho ▁wab wela ▁kuch is ogo . </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" M we ye ▁wad elen ya ! ▁Mula gula ▁Isaya ▁kalag ula ▁vin ogile ▁kum wenu ▁vay along ile , ▁' Wan hu ▁wano ▁won ho go za ▁kwa ▁mil omo ▁yawo , ▁mbali ▁mizo yo ▁yawo ▁yaku tali ▁na ▁niye . </s> cwe_Latn
+▁One ▁munhu ▁ya hawa uza , ▁' M bona ▁mot enda ▁ivo ?' ▁Mul ong eleni , ▁M nde wa ▁kom ul onda ▁na ▁keza ▁mb wele za ▁hano ▁sam bi . " </s> cwe_Latn
+▁Munhu ▁yeli ▁na ▁chinhu ▁ke zak onge ze lig wa , ▁na ▁munhu ▁yeli bule ▁chinhu ▁weli bule ▁chinhu , ▁keza hok igwa ▁hata ▁chi ya ▁chid odo ▁chi yeli ▁nacho . " </s> cwe_Latn
+▁Zim wenga ▁z ila ga lila ▁han hu ▁hana ▁imi wa . ▁Imi wa ▁iku la ▁na ▁ku iban anga ▁min oga ▁hata ▁ipot wa ▁ku lela . </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kawa uza ▁wan hu ▁wa ja , ▁" C hili hi ▁chin ogile ▁kuten dig wa ▁muna ▁Is iku ▁ya ▁M hum ulo , ▁kutenda ▁yan ogile ▁he bu ▁kutenda ▁ye hile ? ▁Ku uk ombola ▁ug ima ▁wa ▁munhu ▁he bu ▁ku uk oma ?" ▁Mbali ▁ha walong ile ▁chinhu . </s> cwe_Latn
+▁Mn dele ▁wa ▁Hel odi ya ▁vi yeng ile ▁kuv ina , ▁kawan oge za ▁ng ' hani ▁Hel ode ▁na ▁wag eni ▁wake . ▁Ivo ▁Hel ode ▁kam ulong ela ▁mn dele ▁ija , ▁" N ip ule ▁chinhu ▁cho chose ▁chi ul onda , ▁ni zak wing ' ha . " </s> cwe_Latn
+▁Ich ilo ▁k ogona , ▁imisi ▁kolam ka . ▁Mbe yu ▁z okota ▁na ▁kukula , ▁mbali ▁yeye ▁ha vim anya ▁bule ▁vit endeka . </s> cwe_Latn
+▁Ivo ▁wa ja ▁Maf alisayo ▁na ▁wa fundi za ▁wa ▁Ma lagi li zo ▁wamu uza ▁Yesu , ▁" Ha bali ▁wana hina ▁wako ▁hawa win za ▁ma fundi zo ▁yo chi hok ele ▁kwa ▁wasa ho ▁zetu ? ▁Ha bali ▁wo ja ▁ndiya ▁kwa ▁mak ono ▁hay asun hig we ?" </s> cwe_Latn
+▁Nayo ▁ken uka , ▁kap apa ▁lili ▁jake ▁na ▁kulawa ▁kunze ▁wan hu ▁wose ▁wom ulo la . ▁W ose ▁waz anywa ▁na ▁wam tun hiza ▁Mulungu , ▁wal onga , ▁" H ach ina ▁chi wona ▁chinhu ▁chino !" </s> cwe_Latn
+▁Ma aba ho ▁Yakobo ▁na ▁Yohana , ▁wana ▁wa ▁Zeb ed ayo ▁wam wi zila ▁Yesu ▁na ▁wam ulong ela , ▁" M fundi za , ▁kuna ▁chinhu ▁chol onda ▁uch it endele . " </s> cwe_Latn
+▁Siku ▁dim we , ▁nya fasi ▁ipat igwa ▁vi ika lile ▁mwi is iku ▁ya ▁kuk umbuka ▁kuv umbuka ▁kwa ▁Hel ode . ▁Hel ode ▁kaka la ▁kawat endela ▁dug ila ▁kulu ▁wak ulu ▁wa ▁bul ulu ▁na ▁wak ulu ▁wa ▁waka lizi ▁na ▁walang ulizi ▁wa ▁Gali laya . </s> cwe_Latn
+▁Ba ho baho ▁mn dele ▁ija ▁kak im bila ▁mb aka ▁kwa ▁mf alume ▁na ▁kum ulong ela , ▁" N ing ' he ▁sam bi ▁baha ▁dit wi ▁da ▁Yohana ▁Mb ati zi ▁muna ▁ich ano !" </s> cwe_Latn
+▁Yesu ▁kam wid ika , ▁" Ko ya wona ▁maz engo ▁yayo ▁makulu ? ▁Hadi za lek igwa ▁dib we ▁mch any ha ▁ya ▁dib we ▁dim wenga , ▁chi la ▁dib we ▁di zak was igwa ▁hasi . " </s> cwe_Latn
+▁" S iku ▁izo ▁za ▁maga yo ▁makulu ▁zi haf osa , ▁zuwa ▁diz ag um igwa ▁zi za , ▁na ▁umwe zi ▁hawi zala va ▁mul enge ▁wake . </s> cwe_Latn
+▁" Na ▁mwe ye ▁muy ilo le . ▁Mwi zag wi lig wa ▁na ▁kuga lig wa ▁kwi ich itala . ▁Mwi z ato wig wa ▁m wii ▁zik aye ▁za ▁kut os ela . ▁M wiza ga lig wa ▁ha ul ongozi ▁ha ▁wata wala ▁na ▁wa fal ume ▁kwa ▁ich imu ▁changu , ▁mu ladi ▁mu wal ongele ▁M buli ▁In ogile . </s> cwe_Latn
+▁Yesu ▁vi yaka lile ▁yo ja ▁ndiya ▁mwi ik aye ▁ya ▁La wi , ▁was ola ▁kodi ▁wengi ▁na ▁" weli ▁na ▁u has anyi " ▁waka la ▁hamwe ▁nayo ▁na ▁wana hina ▁wake , ▁kwa vi ya ▁wan hu ▁wengi ▁waka la ▁wom son de lela . </s> cwe_Latn
+▁Kam tuma ▁mtum wa ▁im wenga , ▁iyo ▁wam koma . ▁Ka wat uma ▁wat umwa ▁wam wenga ▁wengi , ▁wam wenga ▁waw ato wa , ▁na ▁wam wenga ▁wawak oma . </s> cwe_Latn
+▁" N ok ulong ela , ▁in uka , ▁up ape ▁lili ▁jako ▁na ▁w ite ▁uk aye !" </s> cwe_Latn
+▁Yesu ▁keng ila ▁ka idi ▁m wii ▁K aye ▁ya ▁Kut os ela . ▁Ba ho ▁kukala ▁na ▁munhu ▁ya holo lile ▁mkono . </s> cwe_Latn
+▁Ivo ▁wan hu ▁wap wi lil isa ▁mwi isi ▁ija ▁yose , ▁wand usa ▁kuwas ola ▁wat amu ▁muna ▁yam akom wa ▁na ▁kuwa gala ▁ho h ose ▁ho wa hu like ▁Yesu ▁kaba ho . </s> cwe_Latn
+▁Mbali ▁Sa imoni ▁na ▁i waya ge ▁wah ita ▁kum ul onda . </s> cwe_Latn
+▁Yesu ▁vi yaka lile ▁ko lawa ▁m wii ▁K aye ▁ya ▁Mulungu , ▁mwana hina ▁wake ▁imwe ▁kam ulong ela , ▁" M fundi za , ▁lola ▁mab we ▁na ▁maz engo ▁yano ▁vi yan ogile !" </s> cwe_Latn
+▁Wan hu ▁wengi ▁wamb waki la ▁na ▁wam ulong ela ▁yany ama le . ▁Mbali ▁yeye ▁kag endelela ▁kutanga ▁kwa ▁dizi ▁kulu , ▁" Mwana ▁wa ▁Daudi , ▁ni won ele ▁uba zi !" </s> cwe_Latn
+▁Yuda ▁vi ya fikile , ▁baho baho ▁kang endela ▁Yesu ▁na ▁kulonga , ▁" M fundi za !" ▁Ma aba ho ▁kam non ela . </s> cwe_Latn
+▁Ich ilo ▁na ▁imisi ▁kaka la ▁kuna ▁yama leme ▁na ▁imig ongo ▁kog uta ▁ny angi ▁na ▁ku ikan h akan ha ▁na ▁mab we . </s> cwe_Latn
+▁Wo wab amanya ▁na ▁kusola ▁kaye ▁za ▁wag ane . ▁Ku yi lag usa ▁kuwa ▁wano ga , ▁wot osa ▁nh osa ▁n hali . ▁Wan hu ▁wawo ▁we zat agus igwa ▁n hag uso ▁ng ' hulu !" </s> cwe_Latn
+▁Ma aba ho ▁kam tuma ▁ka idi ▁mtum wa ▁im wenga . ▁Iyo ▁nayo ▁wam towa ▁muna ▁id it wi ▁na ▁kum ten dela ▁vi hile . </s> cwe_Latn
+▁Na ▁mwe ye ▁vond amu hu like ▁ng ' hondo ▁na ▁m buli ▁za ▁ng ' hondo , ▁sek em ud umbe . ▁Y ayo ▁yol ondeka ▁kula wilila , ▁mbali ▁u helelo ▁ung ' hali ▁kufika . </s> cwe_Latn
+▁Yesu ▁vi yaka lile ▁Gali laya , ▁wana ake ▁wano ▁wamu win za ▁na ▁kum sang ' hani la . ▁Wana ake ▁wam wenga ▁wengi ▁wo wezi le ▁Yel usalem u ▁hamwe ▁nayo ▁ivi ya ▁waka la ▁haja . </s> cwe_Latn
+▁Ba ho baho ▁vi wala wile ▁m wii ▁K aye ▁ya ▁kut os ela , ▁Yesu ▁hamwe ▁na ▁Yakobo ▁na ▁Yohana ▁wah ita ▁kwik aye ▁kwa ▁Sa imoni ▁na ▁An dele ya . </s> cwe_Latn
+▁Wam wid ika , ▁" W am wenga ▁wol onga ▁we ye ▁ni ▁Yohana ▁Mb ati zi , ▁wam wenga ▁wol onga ▁ni ▁Eliya ▁na ▁wam wenga ▁wol onga ▁ni ▁imwe ▁wa ▁walo te zi ▁wa ▁Mulungu . " </s> cwe_Latn
+▁Yesu ▁ked ika , ▁" Iyo ▁niye . ▁Na ▁mwe ye ▁wose ▁mwi zani wona ▁niye , ▁Mwana ▁wa ▁Munhu ▁n ikala ▁uban zi ▁wa ▁kul ume ▁wa ▁M nde wa ▁mwene ▁L uda bwa , ▁na ▁nok wiza ▁m wii ▁yama w ingu ▁ya ▁kuul anga !" </s> cwe_Latn
+▁" H ambwe ▁vino ▁ni ▁chinhu ▁chi lihi ▁cho chim ten da ▁yal onge ▁ivo ? ▁Ino ▁kom uliga ▁Mul ugu ! ▁Mulungu ▁ya id umwe ▁yo da ha ▁kus ege za ▁u has anyi !" </s> cwe_Latn
+▁Na ▁baho baho ▁dik ulu ▁di lawa , ▁kah ona . </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" Munhu ▁yo yose ▁yom wasa ▁muke ▁wake ▁na ▁kusola ▁muke ▁im wenga , ▁iyo ▁kom ten dela ▁uz inzi ▁muke ▁wake ▁wa ▁mwand uso . </s> cwe_Latn
+▁Kah ita ▁kuul ongozi ▁chid ogo , ▁kay ib wan ha ▁hasi ▁na ▁kat osa , ▁one ▁ih adah ika ▁seke yaf osele ▁lus ita ▁lu ja ▁lwa ▁manh esa . </s> cwe_Latn
+▁Yesu ▁kawat ogo lela , ▁ivo ▁viny am kela ▁wam ula wa ▁munhu ▁ija ▁na ▁weng ila ▁mwi iz ing ulu we . ▁Lung ' hus esa ▁lose ▁lwa ▁ng ulu we ▁mal ongo ▁magana ▁ma idi ▁wak im bili la ▁mudi lamba , ▁na ▁wad umb ukila ▁muna ▁yama zi ▁wad angan ika . </s> cwe_Latn
+▁Vino ▁vose ▁vi hile ▁vola wa ▁mg ati ▁mu umo yo ▁wa ▁munhu , ▁navo ▁nii vo ▁mw ambula ▁mw iko ▁munhu . " </s> cwe_Latn
+▁Yesu ▁kaka la ▁kolonga ▁m buli ▁iyo ▁fun hu fun hu . ▁Pet ili ▁kam sola ▁kum gwa zo ▁na ▁kand usa ▁kun ' bw akila . </s> cwe_Latn
+▁Ma aba ho ▁dila wilila ▁w ingu ▁di wag ub ika , ▁na ▁dizi ▁di lawa ▁mudi w ingu ▁kulonga , ▁" I no ▁nii yo ▁mwan angu , ▁nya ch ende ▁wangu , ▁mum teg ele ze !" </s> cwe_Latn
+▁Kwa ▁ch imu ▁kukala ▁na ▁wan hu ▁wengi , ▁haw ada hile ▁kuwa ▁habe hi ▁na ▁Yesu . ▁Ivo ▁wat obola ▁kuch isu wili , ▁kulinga ▁haja ▁hay aka lile ▁Yesu . ▁Ba ho , ▁wam uh ulum usa ▁munhu ▁ija ▁ya holo lile ▁mu idi lili . </s> cwe_Latn
+▁Hata ▁viwa wa fikile ▁wa ja ▁wana hina ▁wam wenga , ▁walu wona ▁lung ' hus esa ▁luk ulu ▁lwa ▁wan hu ▁luwa zung uluka , ▁na ▁wa fundi za ▁Ma lagi li zo ▁wam wenga ▁waka la ▁wo ib ishila ▁nawo . </s> cwe_Latn
+▁M fal ume ▁Hel ode ▁ka hu lika ▁zim buli ▁izo , ▁ch imu ▁n hog olwa ▁za ▁Yesu ▁z enela ▁chi la ▁han hu . ▁Wan hu ▁waka la ▁wol onga , ▁" Yohana ▁Mb ati zi ▁kazi lib uka ! ▁I cho ▁ich imu ▁lek amana ▁kana ▁lu da bwa ▁lwa ▁kusang ' hana ▁mau za uza . " </s> cwe_Latn
+▁Ma aba ho ▁ka ulong ela ▁mb iki ▁uja , ▁" Kus ongela ▁sam bi ▁na ▁kug endelela , ▁ha bule ▁munhu ▁yon da ▁yaje ▁ka idi ▁matunda ▁yako ▁ng ' o !" ▁Na ▁wana hina ▁wake ▁wahu lika ▁vay along ile ▁ivo . </s> cwe_Latn
+▁Wal ume ▁mu hala ▁wadi le ▁waka la ▁magana ▁mal ongo ▁mat ano . </s> cwe_Latn
+▁Vi wa fikile ▁kwa ▁Yesu , ▁wamu wona ▁munhu ▁ija ▁yo yaka lile ▁na ▁lung ' hus esa ▁lwa ▁viny am kela ▁kaka la ▁hasi , ▁kaya wala ▁vi walo ▁go ya ▁na ▁hakili ▁zake ▁z imb welela . ▁Wan hu ▁wose ▁wad umba . </s> cwe_Latn
+▁Ivo ▁Yesu ▁kam sola ▁munhu ▁iyo ▁ham gwa zo ▁heli bule ▁wan hu . ▁Kag uma ▁v ido le ▁vake ▁muna ▁yam agut wi ▁ya ▁munhu ▁iyo . ▁Ma aba ho ▁kat ema ▁yam ate ▁na ▁kum d alisa ▁lulimi . </s> cwe_Latn
+▁Wana hina ▁waz anywa ▁ng ' hani , ▁wand usa ▁kwi i uza , ▁" V ino ▁ye lihi ▁yon da ▁yada he ▁kul opo lig wa ?" </s> cwe_Latn
+▁" T eg eleza , ▁seke um ulong ele ▁munhu ▁yo yose ▁m buli ▁ino , ▁mbali ▁w ite ▁uka ilag use ▁kwa ▁mula va ▁nh amb iko . ▁Ma aba ho , ▁kala ve ▁nh osa ▁fana ▁Musa ▁vaya lagi lize ▁kwa ▁ku hona ▁kwako , ▁mu ladi ▁kuwa lag usa ▁wan hu ▁wose ▁kuwa ▁ku hona . " </s> cwe_Latn
+▁One ▁M nde wa ▁sig ambe ▁yah ungu ze ▁siku ▁izo , ▁ha bule ▁munhu ▁yon da ▁ya hone . ▁Mbali ▁kwa ▁ich imu ▁cha ▁wan hu ▁wa ja ▁M nde wa ▁wo ya was agu le , ▁kaya h unguza ▁zis iku ▁izo . </s> cwe_Latn
+▁Yesu ▁vi ya hu like ▁m buli ▁zil ong igwe ▁na ▁wan hu ▁wawo , ▁kaze ha , ▁kam ulong ela ▁mkulu ▁wa ▁kaye ▁ya ▁kut os ela , ▁" S eke ud umbe , ▁tog ola ▁tu . " </s> cwe_Latn
+▁W amu uza ▁Yesu , ▁" M bona ▁wa fundi za ▁Ma lagi li zo ▁wol onga ▁Eliya ▁kol ondeka ▁kwi za ▁teng ' hu ?" </s> cwe_Latn
+▁Yosefu ▁kag ula ▁sanda , ▁kal uh ulum usa ▁luku li ▁lwa ▁Yesu , ▁kalu zing ili za ▁sanda ▁na ▁kal wika ▁mwi idile me ▁dika lile ▁dod is ongo lig we ▁muulu we . ▁Ama la baho ▁kab im bil isa ▁dib we ▁kulu ▁ham ul omo ▁ha ▁di leme . </s> cwe_Latn
+▁Na ▁ivo ▁m buli ▁za ▁Yesu ▁z enela ▁h imah ima ▁chi la ▁han hu ▁mwi isi ▁ya ▁Gali laya . </s> cwe_Latn
+▁Wana hina ▁wake ▁wamu uza , ▁" H ano ▁cham wi ich u wala , ▁iz apat ika ▁kuli hi ▁ndiya ▁ya ▁kuwe gu ti za ▁wan hu ▁wano ▁wose ?" </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kal onga , ▁" Munhu ▁yeli ▁na ▁mag ut wi , ▁ya hu like !" </s> cwe_Latn
+▁" Ch imu hu lika ▁munhu ▁ino ▁kolonga , ▁' Ni za iban anga ▁K aye ▁ino ▁ya ▁Mulungu ▁iz eng igwe ▁kwa ▁mak ono ▁ya ▁wan hu , ▁na ▁siku ▁ya ▁tatu , ▁ni za zenga ▁im wenga ▁h onda ▁iz eng igwe ▁bule ▁kwa ▁mak ono ▁ya ▁wan hu .' ▁" </s> cwe_Latn
+▁Ivo ▁no wal ongela , ▁v imt osa ▁na ▁kup ula ▁chinhu ▁cho chose , ▁muhu wile ▁kuwa ▁muh okela , ▁navo ▁viz akuwa ▁venu . </s> cwe_Latn
+▁Mbali ▁Yesu ▁kal onga , ▁" Mu lek eni . ▁Mbona ▁mw ond esa ? ▁Kan h endela ▁chinhu ▁chin ogile . </s> cwe_Latn
+▁Yesu ▁kamu uza , ▁" Ha bali ▁kon hanga ▁niye ▁nino ga ?" ▁Ha bule ▁yan ogile ▁ila ▁Mulungu ▁ya idu we . </s> cwe_Latn
+▁Kal onga , ▁" L usita ▁lu fika , ▁U fal ume ▁wa ▁Mulungu ▁wa ▁habe hi . ▁Lek eni ▁u has anyi ▁wenu ▁na ▁kuit og ola ▁M buli ▁In ogile !. " </s> cwe_Latn
+▁Yesu ▁kand usa ▁kulonga ▁nawo ▁kwa ▁mas imwe . ▁" Munhu ▁imwe ▁ka handa ▁mi za bibu ▁mum gun da . ▁Ama la baho ▁ka zung ulus ila ▁wako , ▁kah imba ▁han hu ▁ha ▁ku boj ogela ▁nza bibu , ▁na ▁ka zenga ▁lingo . ▁K eka ▁m kali zi , ▁ma aba ho ▁kah ita ▁isi ▁ya ▁kutali . </s> cwe_Latn
+▁Ba ho baho ▁vi yala wile ▁muna ▁yama zi , ▁ka wona ▁kuul anga ▁kuv ug uka ▁na ▁Mu he ▁wa ▁Mulungu ▁kam uh ulum ukila ▁fana ▁n ziwa . </s> cwe_Latn
+▁Ba ho baho ▁vi wala wile ▁mwi inga lawa , ▁wan hu ▁wam manya ▁Yesu . </s> cwe_Latn
+▁Na ▁wan hu ▁wadi le ▁waka la ▁waf osa ▁magana ▁mal ongo ▁mane . ▁Yesu ▁ka wala ga ▁wan hu . </s> cwe_Latn
+▁Mbali ▁munhu ▁iyo ▁kala wa , ▁kand usa ▁kuwa pet ela ▁wan hu ▁m buli ▁izo , ▁mb aka ▁Yesu ▁hada hile ▁kwingila ▁mudi bul ulu ▁kwa ▁u wazi . ▁Ivo , ▁kaka la ▁kunze , ▁han hu ▁hali bule ▁wan hu . ▁Hata ▁ivo ▁wan hu ▁wam uh itila ▁kulawa ▁chi la ▁han hu . </s> cwe_Latn
+▁Kwa vi ya ▁ha ch ingila ▁mu umo yo ▁mbali ▁chok wing ila ▁mm unda , ▁ma aba ho ▁cho lawa ▁kunze ▁ya ▁luku li . " ▁Vi yal ong ile ▁ivo , ▁Yesu ▁ka zit og ola ▁ndiya ▁zose ▁ku dig wa . </s> cwe_Latn
+▁No walong eleni ▁kweli , ▁wan hu ▁wa ▁u lelwa ▁uno ▁ha weza f osa ▁bule ▁mb aka ▁yayo ▁yose ▁yala wilile . </s> cwe_Latn
+▁Vi yamu woni le ▁Pet ili ▁koko tela ▁moto , ▁kamb unhu lila ▁meso ▁na ▁kam ulong ela , ▁" H ata ▁we ye ▁kukala ▁hamwe ▁na ▁Yesu ▁Mna za leti . " </s> cwe_Latn
+▁Na ▁mkulu ▁wa ▁waka lizi ▁yaka lile ▁kema ▁ha ul ongozi ▁ha ▁m sala ba ▁ka wona ▁Yesu ▁vay ad angan ike . ▁Kal onga , ▁" K weli ▁munhu ▁ino ▁kaka la ▁Mwana ▁wa ▁Mulungu . " </s> cwe_Latn
+▁Na ▁wano ▁wawo ▁wo ya was agu le , ▁Sa imoni , ▁Yesu ▁kam wing ' ha ▁zina ▁Pet ili , </s> cwe_Latn
+▁Kwa ▁ich imu ▁wan hu ▁waka la ▁wengi , ▁Yesu ▁ka wal ongela ▁wana hina ▁wake ▁wam t andile ▁nga lawa ▁mu ladi ▁wan hu ▁seke w ams ung ' hes ung ' he . </s> cwe_Latn
+▁Ma aba ho ▁Maf alisayo ▁wala wa ▁kunze ▁ya ▁kaye ▁ya ▁Mulungu , ▁waiting ' hana ▁na ▁wan hu ▁wa ▁chi gw ena ▁cha ▁Hel ode , ▁na ▁wand usa ▁kulonda ▁nzila ▁ya ▁kum koma ▁Yesu . </s> cwe_Latn
+▁Wan hu ▁i wad angan ike ▁v onda wazi lib uke , ▁ha we zas ola ▁wala ▁kuso lig wa , ▁wez akuwa ▁fana ▁was enga ▁wa ▁kuul anga . </s> cwe_Latn
+▁Wal and ula ▁yam adi zi , ▁" M uw ambe ▁mum sala ba !" </s> cwe_Latn
+▁Kag uta ▁ny angi ▁kwa ▁dizi ▁kulu , ▁" Yesu ▁Mwana ▁wa ▁Mulungu ▁yeli ▁Kuch any ha ▁Ng ' hani ! ▁Ch oni ▁chi ul onda ▁kum wangu ? ▁Ila he ▁kwa ▁zina ▁da ▁Mulungu ▁kuwa ▁hwi zan h esa !" </s> cwe_Latn
+▁Ba ho baho ▁wazi leka ▁nya vu ▁zawo ▁na ▁wam son de lela . </s> cwe_Latn
+▁Mi yan za ▁mingi ▁ch iny am kela ▁ka geza ▁kung wisa ▁mu um oto ▁he bu ▁munay amazi ▁mu ladi ▁yam k ome . ▁One ▁uh adaha , ▁uchi won ele ▁uba zi ▁na ▁uch ita ze !" </s> cwe_Latn
+▁Wa leke lele ▁wan hu ▁wah ite ▁muna ▁imig unda ▁na ▁muna ▁yama bul ulu ▁yeli ▁habe hi ▁mu ladi ▁wak agu le ▁ndiya ▁waje . " </s> cwe_Latn
+▁Maf alisayo ▁na ▁wa fundi za ▁wa ▁Ma lagi li zo ▁wala wa ▁Yel usalem u , ▁waiting ' hana ▁ha ul ongozi ▁ha ▁Yesu . </s> cwe_Latn
+▁Pet ili ▁kak umbuka ▁chay along ile ▁Yesu , ▁kam ulong ela , ▁" M fundi za , ▁lola ! ▁U ja ▁mb iki ▁wa ▁mt ini ▁wou udu wile ▁un yala !" </s> cwe_Latn
+▁Yuda ▁ija ▁im uh induka , ▁kaka la ▁kal wing ' ha ▁chi lag uso ▁lung ' h use ▁ul wo ▁kuwa , ▁" I ja ▁y ond anim non ele ▁iyo ▁iyo ▁mg wil eni , ▁mum gale ▁na ▁mum kali ze ▁seke yas ulup uke . " </s> cwe_Latn
+▁Wan hu ▁wal ongole ▁na ▁wa ja ▁wam son de lele ▁wal and ula ▁madi zi ▁yawo , ▁wag uta , ▁" M wing ' heni ▁n hog olwa ▁Mulungu , ▁Mulungu ▁yom tem ela ▁mate ▁iyo ▁yok wiza ▁kwa ▁zina ▁da ▁M nde wa ! </s> cwe_Latn
+▁Wam gala ▁han hu ▁hat ang igwe ▁Goli gota , ▁famb ulo ▁jake ▁" Han hu ▁ha ▁Bomb we . " </s> cwe_Latn
+▁Na ▁wan hu ▁waka lile ▁na ▁viny am kela ▁chi la ▁va wamu onile ▁Yesu , ▁wag wa ▁ha ul ongozi ▁hake , ▁na ▁wali la ▁kwa ▁dizi ▁kulu , ▁" We ye ▁iyo ▁Mwana ▁wa ▁Mulungu !" </s> cwe_Latn
+▁Wana hina ▁wad umba ▁ng ' hani , ▁wai uz agiza , ▁" I no ▁munhu ▁waki ? ▁Hata ▁mbe ho ▁na ▁maw imbi ▁vose ▁vim teg eleza !" </s> cwe_Latn
+▁Vom t osa , ▁mu leke lele ▁chi la ▁munhu ▁yo yawa has anye ▁cho chose ▁chi ya , ▁mu ladi ▁Tati ▁yenu ▁yeli ▁kuul anga ▁nayo ▁yawa leke lele ▁u has anyi ▁wenu . " </s> cwe_Latn
+▁Uka zi ▁wa ▁munhu ▁iyo ▁uka la ▁kuna ▁ivi leme , ▁na ▁ha bule ▁munhu ▁yada hile ▁kum funga ▁ka idi , ▁hata ▁kwa ▁miny ololo . </s> cwe_Latn
+▁Wam witi la ▁na ▁kulonga , ▁" M fundi za , ▁ch ov imanya ▁kuwa ▁we ye ▁kwa ▁munhu ▁ul onga ▁ukweli , ▁na ▁hum d umba ▁munhu ▁yo yose , ▁kwa vi ya ▁h ulo la ▁ukulu ▁wa ▁munhu , ▁mbali ▁muna ▁ukweli ▁mu hala ▁ko fundi za ▁nzila ▁ya ▁Mulungu . ▁Ivo ▁uch il ongele , ▁vino ▁vino ga ▁he bu ▁ha vin ogile ▁kuli ha ▁kodi ▁kwa ▁Ka isali ? ▁Chim wing ' he ▁he bu ▁seke chim wing ' he ?" </s> cwe_Latn
+▁Ivo ▁wam wid ika ▁Yesu , ▁" Che ye ▁ha ch iv imanya . " ▁Yesu ▁ka wal ongela , ▁" Na ▁niye ▁ivi ya ▁si wal ongela ▁bule ▁kwa ▁uda hi ▁wa ▁ye lihi ▁not enda ▁yano ▁yose . " </s> cwe_Latn
+▁Ham wan de ▁Yesu ▁ka wala wilila ▁wana hina ▁wake ▁wa idi ▁muna ▁dil umbo ▁dim wenga . ▁Wana hina ▁wawo ▁waka la ▁woh ita ▁kuvi bul ulu . </s> cwe_Latn
+▁Mbali ▁wan hu ▁wam wenga ▁wal inga ▁fana ▁mbe yu ▁ihan dig we ▁muna ▁ud ongo ▁un ogile . ▁Wo hu lika ▁m buli , ▁wo it og ola ▁na ▁wo lela , ▁wam wenga ▁mal ongo ▁matatu , ▁wam wenga ▁mal ongo ▁mas ita , ▁na ▁wam wenga ▁gana ▁dim we . " </s> cwe_Latn
+▁Yesu ▁kam wid ika , ▁" Lag ili zo ▁kulu ▁ijo ▁dino . ▁' T eg ele zeni , ▁mwe ye ▁wan hu ▁wa ▁Isilaeli ! ▁M nde wa ▁Mulungu ▁wetu ▁iyo ▁M nde wa ▁ya id umwe . </s> cwe_Latn
+▁Yesu ▁kam ulo la ▁kam ul onda ▁na ▁kam ulong ela ▁kuh ung uk ilwa ▁na ▁m buli ▁imwe . ▁Hita ▁uk agu le ▁vose ▁v uu li ▁navo , ▁u weng ' he ▁hela ▁nga yen gaye , ▁na ▁we ye ▁kwi z akuwa ▁na ▁ngama ▁uko ▁kuul anga . ▁Ma aba ho ▁wi ze ▁un is onde lele . </s> cwe_Latn
+▁Yesu ▁vi ya wab welele ▁lw akat atu , ▁ka wal ongela , ▁" M ng ' hali ▁mw ogona ▁na ▁ku hum ula ? ▁Basi ! ▁Lus ita ▁lu fika , ▁niye , ▁Mwana ▁wa ▁Munhu ▁sam bi ▁noge lig wa ▁mm akono ▁mwa ▁wa has anyi . </s> cwe_Latn
+▁Wana hina ▁waz anywa ▁viwa hu like ▁m buli ▁iyo . ▁Mbali ▁Yesu ▁ka wal ongela ▁ka idi , ▁" Wan angu , ▁vid ala ▁ng ' hani ▁kwingila ▁muna ▁U fal ume ▁wa ▁Mulungu ! </s> cwe_Latn
+▁Yesu ▁kawa uza , ▁" Mun ayo ▁mag ate ▁menga hi ? ▁Hit eni ▁mk alo le . " ▁Vi wa vim any ile , ▁wam ulong ela . ▁" Kuna ▁mag ate ▁mat ano ▁na ▁som ba ▁wa idi . " </s> cwe_Latn
+▁Mbali ▁Yesu ▁ka wag omesa ▁ng ' hani ▁seke wam ulong ele ▁munhu ▁yo yose ▁m buli ▁ija , ▁ma aba ho ▁ka wal ongela , ▁" M wing ' heni ▁ndiya ▁mn dele ▁ino . " </s> cwe_Latn
+▁Tos eni ▁ng ' hani ▁yayo ▁seke yala wilile ▁muna ▁zis iku ▁za ▁chi hu hwe ! </s> cwe_Latn
+▁Yesu ▁kawa uza , ▁" Musa ▁ka wala gi liza ▁vi lihi ?" </s> cwe_Latn
+▁Mbali ▁Yesu ▁kam wam ha ▁mkono ▁im wana ▁ija , ▁kam ta za ▁kwin uka , ▁nayo ▁ken uka . </s> cwe_Latn
+▁Yesu ▁ka wal ongela , ▁" No wal ongela ▁kweli , ▁munhu ▁yo yose ▁ya lekile ▁kaye ▁yake ▁he bu ▁ndugu ▁zake ▁he bu ▁lum bu ▁zake ▁he bu ▁mami ▁yake ▁he bu ▁tati ▁yake ▁he bu ▁wana ge ▁he bu ▁mig unda ▁kwa ▁ich imu ▁cha ▁niye ▁na ▁m buli ▁in ogile , </s> cwe_Latn
+▁Kah ita ▁kut osa ▁mwan za ▁wa ▁ka idi , ▁na ▁kal onga ▁m buli ▁ziya ▁ziya . </s> cwe_Latn
+▁D ikala ▁zuwa ▁da ▁tatu ▁imit ondo ▁vi wam w ambile ▁mu ▁m sala ba . </s> cwe_Latn
+▁Yesu ▁kawa uza , ▁" Mun ayo ▁mag ate ▁menga hi ?" ▁Wam wid ika , ▁" Chin ayo ▁saba . " </s> cwe_Latn
+▁Mbali ▁wa ja ▁wene vale ▁wez akuwa ▁wo hawa pet igwa , ▁na ▁wa ja ▁wo hawa pet igwa ▁wez akuwa ▁wene vale . " </s> cwe_Latn
+▁Ma aba ho ▁wand usa ▁kumu lam usa , ▁" M win yi , ▁M fal ume ▁wa ▁Wayahudi !" </s> cwe_Latn
+▁Yesu ▁kag endelela ▁kulonga , ▁" V ino ▁munhu ▁koda ha ▁kw ingiza ▁chit asa ▁m nyumba ▁ma aba ho ▁ku dig ub ika ▁na ▁mh ishi ▁he bu ▁kud ika ▁mu uv ungu ▁wa ▁dik omwa ? ▁Ha ida hika ▁hata ▁chid ogo . ▁Mbali ▁munhu ▁kok wika ▁chit asa ▁hana ▁ich ing olob weda , ▁mu ladi ▁chim wem w ese ▁kose . </s> cwe_Latn
+▁Kuka la ▁lung ' hus esa ▁luk ulu ▁lwa ▁ng ulu we ▁wod im igwa ▁muna ▁um ulima . </s> cwe_Latn
+▁Pilato ▁kamu uza ▁Yesu , ▁" H ambwe ▁we ye ▁iyo ▁mf alume ▁wa ▁Wayahudi ?" ▁Yesu ▁ked ika , ▁" Ona , ▁fana ▁we ye ▁vo ulong ile . " </s> cwe_Latn
+▁Mwan amke ▁iyo ▁kaga ya ▁ng ' hani ▁kuwa h itila ▁wag anga ▁wengi ▁na ▁kas ang ' hani la ▁vin hu ▁vake ▁vose , ▁hap atile ▁mu ha vu ▁mbali ▁hali ▁yake ▁ig endelela ▁kwi ha . </s> cwe_Latn
+▁Wana hina ▁wa ▁Yohana ▁viwa hu like ▁m buli ▁iyo , ▁wah ita ▁kuus ola ▁mtu fi ▁wa ▁Yohana , ▁wau wanda . </s> cwe_Latn
+▁An dele ya , ▁Filipo , ▁Bat ulom ayo , ▁Mas ayo , ▁Tom asi , ▁Yakobo ▁mwana ▁wa ▁Alu f ayo , ▁T ade yi , ▁Sa imoni ▁M kan anayo , </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kawa lamula , ▁" Sek em um ulong ele ▁munhu ▁yo yose ▁m buli ▁ino . " </s> cwe_Latn
+▁Vid ala ▁ng ' hani ▁kwa ▁munhu ▁yeli ▁na ▁vin hu ▁vingi ▁kwingila ▁muna ▁U fal ume ▁wa ▁Mulungu , ▁kuf osa ▁ng amiya ▁kwingila ▁muna ▁ich iz onzo ▁cha ▁san zia . " </s> cwe_Latn
+▁Yesu ▁kand usa ▁ku fundi za ▁ka idi ▁mum gwa zog wazo ▁mwa ▁lamba ▁da ▁Gali laya . ▁Lung ' hus esa ▁luk ulu ▁lwa ▁wan hu ▁lum zung uluka ▁mb aka ▁keng ila ▁mwi inga lawa ▁na ▁kukala ▁umo . ▁Wan hu ▁wose ▁waka la ▁mum gwa zog wazo ▁mwa ▁lamba . </s> cwe_Latn
+▁Kwa ▁m buli ▁ya ▁kuzi lib uka ▁kwa ▁wan hu ▁i wad angan ike , ▁vino ▁ham us om ile ▁bule ▁much itabu ▁cha ▁Musa ▁m buli ▁ya ▁ichi bago ▁ch ikw aka ▁moto ? ▁Mulungu ▁v ayam ulong ele ▁Musa , ▁' Ni ye ▁Mulungu ▁wa ▁B ulah imu ▁na ▁Mulungu ▁wa ▁Isaka ▁na ▁Mulungu ▁wa ▁Yakobo .' </s> cwe_Latn
+▁Wana hina ▁waka la ▁wa zimi za ▁kusola ▁yam ag ate , ▁waka la ▁na ▁gate ▁dim we ▁mu hala ▁mwi inga lawa . </s> cwe_Latn
+▁Iz akuwa ▁fana ▁munhu ▁yoh ita ▁mwan za ▁na ▁kuwa lekela ▁wat umwa ▁wake ▁ulang ulizi , ▁chi la ▁imwe ▁na ▁us ang ' hano ▁wake . ▁Ama la baho ▁kam ulong ela ▁m kali zi ▁wa ▁l wi vi ▁yawe ▁meso . </s> cwe_Latn
+▁Na ▁Yesu ▁kawa hon ya ▁wan hu ▁wengi ▁wo waka lile ▁na ▁mit amu ▁mbas akanyo . ▁Vi ya ▁vi ya ▁ka wala va ▁viny am kela ▁wengi , ▁na ▁ha weng ' hile ▁nya fasi ▁ya ▁kulonga ▁kwa vi ya ▁wam manya ▁yeye ▁yali hi . </s> cwe_Latn
+▁Ivo ▁chi ya ▁chay alum bili ze ▁Mulungu , ▁munhu ▁seke yach ig ole . " </s> cwe_Latn
+▁Yesu ▁kamu won ela ▁uba zi , ▁kaug olosa ▁umk ono ▁wake , ▁kam d alisa ▁na ▁kum ulong ela , ▁" N ol onda ▁kuku ta za , ▁hona !" </s> cwe_Latn
+▁Kwa ▁ich imu ▁kawa hon ya ▁wengi , ▁ivo ▁wan hu ▁wose ▁waka lile ▁wo gaya ▁waka la ▁wo is ung ' has ung ' ha ▁wada he ▁kum wam ha . </s> cwe_Latn
+▁One ▁mkono ▁wako ▁uhak utenda ▁u tende ▁ye hile , ▁u ukan he . ▁Mu ha vu ▁w ingile ▁muna ▁ug ima ▁wa ▁siku ▁zose ▁na ▁mkono ▁umwe ▁mu hala , ▁kuf osa ▁kwingila ▁na ▁mak ono ▁ma idi ▁je han amu . ▁Uko ▁moto ▁wake ▁ha uz imika ▁bule . </s> cwe_Latn
+▁Mbe yu ▁ya hak angala , ▁munhu ▁iyo ▁kos ola ▁s engo ▁na ▁kok wand usa ▁kus enga , ▁kwa ▁ich imu ▁siku ▁za ▁kuk angala ▁ndiya ▁zi fika . " </s> cwe_Latn
+▁Nd ugu ▁wose ▁saba ▁wam sola ▁muke ▁iyo ▁mbali ▁hawa lekile ▁wana ▁bule . ▁Kuu helelo , ▁muke ▁ija ▁ivi ya ▁kad angan ika . </s> cwe_Latn
+▁Kaz anywa ▁ng ' hani ▁kwa vi ya ▁wan hu ▁waka la ▁wa bule ▁u hu wilo . ▁Ama la baho ▁Yesu ▁kah ita ▁mwi ▁ivi bul ulu ▁vili ▁habe hi , ▁ka fundi za ▁wan hu . </s> cwe_Latn
+▁mb aka ▁m wii ▁kaye ▁yon da ▁yeng ile , ▁na ▁mum ulong ele ▁mwene ▁kaye , ▁m fundi za ▁kolonga , ▁' C hili hi ▁chi hele to ▁cha ▁wag eni ▁mu ladi ▁nije ▁ndiya ▁ya ▁Pas aka ▁na ▁wana hina ▁wangu ?' </s> cwe_Latn
+▁Ma aba ho ▁kab wela ▁ka idi , ▁kawa fika ▁wana hina ▁wake ▁wag ona , ▁meso ▁yawo ▁y akala ▁vu we vu we . ▁Na wo ▁hawa vim any ile ▁bule ▁da ▁kum ulong ela . </s> cwe_Latn
+▁Go za ▁chim ulo le ▁iyo ▁Ch ilis ito , ▁M fal ume ▁wa ▁Isilaeli ! ▁Yah ulum uke ▁sam bi ▁mu ▁m sala ba , ▁na ▁che ye ▁chiz amu hu wila !" ▁Na ▁hata ▁wa ja ▁wan hu ▁wa idi ▁waw ambi gwe ▁mu ▁misa laba ▁hamwe ▁nayo ▁wamu liga . </s> cwe_Latn
+▁Ba ho baho ▁Yesu ▁ka vim anya ▁kuwa ▁uda hi ▁um ula wa . ▁Basi ▁kal uh ind ukila ▁lung ' hus esa ▁lwa ▁wan hu ▁na ▁kulu uza , ▁" Y eli hi ▁yo yad alise ▁walo ▁j angu ?" </s> cwe_Latn
+▁Ivi ya ▁waka la ▁na ▁vis omba ▁vid odo . ▁Yesu ▁kam wing ' ha ▁Mulungu ▁he wela , ▁ka wal ongela ▁wana hina ▁wake ▁wawa go lele ▁wan hu ▁ivi ya . </s> cwe_Latn
+▁Yesu ▁kaka la ▁hasi , ▁ka wal anga ▁wa ja ▁wana hina ▁wake ▁longo ▁na ▁wa idi ▁na ▁ku wal ongela , ▁" Munhu ▁yo yose ▁yoy ol onda ▁kuwa ▁wa ▁mwand uso , ▁kol ondeka ▁yawe ▁wa ▁kuu helelo , ▁na ▁yawe ▁mtum wa ▁wa ▁wose . " </s> cwe_Latn
+▁Kawa wona ▁wana hina ▁wake ▁woga yaga ya ▁kuto wa ▁zing ' hafi , ▁kwa vi ya ▁beho ▁kulu ▁d ikala ▁do wab wele za ▁kuwala wile . ▁Nz ogolo ▁z ikw ika , ▁Yesu ▁ka wah itila ▁kuno ▁kog enda ▁mch any ha ▁ya ▁mazi . ▁Kal onda ▁kuwa f osa , </s> cwe_Latn
+▁Ma aba ho ▁wamu wamba ▁mu ▁m sala ba ▁na ▁way igo lela ▁vi walo ▁vake ▁kwa ▁kuto wa ▁m hiya ▁kulam ula ▁ye lihi ▁yap ate ▁chi lihi . </s> cwe_Latn
+▁Ul inga ▁na ▁mbe yu ▁ya ▁ha lada li ▁yili ▁nd odo ▁kuf osa ▁mbe yu ▁zose ▁zili ▁mwi isi . </s> cwe_Latn
+▁Ivi ya ▁umul onde ▁Mulungu ▁kwa ▁moyo ▁wako ▁wose ▁na ▁kwa ▁hakili ▁zako ▁zose ▁na ▁kwa ▁nguvu ▁zako ▁zose , ▁na ▁kum ul onda ▁miya go ▁fana ▁vou wil onda ▁mwenye wo ▁vino ga ▁kuf osa ▁kum ula vila ▁zabi hu ▁Mulungu . " </s> cwe_Latn
+▁Be ho ▁kulu ▁dila wilila ▁na ▁kuti bula ▁mazi , ▁maw imbi ▁yand usa ▁kwingila ▁mwi inga lawa ▁na ▁mb aka ▁il onda ▁kum ema ▁mazi . </s> cwe_Latn
+▁Yesu ▁na ▁wana hina ▁wake ▁wa bag uka ▁mu ul wanda ▁lwa ▁Gali laya , ▁wan hu ▁wam son de lela . ▁Wala wa ▁mwi ▁iz isi ▁za ▁Gali laya , ▁Yude ya , </s> cwe_Latn
+▁Kwa vi ya ▁chinhu ▁cho chose ▁cho chi fis igwe ▁chi za woneka , ▁na ▁chinhu ▁cho chose ▁cho ch ig ub ik igwe ▁chiz agu bulig wa . </s> cwe_Latn
+▁Mbali ▁munhu ▁imwe ▁mwa ▁iwa ja ▁wem ile ▁haja ▁kala va ▁m wele ▁wake , ▁kam towa ▁mtum wa ▁wa ▁mkulu ▁wa ▁nh amb iko ▁na ▁kum kan ha ▁gut wi ▁jake . </s> cwe_Latn
+▁Ham wan de ▁Yesu ▁ka wala wilila ▁wana hina ▁longo ▁na ▁imwe ▁vi waka lile ▁wo ja . ▁Ka wab waki la ▁kwa vi ya ▁waka la ▁wa bule ▁u hu wilo , ▁na ▁kwa vi ya ▁waka la ▁w adala ▁kuwat og ola ▁wan hu ▁wa ja ▁wow amu onile ▁vi yama lile ▁ya ▁kuzi lib uka . </s> cwe_Latn
+▁Ma aba ho ▁mami ▁yake ▁Yesu ▁na ▁wand ugu ▁zake ▁we za ▁W ema ▁hanze , ▁wam tuma ▁munhu ▁yak amt ange ▁Yesu . </s> cwe_Latn
+▁Ba ho baho ▁tata ▁wa ▁mwana ▁ija ▁kal onga ▁kwa ▁dizi ▁kulu , ▁" No hu wila ▁mbali ▁u hu wilo ▁wangu ▁md odo . ▁N ita ze ▁niwe ▁na ▁u hu wilo ▁mkulu !" </s> cwe_Latn
+▁Ma aba ho ▁vi wak om ele ze ▁kw imba ▁wila , ▁wah ita ▁kum ulima ▁wa ▁Mi za it uni . </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kay as ola ▁ya ja ▁yam ag ate ▁mat ano ▁na ▁som ba ▁wa idi , ▁kalo la ▁kuch any ha ▁kuul anga ▁na ▁kum wing ' ha ▁Mulungu ▁he wela . ▁Ma aba ho ▁kay am og ola ▁yam ag ate ▁ya ja , ▁kaw eng ' ha ▁wana hina ▁wake ▁wawa go lele ▁wan hu . ▁Vi ya vi ya ▁kawa go lela ▁wose ▁wa ja ▁som ba ▁wa idi . </s> cwe_Latn
+▁Ba ho baho ▁kak wela ▁mwi inga lawa ▁na ▁wana hina ▁wake , ▁kah ita ▁mwi isi ▁ya ▁Dali man uta . </s> cwe_Latn
+▁Wan hu ▁waka lile ▁of osa ▁mwi inzi la ▁wat ingisa ▁mat wi ▁yawo ▁na ▁kum uliga ▁Yesu , ▁wal onga , ▁" M wee ! ▁We ye ▁mwene ▁ku ib ena ▁K aye ▁ya ▁Mulungu ▁na ▁ku iz enga ▁kwa ▁siku ▁n hatu ! </s> cwe_Latn
+▁Na ▁ha bule ▁munhu ▁yog uma ▁di vai ▁ya ▁sam bi ▁m wii ▁mif uko ▁ya ▁mb ende ▁ya ▁umwaka . ▁Kwa vi ya ▁ya hat enda ▁ivo , ▁di vai ▁ya ▁sam bi ▁iza it ula ▁mb ende , ▁na ▁di vai ▁iz ak wit ika ▁na ▁mif uko ▁iza ban angika . ▁Mbali ▁di vai ▁ya ▁sam bi ▁ig um igwa ▁m wii ▁mb ende ▁ya ▁sam bi . " </s> cwe_Latn
+▁Mbali ▁Yesu ▁ka wag omesa ▁kum ulong ela ▁munhu ▁yo yose ▁kuwa ▁yeye ▁yali hi . </s> cwe_Latn
+▁Ich ig ulog ulo ▁vichi fikile , ▁wan hu ▁wam ga lila ▁Yesu ▁wat amu ▁wawo ▁na ▁wose ▁wo waka lile ▁na ▁viny am kela . </s> cwe_Latn
+▁Wa fundi za ▁Ma lag il zo ▁wam wenga ▁waka lile ▁Maf alisayo ▁vi wamu woni le ▁koja ▁na ▁" weli ▁na ▁u has anyi " ▁na ▁was ola ▁kodi , ▁wawa uza ▁wana hina ▁wake , ▁" Ha bali ▁koja ▁na ▁wan hu ▁fana ▁wano ?" </s> cwe_Latn
+▁Isi ▁izay ito wa ▁na ▁isi ▁im wenga , ▁na ▁uf alume ▁w izay ito wa ▁na ▁uf alume ▁um wenga . ▁Chi la ▁han hu ▁hez akuwa ▁na ▁mig udem eko ▁ya ▁isi , ▁na ▁kwi z akuwa ▁na ▁nzala . ▁Y ano ▁yose ▁yez akuwa ▁fana ▁mwand uso ▁wa ▁us ungu ▁wa ▁ku ib asula ▁mwana . </s> cwe_Latn
+▁Ma vuta ▁yano ▁yah adah ike ▁kugu lig wa ▁kwa ▁hela ▁nyingi ▁ng ' hani , ▁na ▁hela ▁izo ▁wah eng ' hig we ▁nga enga e !" ▁Ivo ▁wamb waki la ▁muke ▁iyo . </s> cwe_Latn
+▁Ivo ▁fana ▁uf alume ▁wa ▁Luf y ende ▁waha ig ola ▁wenye wo , ▁uz agwa ▁na ▁kufika ▁hau helelo . </s> cwe_Latn
+▁Kawa lemesa ▁kulawa ▁na ▁chinhu ▁cho chose ▁m wii ▁dikon hi ▁da ▁K aye ▁ya ▁Mulungu . </s> cwe_Latn
+▁Yosefu ▁mk aya ▁wa ▁Alim as aya , ▁munhu ▁wa ▁ch itala ▁cha ▁Wayahudi , ▁na ▁yo teg ele zig wa ▁ng ' hani , ▁ka fika . ▁Munhu ▁iyo ▁kaka la ▁kogo zela ▁kwi za ▁kwa ▁U fal ume ▁wa ▁Mulungu . ▁Kam witi la ▁Pilato ▁bila ▁kud umba , ▁kamp ula ▁yam wing ' he ▁luku li ▁lwa ▁Yesu . </s> cwe_Latn
+▁Yel usalem u , ▁na ▁Id ume ya , ▁na ▁um w ambu ▁wa ▁Yol od ani , ▁na ▁ban zi ▁za ▁T ilo ▁na ▁Sid oni . ▁W ose ▁wawo ▁we za ▁kwa ▁Yesu ▁kwa vi ya ▁wahu lika ▁m buli ▁zay aten dile ▁Yesu . </s> cwe_Latn
+▁Siku ▁izo , ▁Yesu ▁keza ▁kulawa ▁mudi bul ulu ▁da ▁Na za leti , ▁mwi isi ▁ya ▁Gali laya , ▁na ▁kab ati zig wa ▁na ▁Yohana ▁muna ▁ul wanda ▁wa ▁Yol od ani . </s> cwe_Latn
+▁Muna ▁siku ▁za ▁mkulu ▁wa ▁nh amb iko ▁A biy asa li , ▁Daudi ▁keng ila ▁m wii ▁K aye ▁ya ▁Mulungu ▁na ▁kuya ja ▁yam ag ate ▁yo ya lav igwe ▁kwa ▁Mulungu . ▁Y amag ate ▁yayo ▁yal ondeka ▁ku dig wa ▁na ▁wala va ▁nh amb iko ▁mu hala . ▁Mbali ▁Daudi ▁kaya ja ▁na ▁ma aba ho ▁kaw eng ' ha ▁way age . " </s> cwe_Latn
+▁Mbali ▁Yesu ▁kany amala ▁h upi , ▁hal ong ile ▁m buli ▁yo yose . ▁M kulu ▁wa ▁nh amb iko ▁kamu uza ▁ka idi , ▁" V ino ▁we ye ▁iyo ▁Ch ilis ito , ▁Mwana ▁wa ▁Mulungu ▁yot emi lig wa ▁mate ?" </s> cwe_Latn
+▁Kal onga ▁ivo ▁kwa vi ya ▁Yesu ▁kam ulong ela , ▁" Ch iny am kela ▁mula we ▁munhu ▁ino !" </s> cwe_Latn
+▁Mbali ▁zuwa ▁vid ila wile , ▁di isoma ▁min oga , ▁na ▁kwa vi ya ▁ha ika lile ▁na ▁mi zizi , ▁in yala . </s> cwe_Latn
+▁Mumu hu lika ▁vay amu ligi le ▁Mulungu ! ▁Mwe ye ▁mw ona ze ?" ▁W ose ▁wam tag usa ▁yak om igwe . </s> cwe_Latn
+▁Siku ▁ija ▁vin im ogo le ▁yam ag ate ▁mat ano ▁na ▁ku weng ' ha ▁wan hu ▁magana ▁mal ongo ▁mat ano , ▁vino ▁mud ondola ▁vig elo ▁v inga hi ▁va ▁masi ga vu ?" ▁Wam wid ika , ▁" C him emeza ▁vig elo ▁longo ▁na ▁vidi . " </s> cwe_Latn
+▁Na ▁mudi zuwa ▁da ▁kenda ▁imisi , ▁Yesu ▁kali la ▁kwa ▁dizi ▁kulu , ▁" E loi , ▁Elo i , ▁lama ▁sa bak itani ?" ▁F amb ulo ▁jake ▁ni , ▁" Mulungu ▁wangu , ▁Mulungu ▁wangu , ▁ha bali ▁kun ile ka ?" </s> cwe_Latn
+▁Yesu ▁vi yaka lile ▁ko fundi za ▁m wii ▁K aye ▁ya ▁Mulungu , ▁kawa uza , ▁" Ha bali ▁wa fundi za ▁Ma lagi li zo ▁wol onga ▁Ch ilis ito ▁ni ▁mwana ▁wa ▁Daudi ? </s> cwe_Latn
+▁Ma aba ho ▁keka ▁dit wi ▁ijo ▁muna ▁ich ano , ▁kam ga lila ▁mn dele ▁ija , ▁nayo ▁kam wing ' ha ▁mami ▁yake . </s> cwe_Latn
+▁W andika ▁vita la ▁vake ▁vino , ▁" M fal ume ▁wa ▁Wayahudi . " </s> cwe_Latn
+▁Kwa vi ya ▁we zala wilila ▁Mach ilis ito ▁wa ▁uv wi zi ▁na ▁walo te zi ▁wa ▁uv wi zi . ▁We zat enda ▁un zon za ▁na ▁vi lag uso ▁mu ladi ▁wawa v wi zile ▁hata ▁wa ja ▁Mulungu ▁oya was agu le , ▁one ▁ih adah ika . </s> cwe_Latn
+▁" M n he gele ze , ▁H akala ▁na ▁munhu ▁yo yo handa ▁kah ita ▁kumi za ▁mbe yu . </s> cwe_Latn
+▁Daudi ▁mwenye wo ▁komt anga ▁Ch ilis ito ▁' M nde wa .' ▁Lelo ▁Ch ilis ito ▁koda ha ze ▁kuwa ▁mwana ▁wa ▁Daudi ?" ▁Lung ' hus esa ▁lwa ▁wan hu ▁luka la ▁lum teg eleza ▁Yesu ▁kwa ▁deng ' ho . </s> cwe_Latn
+▁" Munhu ▁yo yose ▁yon da ▁yam tende ▁imwe ▁wa ▁wad odo ▁wano ▁wow oni hu wila ▁yat ende ▁u has anyi , ▁mu ha vu ▁munhu ▁iyo ▁yaf ungi lig we ▁dib we ▁kulu ▁da ▁kud undi la ▁muna ▁is ingo ▁yake ▁na ▁kwas igwa ▁m wii ba hali . </s> cwe_Latn
+▁Munhu ▁ija ▁vi ya hu like ▁ivo , ▁kak wesa ▁ng ' hom bali , ▁kas eg ela ▁kwa ▁luh olo zi ▁kwa vi ya ▁kaka la ▁na ▁vin hu ▁vingi . </s> cwe_Latn
+▁Ham wan de ▁Maf alisayo ▁wam wenga ▁na ▁wan hu ▁wam wenga ▁wa ▁chi b umbi la ▁cha ▁mf alume ▁Hel ode ▁wat um igwa ▁kwa ▁Yesu ▁mu ladi ▁wam tege ▁kwa ▁m buli ▁zake . </s> cwe_Latn
+▁Pet ili ▁vi yaka lile ▁yang ' hali ▁mulu hel engo , ▁mwanamke ▁imwe ▁yaka lile ▁m sang ' hani ▁wa ▁mkulu ▁wa ▁nh amb iko ▁keza . </s> cwe_Latn
+▁Mwi is iku ▁ya ▁mwand uso ▁ya ▁dug ila ▁da ▁Mag ate ▁hay ana gum igwa ▁h amila , ▁isiku ▁ya ▁kum chinja ▁mwana ▁ng ' h ondolo ▁wa ▁Pas aka , ▁wana hina ▁wake ▁wamu uza , ▁" Kol onda ▁chi h ite ▁kuli hi ▁kukus asa lila ▁ndiya ▁ya ▁Pas aka ?" </s> cwe_Latn
+▁Yesu ▁kawa uza , ▁" M ung ' hali ▁ham una vim anya ?" </s> cwe_Latn
+▁Vi wama lile ▁kum ke weza , ▁wam vula ▁vi walo ▁va ▁langi ▁ya ▁z amba lau , ▁wamu ya wala ▁vi walo ▁vake . ▁Ama la baho ▁wam ula va ▁kunze ▁mu ladi ▁wamu w ambe ▁mu ▁m sala ba . </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kal utanga ▁lung ' hus esa ▁lwa ▁wan hu ▁na ▁wana hina , ▁ka wal ongela , ▁" Munhu ▁yo yose ▁yol onda ▁kunis onde lela , ▁ya ile me ▁mwenye wo , ▁ya it wike ▁m sala ba ▁wake ▁yan is onde lele . " </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" M ami ▁yangu ▁yali hi ? ▁Na ▁wand ugu ▁zangu ▁wali hi ?" </s> cwe_Latn
+▁V onda wa wag wile ▁mwe ye ▁na ▁kuwa gala ▁kwi ich itala , ▁sek em ug ese ▁ch onda ▁mul onge . ▁Lus ita ▁vond alu fike , ▁long eni ▁cho chose ▁chi la ▁ch onda ▁mw ing ' hig we , ▁kwa vi ya ▁siyo ▁mwe ye ▁mulonga ▁ila ▁Mu he ▁Ye lile . </s> cwe_Latn
+▁Pet ili ▁kam ulong ela ▁Yesu , ▁" H ata ▁wose ▁wah aku leka , ▁niye ▁siz aku leka ▁ng ' o !" </s> cwe_Latn
+▁Ka wal ongela ▁vose ▁kwa ▁mas imwe ▁mbali ▁kaka la ▁ya id umwe ▁na ▁wana hina ▁ka wal ongela ▁chi la ▁chinhu ▁fun hu fun hu . </s> cwe_Latn
+▁Ivo ▁wan hu ▁wawo ▁wam g wila ▁na ▁kum da za ▁Yesu . </s> cwe_Latn
+▁Wan hu ▁waz anywa ▁ng ' hani , ▁wal onga , ▁" Kat enda ▁yose ▁vin ogile . ▁Ka wat enda ▁vin zi wi ▁wahu like ▁na ▁mabu bu ▁wal onge !" </s> cwe_Latn
+▁Vi yam hile ▁walo ▁da ▁Yesu , ▁baho baho ▁damu ▁ile ka ▁kum ula wa , ▁nayo ▁kai hu lika ▁kuwa ▁kah ona . </s> cwe_Latn
+▁nawo ▁wez akuwa ▁luku li ▁lum we .' ▁Ivo ▁wawo ▁si ▁wa idi ▁ka idi , ▁ila ▁luku li ▁lum we . </s> cwe_Latn
+▁Wam gala ▁mwana ▁chi hong we ▁iyo ▁kwa ▁Yesu , ▁wa vit andika ▁vi walo ▁va wo ▁mch any ha ▁yake , ▁na ▁Yesu ▁kaka la ▁mch any ha ▁ya ▁mwana ▁chi hong we ▁iyo . </s> cwe_Latn
+▁Yesu ▁kam ulong ela ▁yah ite ▁na ▁kum gom esa ▁ng ' hani , </s> cwe_Latn
+▁na ▁Yuda ▁Is ikali yoti , ▁yo yam uh ind uke ▁Yesu . </s> cwe_Latn
+▁Wa fundi za ▁Ma lagi li zo ▁wam wenga ▁waka lile ▁baho ▁wand usa ▁kuyi uza ▁wenye wo , </s> cwe_Latn
+▁wan hu ▁wam wenga ▁waka lile ▁wem ile ▁baho ▁wawa uza , ▁" M ot enda ▁ch oni ? ▁Ha bali ▁mom fung ula ▁iyo ▁chi hong we ?. " </s> cwe_Latn
+▁Ma aba ho ▁kawa leka , ▁kak wela ▁mwi inga lawa ▁na ▁kukan ha ▁um w ambu ▁wa ▁di lamba . </s> cwe_Latn
+▁Yesu ▁kam ulong ela ▁munhu ▁ya holo lile ▁mkono , ▁" I zo ▁hano ▁ha ul ongozi . " </s> cwe_Latn
+▁Wana hina ▁wa ▁Yohana ▁Mb ati zi ▁na ▁wana hina ▁wa ▁Maf alisayo ▁waka la ▁wo funga ▁kuja . ▁Wan hu ▁wam wenga ▁wam witi la ▁Yesu ▁na ▁kum uuza , ▁" Ha bali ▁wana hina ▁wa ▁Yohana ▁na ▁wana hina ▁wa ▁Maf alisayo ▁wo funga ▁kuja , ▁mbali ▁wana hina ▁wako ▁hawa funga ▁kuja ?" </s> cwe_Latn
+▁Ms imu ▁wa ▁kwa ha ▁nza bibu ▁viu fikile , ▁kam tuma ▁m sang ' hani ▁wake ▁kwa ▁wa ja ▁wali mi , ▁mu ladi ▁wam wing ' he ▁nza bibu . </s> cwe_Latn
+▁Mbali ▁wak ulu ▁wa ▁nh amb iko ▁wal us ongeza ▁lung ' hus esa ▁lwa ▁wan hu ▁wamp ule ▁Pilato ▁yamu leke lele ▁Bala ba ▁badala ▁ya ▁Yesu . </s> cwe_Latn
+▁Wan hu ▁wengi ▁wala va ▁us indi la ▁wa ▁uv wi zi , ▁mbali ▁us indi la ▁wawo ▁hau wil ingan ye ▁bule . </s> cwe_Latn
+▁Mbali ▁mu vim anye ▁vino , ▁Mwana ▁wa ▁Munhu ▁kana ▁uda hi ▁wa ▁kus ege za ▁u has anyi ▁mwi isi . " ▁Ma aba ho ▁kam ulong ela ▁munhu ▁ya holo lile , </s> cwe_Latn
+▁Ud ongo ▁wenye wo ▁wo zit enda ▁mbe yu ▁kukula ▁go ya ▁na ▁kw ima ▁matunda , ▁teng ' hu ▁di yani ▁ma aba ho ▁mada , ▁na ▁kuu helelo ▁u hem ba ▁wok ung ' hun ha . </s> cwe_Latn
+▁Ivo ▁viny am kela ▁wamu lamba ▁Yesu , ▁" U chi gale ▁kuz ing ulu we , ▁na ▁uch ile ke lele ▁chi weng ile ▁wawo . " </s> cwe_Latn
+▁Ba ho baho ▁Yesu ▁ka wala gi liza ▁wana hina ▁wake ▁wak wele ▁mwi inga lawa ▁wah ite ▁Bes isa ida . ▁Yeye ▁kaka la ▁kol ulaga ▁lung ' hus esa ▁lwa ▁wan hu ▁was eg ele . </s> cwe_Latn
+▁Yesu ▁ka wal ongela ▁wan hu ▁wakale ▁hasi . ▁Kay as ola ▁ya ja ▁yam ag ate ▁saba , ▁kam wing ' ha ▁Mulungu ▁he wela . ▁Ma aba ho ▁kay am og ola ▁yam ag ate ▁ya ja ▁na ▁ku weng ' ha ▁wana hina ▁wake ▁wa weng ' he ▁wan hu , ▁na ▁wawo ▁wat enda ▁ivo . </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" H amus om ile ▁chi ya ▁Daudi ▁chay aten dile ▁na ▁way age ▁va waka lile ▁na ▁nzala ? </s> cwe_Latn
+▁Ba ho ▁kukala ▁na ▁mwanamke ▁imwe ▁yo yaka lile ▁na ▁ut amu ▁wa ▁kulawa ▁damu ▁kwa ▁mi yaka ▁longo ▁na ▁midi . </s> cwe_Latn
+▁Yesu ▁kaw alola , ▁kal onga , ▁" Kwa ▁munhu ▁ha ida hika ▁bule , ▁ila ▁kwa ▁Mulungu ▁ha ili ▁ivo , ▁yose ▁yo dah ika ▁kwa ▁Mulungu . " </s> cwe_Latn
+▁Yesu ▁kal onga ▁ka idi , ▁" V ino ▁U fal ume ▁wa ▁Mulungu ▁chi uling anyi ze ▁na ▁ch oni ? ▁S imwe ▁dili hi ▁donda ▁nis ang ' hani le ▁ku uf ambula ? </s> cwe_Latn
+▁Na ▁yeli ▁kum gun da ▁seke yab wele ▁uk aye ▁kusola ▁vi walo ▁vake . </s> cwe_Latn
+▁Mbali ▁chip indi ▁chi zak wiza ▁munhu ▁yo yos ola ▁vond ayas ege zig we ▁kum wawo . ▁Ba ho ▁we za funga ▁kuja . </s> cwe_Latn
+▁Val eni ▁vila tu , ▁mbali ▁sek em sole ▁vi walo ▁vim wenga . </s> cwe_Latn
+▁" V ond amu wone ▁' W ihi ▁wa ▁uban anzi ' ▁w ima ▁han hu ▁si ▁hake ▁( mun hu ▁yos oma ▁ya vim anye ), ▁wa ja ▁weli ▁m wii ▁isi ▁ya ▁Yude ya ▁wak im bili le ▁kum ili ma . </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" M we ye ▁m wo has anya ▁kwa vi ya ▁hamu yam any ile ▁Maandiko ▁Ye lile ▁wala ▁uda hi ▁wa ▁Mulungu . </s> cwe_Latn
+▁Nayo ▁ka wed ika , ▁" Ch iny am kela ▁fana ▁ino ▁hada ha ▁kulawa ▁ila ▁kwa ▁kut osa ▁mu hala . " </s> cwe_Latn
+▁Yesu ▁keng ila ▁m nyumba ▁na ▁ku wal ongela , ▁" Ha bali ▁mot enda ▁tib wi liti b wili ▁na ▁kulila ? ▁Mn dele ▁had angan ike ▁bule , ▁kag ona ▁tu !" </s> cwe_Latn
+▁Wan hu ▁wengi ▁wan zan za ▁vi walo ▁va wo ▁mwi inzi la , ▁na ▁wam wenga ▁wakan ha ▁mat ambi ▁ya ▁mib iki ▁mum ig unda ▁na ▁kuyan zan za ▁mwi inzi la . </s> cwe_Latn
+▁Kuka la ▁na ▁wan hu ▁wengi ▁wo waka lile ▁wok wiza ▁na ▁kus eg ela , ▁mb aka ▁Yesu ▁na ▁wana hina ▁wake ▁hawa pati le ▁bule ▁nya fasi ▁ya ▁kuja ▁ndiya . ▁Ivo ▁ka wal ongela , ▁" C hit eni ▁chi id umwe ▁han hu ▁heli bule ▁wan hu ▁mu ladi ▁muka h umu le ▁chid ogo . " </s> cwe_Latn
+▁Ivo ▁waka la ▁m wii vi b umbi la ▁va ▁wan hu ▁gana - gana ▁na ▁va ▁wan hu ▁mal ongo ▁mat ano - mat ano . </s> cwe_Latn
+▁Wam wenga ▁wal inga ▁fana ▁mbe yu ▁zi han dig we ▁muna ▁yama bwe . ▁Wa ha hu lika ▁m buli , ▁baho baho ▁wo ih okela ▁kwa ▁deng ' ho . </s> cwe_Latn
+▁Va wabwe lile ▁m nyumba , ▁wana hina ▁wake ▁wamu uza ▁Yesu ▁m buli ▁iyo . </s> cwe_Latn
+▁Pilato ▁kawa uza , ▁" V ino ▁mw ol onda ▁nimu lekele ▁mf alume ▁wa ▁Wayahudi ?" </s> cwe_Latn
+▁Mbali ▁yaha han dig wa , ▁yok ula ▁na ▁kuwa ▁biki ▁kulu ▁kuf osa ▁mib iki ▁yose . ▁Dok wika ▁mat ambi ▁makulu ▁ng ' hani , ▁mb aka ▁ndege ▁weli ▁kuul anga ▁woda ha ▁ku zenga ▁m vulu ▁zawo ▁muna ▁y amat ambi ▁yake . " </s> cwe_Latn
+▁Wan hu ▁wam wenga ▁waka la ▁wol onda ▁ch imu ▁cha ▁kum g wila ▁Yesu . ▁Ivo ▁wam ulo la ▁fana ▁ke zam uh onya ▁m wii ▁Is iku ▁ya ▁M hum ulo . </s> cwe_Latn
+▁Yesu ▁kam ulong ela , ▁" W ale ke ▁wana ▁teng ' hu ▁weg uta . ▁Kwa vi ya ▁ha vin ogile ▁bule ▁kusola ▁ndiya ▁ya ▁wana ▁na ▁kuz asi la ▁z imbwa . " </s> cwe_Latn
+▁Ivo ▁v imu ib ena ▁m buli ▁ya ▁Mulungu ▁kwa ▁ma fundi zo ▁yom ui hok eleza . ▁Ivi ya ▁mot enda ▁vin hu ▁vingi ▁vi fani le ▁na ▁ivo . " </s> cwe_Latn
+▁Ija ▁m fundi za ▁Ma lagi li zo ▁kam ulong ela ▁Yesu , ▁" M fundi za , ▁kw idika ▁go ya ▁vu ulong ile ▁M nde wa ▁ya id umwe ▁iyo ▁Mulungu , ▁na ▁ha bule ▁mulungu ▁im wenga ▁ila ▁yeye . </s> cwe_Latn
+▁Ma aba ho ▁ka wab welela ▁wa ja ▁wana hina ▁watatu , ▁kawa fika ▁wag ona . ▁Kamu uza ▁Pet ili , ▁" Sa imoni , ▁kugona ? ▁H uda hile ▁kukala ▁meso ▁hata ▁kwa ▁zuwa ▁dim we ▁mu hala ?" </s> cwe_Latn
+▁Wak ulu ▁wa ▁nh amb iko ▁w ams itaka ▁Yesu ▁kwa ▁m buli ▁nyingi . </s> cwe_Latn
+▁Ma aba ho ▁keza ▁munhu ▁imwe ▁mkulu ▁wa ▁kaye ▁ya ▁kut os ela ▁zina ▁jake ▁Ya ilo . ▁Vi yamu woni le ▁Yesu , ▁ka ib wan ha ▁hasi ▁mu yam ag ulu ▁yake , </s> cwe_Latn
+▁Mul onde ▁M nde wa ▁Mulungu ▁wako ▁kwa ▁moyo ▁wako ▁wose , ▁na ▁kwa ▁mu he ▁wako ▁wose , ▁na ▁kwa ▁hakili ▁zako ▁zose , ▁na ▁kwa ▁nguvu ▁zako ▁zose .' </s> cwe_Latn
+▁Vi walo ▁vake ▁v ikala ▁vom elem eta ▁ch wee , ▁ha bule ▁munhu ▁mwi isi ▁yo yo da ha ▁kufu wa ▁vi walo ▁kuwa ▁fana ▁ivo . </s> cwe_Latn
+▁Ivo ▁Yesu ▁kal onga , ▁" V inhu ▁va ▁Ka isali ▁mw ing ' heni ▁Ka isali , ▁vin hu ▁va ▁Mulungu ▁mw ing ' heni ▁Mulungu . " ▁Na wo ▁wam waz anya ▁ng ' hani . </s> cwe_Latn
+▁Mbali ▁ham wan de ▁ya ▁kuzi lib uka ▁kwangu , ▁ni za wal ongo lela ▁kwita ▁Gali laya . " </s> cwe_Latn
+▁" Mb iki ▁wa ▁mt ini ▁uwa fundi ze ▁m buli ▁ino , ▁vond amu wone ▁mat ambi ▁yake ▁yoku wa ▁mat eke ▁na ▁may ani ▁yos uka , ▁mw ov imanya ▁kuwa ▁ms imu ▁wa ▁mvula ▁wam ma be hi . </s> cwe_Latn
+▁Yesu ▁kam ulong ela , ▁" Ha bali ▁kolonga ▁uh adaha ! ▁Ni ye ▁nok ulong ela , ▁yose ▁yo dah ika ▁kum wake ▁yo yo hu wila . " </s> cwe_Latn
+▁No wal ongela ▁kweli , ▁ho h ose ▁haja ▁m buli ▁in ogile ▁h onda ▁i pet igwe ▁m wii ▁i isi ▁yose , ▁chino ▁chay aten dile ▁mwanamke ▁ino ▁chi zal ong igwa ▁kwa ▁kum k umbuka ▁yeye . " </s> cwe_Latn
+▁Mbali ▁no wal ongela , ▁Eliya ▁keza ▁kama la , ▁na ▁wan hu ▁wam ten dela ▁vo wal ondi le , ▁fana ▁vay and iki lig we ▁muna ▁yama andiko . " </s> cwe_Latn
+▁Ka wal ongela , ▁" H it eni ▁mwi isi ▁yose ▁m kap etele ▁M buli ▁In ogile ▁kwa ▁wan hu ▁wose . </s> cwe_Latn
+▁Mbali ▁Yesu ▁ka wal ongela , ▁" Chi h ite ▁m wii ▁vi bul ulu ▁vim wenga ▁vili ▁mma be hi ▁na ▁hano . ▁Uko ▁nako ▁nol ondeka ▁kuwa pet ela ▁wan hu ▁M buli ▁In ogile , ▁kwa vi ya ▁icho ▁nii cho ▁chini zile . " </s> cwe_Latn
+▁Wa fika ▁han hu ▁hot ang igwa ▁Ges isem ane . ▁Yesu ▁ka wal ongela ▁wana hina ▁wake , ▁" L usita ▁niye ▁lun ita ▁kut osa , ▁mwe ye ▁kal eni ▁hano . " </s> cwe_Latn
+▁Wan hu ▁wam teg ele ze ▁waz anywa ▁ng ' hani ▁kwa ▁ma fundi zo ▁yake , ▁kwa vi ya ▁ha fundi ze ▁fana ▁wa fundi za ▁Ma lagi li zo , ▁mbali ▁kaka la ▁yo fundi za ▁fana ▁munhu ▁yana ▁uda hi . </s> cwe_Latn
+▁Yesu ▁katim alala ▁na ▁kulonga , ▁" M ulong eleni ▁ye ze . " ▁Ivo ▁wam t anga ▁ija ▁chi pofu , ▁wam ulong ela , ▁" I gang ami ze ! ▁Ima , ▁kok utanga !" </s> cwe_Latn
+▁Ma aba ho ▁Yesu ▁kas eg ela , ▁baho ▁kah ita ▁mwi isi ▁yili ▁habe hi ▁na ▁dib ulu ▁da ▁T ilo . ▁Uko ▁keng ila ▁m nyumba ▁na ▁hal ondi le ▁munhu ▁yo yose ▁ya vim anye ▁kuwa ▁kaha ja , ▁mbali ▁hada hile ▁bule ▁ku if isa . </s> cwe_Latn
+▁Siku ▁dim we ▁lung ' hus esa ▁lum wenga ▁luk ulu ▁lwa ▁wan hu ▁lu iting ' hana ▁ka idi . ▁Wan hu ▁vi waka lile ▁wa bule ▁ndiya , ▁Yesu ▁kawat anga ▁wana hina ▁wake ▁na ▁ku wal ongela , </s> cwe_Latn
+▁Mbali ▁Yesu ▁ka wed ika , ▁" Na ▁niye ▁ni zawa uza ▁m buli ▁imwe , ▁mwa han idika , ▁na ▁niye ▁ivi ya ▁ni za wal ongela ▁kwa ▁uda hi ▁wa ▁ye lihi ▁no yat enda ▁yano . </s> cwe_Latn
+▁Kag endelela ▁kulonga , ▁" C hiya ▁cho chila wa ▁mu umo yo ▁wa ▁munhu , ▁icho ▁chim ten da ▁munhu ▁y ambu le ▁mw iko . </s> cwe_Latn
+▁na ▁ug oni ▁na ▁uv wi zi ▁na ▁u ziya ▁na ▁kulo la ▁vin hu ▁chi wihi ▁na ▁mali go ▁na ▁mago da ▁na ▁ubo zi . </s> cwe_Latn
+▁Ni ye ▁no wab atiza ▁kwa ▁mazi , ▁mbali ▁yeye ▁keza wab atiza ▁kwa ▁Mu he ▁Ye lile . " </s> cwe_Latn
+▁Yesu ▁ka wed ika , ▁" M we ye ▁mw ing ' hi gwa ▁ku zim anya ▁m buli ▁zi fis igwe ▁za ▁U fal ume ▁wa ▁Mulungu . ▁Mbali ▁wa ja ▁weli ▁kunze ▁wo zi hu lika ▁m buli ▁izo ▁kwa ▁mas imwe , </s> cwe_Latn
+▁Ivi ya ▁Yesu ▁ka wal ongela , ▁" No wal ongela ▁kweli , ▁wan hu ▁wam wenga ▁weli ▁hano ▁ha wez ad angan ika ▁mb aka ▁wa uw one ▁U fal ume ▁wa ▁Mulungu ▁wok wiza ▁kwa ▁lu da bwa . " </s> cwe_Latn
+▁Yesu ▁kam ulong ela ▁mwanamke ▁ija , ▁" Kwa ▁ivo ▁vo wid ike , ▁hita ▁uk aye , ▁na ▁kwi zam fika ▁ch iny am kela ▁kam ula wa ▁mn dele ▁wako !" </s> cwe_Latn
+▁Nayo ▁kawas agula ▁wan hu ▁longo ▁dim we ▁na ▁wa idi , ▁ka wal anga ▁wat um igwa . ▁Ka wal ongela , ▁" Ni was agula ▁mwe ye ▁muka le ▁na ▁niye . ▁Ma aba ho ▁ni za wat uma ▁mka wa pet ele ▁wan hu . </s> cwe_Latn
