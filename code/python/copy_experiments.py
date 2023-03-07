@@ -38,7 +38,7 @@ language_families = [
 # For SMT folders include all the files.
 # For OpenNMT folders omit these files:
 open_nmt_omit = ["src-onmt.vocab", "src-sp.model", "src-sp.vocab", "test.trg-predictions.txt.", "trg-omnt.vocab", "trg-sp.model", "trg-sp.vocab"]
-nllb_omit = ["added.tokens.json", "sentencepiece.bpe.model", "special_tokens_map.json", "test.trg-predictions.txt.", "tokenizer.json", "tokenizer_config.json" ]
+nllb_omit = ["added_tokens.json", "sentencepiece.bpe.model", "special_tokens_map.json", "test.trg-predictions.txt.", "tokenizer.json", "tokenizer_config.json" ]
 
 files_to_omit = nllb_omit.copy()
 files_to_omit.extend(open_nmt_omit)
@@ -51,15 +51,28 @@ source_base_folder_str = "S:/eBible/MT/experiments"
 dest_base_folder_str = "F:/Github/BibleNLP/ebible-experiments/MT/experiments" 
 source_base_folder = Path(source_base_folder_str)
 dest_base_folder = Path(dest_base_folder_str)
-series_folders = [source_base_folder / language_family for language_family in language_families]
+family_folders = [source_base_folder / language_family for language_family in language_families]
 
 subfolders_to_omit = []
 
 subfolders = []
 print(f"Looking for source folders.")
-for series_folder in series_folders:
-    family_subfolders = [folder for folder in series_folder.iterdir() if series_folder.is_dir()]
+for family_folder in family_folders:
+    family_subfolders = [folder for folder in family_folder.iterdir() if family_folder.is_dir()]
     subfolders.extend(family_subfolders)
+    
+    # If any not-to-be-copied files exist on the destination remove them a family folder at a time.
+    dest_files_to_remove = []
+    for family_subfolder in family_subfolders:
+        destination_folder = dest_base_folder / str(family_subfolder)[len(source_base_folder_str)+1:]
+        dest_files_to_remove.extend([dest_file_to_remove for dest_file_to_remove in destination_folder.iterdir() if is_excluded(dest_file_to_remove.name, files_to_omit) and dest_file_to_remove.is_file()])
+    if dest_files_to_remove:
+        print(f"Found {len(dest_files_to_remove)} files to remove from {family_folder}.")
+        pprint([dest_file_to_remove.resolve() for dest_file_to_remove in dest_files_to_remove])
+        if choose_yes_no(f"Delete these files? y/n?"):
+            for dest_file_to_remove in dest_files_to_remove:
+                dest_file_to_remove.unlink()
+            print(f"Deleted files.\n")
 
 destination_folders = []
 destination_folders_to_create = []
@@ -70,17 +83,17 @@ for subfolder in subfolders:
         destination_folders_to_create.append(destination_folder)
 
 
-# If any not-to-be-copied files exist on the destination remove them a folder at a time.
-for destination_folder in destination_folders:
-    if destination_folder.is_dir():
-        dest_files_to_remove = [dest_file_to_remove for dest_file_to_remove in destination_folder.iterdir() if is_excluded(dest_file_to_remove.name, files_to_omit) and dest_file_to_remove.is_file()]
-        if dest_files_to_remove:
-            print(f"Found {len(dest_files_to_remove)} files to remove from {destination_folder}.")
-            pprint(dest_files_to_remove)
-            if choose_yes_no(f"Delete these files? y/n?"):
-                for dest_file_to_remove in dest_files_to_remove:
-                    dest_file_to_remove.unlink()
-                    print(f"Deleted files.\n")
+# If any not-to-be-copied files exist on the destination remove them a family folder at a time.
+# for destination_folder in destination_folders:
+#     if destination_folder.is_dir():
+#         dest_files_to_remove = [dest_file_to_remove for dest_file_to_remove in destination_folder.iterdir() if is_excluded(dest_file_to_remove.name, files_to_omit) and dest_file_to_remove.is_file()]
+#         if dest_files_to_remove:
+#             print(f"Found {len(dest_files_to_remove)} files to remove from {destination_folder}.")
+#             pprint(dest_files_to_remove)
+#             if choose_yes_no(f"Delete these files? y/n?"):
+#                 for dest_file_to_remove in dest_files_to_remove:
+#                     dest_file_to_remove.unlink()
+#                     print(f"Deleted files.\n")
 
 # If file_include_patterns is not set include all the files in the folder expect those omitted.
 if not file_include_patterns:
