@@ -226,10 +226,14 @@ def get_config_data(config_file, fieldnames):
         # print(f"In config file {config_file}: data/corpus_pairs is:")
         # print(config["data"]["corpus_pairs"], type(config["data"]["corpus_pairs"]))
         for pair_count, corpus_pair in enumerate(config["data"]["corpus_pairs"], 1):
-
-            experiment[f"src {pair_count}"] = corpus_pair["src"]
-            experiment[f"trg {pair_count}"] = corpus_pair["trg"]
-
+            for text in ['src', 'trg']:
+                try :
+                    experiment[f"{text} {pair_count}"] = corpus_pair[text]
+                except KeyError:
+                    print(f"Couldn't find data/corpus_pair/{text} key in {config_file}")
+                    exit()
+            
+                experiment[f"trg {pair_count}"] = corpus_pair["trg"]
             if type(corpus_pair["src"]) == type(list()) or type(
                 corpus_pair["trg"]
             ) == type(list()):
@@ -493,6 +497,10 @@ def main() -> None:
     config_files = get_config_files(args.folders)
     print(f"Found {len(config_files)} config files.")
     #print(config_files[0])
+
+    # Filter config files.
+    config_files = [config_file for config_file in config_files if not "FastAlign" in config_file.parent.name]
+    print(f"Found {len(config_files)} ignoring FastAlign")
 
     experiments = get_experiments_config_data(config_files, all_fieldnames)
     print(f"Read {len(experiments)} experiment config files.")
