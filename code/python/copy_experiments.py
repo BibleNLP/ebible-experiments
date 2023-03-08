@@ -1,36 +1,23 @@
 """Copy files specified with patterns and filters along with their folders."""
-
+from collections import Counter
 from pathlib import Path
 from pprint import pprint
+from tqdm import tqdm
 import shutil
+from utilities import choose_yes_no, is_excluded, is_included
 
-
-def choose_yes_no(prompt: str) -> bool:
-
-    choice: str = " "
-    while choice not in ["n","y"]:
-        choice: str = input(prompt).strip()[0].lower()
-    if choice == "y":
-        return True
-    elif choice == "n":
-        return False
-    
 
 def is_excluded(source, excludes):
 
     for exclude in excludes:
         if exclude in source:
             return True
-
+        
     return False
 
 
-def is_included(source, includes):
-
-    for include in includes:
-        if include in source:
-            return True
-    return False
+def get_dest_file(source_file):
+    return dest_base_folder / str(source_file.parent)[len(source_base_folder_str)+1:] / source_file.name 
 
 
 language_families = [
@@ -45,157 +32,119 @@ language_families = [
 ]
 
 # Only copy from folder if all these exist.
-required_exp_files_patterns = ["scores-*.csv", "config.yml", "effective-config*.yml",]
+# required_exp_files_patterns = ["config.yml",] # "effective-config*.yml","scores-*.csv", ]
 
-file_include_strings = []
+# Don't include any subfolders (i.e. run or engine)
+# For SMT folders include all the files.
+# For OpenNMT folders omit these files:
+open_nmt_omit = ["src-onmt.vocab", "src-sp.model", "src-sp.vocab", "test.trg-predictions.txt.", "trg-omnt.vocab", "trg-sp.model", "trg-sp.vocab"]
+nllb_omit = ["added_tokens.json", "sentencepiece.bpe.model", "special_tokens_map.json", "test.trg-predictions.txt.", "tokenizer.json", "tokenizer_config.json" ]
 
+files_to_omit = nllb_omit.copy()
+files_to_omit.extend(open_nmt_omit)
+print(f"These file patterns will not be copied")
+pprint(files_to_omit)
+
+file_include_patterns = None
 
 source_base_folder_str = "S:/eBible/MT/experiments"
 dest_base_folder_str = "F:/Github/BibleNLP/ebible-experiments/MT/experiments" 
 source_base_folder = Path(source_base_folder_str)
 dest_base_folder = Path(dest_base_folder_str)
-series_folders = [source_base_folder / language_family for language_family in language_families]
+family_folders = [source_base_folder / language_family for language_family in language_families]
 
 subfolders_to_omit = []
-#     "PartialNT.Scenario",
-#     "NewToOld",
-#     "SourceText.Greek.Scenario",
-# ]
 
 subfolders = []
-
-for series_folder in series_folders:
-    family_subfolders = [folder for folder in series_folder.iterdir() if series_folder.is_dir()]
+print(f"Looking for source folders.")
+for family_folder in family_folders:
+    family_subfolders = [folder for folder in family_folder.iterdir() if family_folder.is_dir()]
     subfolders.extend(family_subfolders)
+    
+    # If any not-to-be-copied files exist on the destination remove them a family folder at a time.
+    dest_files_to_remove = []
+    for family_subfolder in family_subfolders:
+        destination_folder = dest_base_folder / str(family_subfolder)[len(source_base_folder_str)+1:]
+        dest_files_to_remove.extend([dest_file_to_remove for dest_file_to_remove in destination_folder.iterdir() if is_excluded(dest_file_to_remove.name, files_to_omit) and dest_file_to_remove.is_file()])
+    if dest_files_to_remove:
+        print(f"Found {len(dest_files_to_remove)} files to remove from {family_folder}.")
+        pprint([dest_file_to_remove.resolve() for dest_file_to_remove in dest_files_to_remove])
+        if choose_yes_no(f"Delete these files? y/n?"):
+            for dest_file_to_remove in dest_files_to_remove:
+                dest_file_to_remove.unlink()
+            print(f"Deleted files.\n")
 
-
-#pprint(subfolders)
+destination_folders = []
 destination_folders_to_create = []
 for subfolder in subfolders:
     destination_folder = dest_base_folder / str(subfolder)[len(source_base_folder_str)+1:]
+    destination_folders.append(destination_folder)
     if not destination_folder.is_dir():
         destination_folders_to_create.append(destination_folder)
 
-if not destination_folders_to_create:
-    print(f"All {len(subfolders)} experiment folders already exist on the destination.")
+
+# If any not-to-be-copied files exist on the destination remove them a family folder at a time.
+# for destination_folder in destination_folders:
+#     if destination_folder.is_dir():
+#         dest_files_to_remove = [dest_file_to_remove for dest_file_to_remove in destination_folder.iterdir() if is_excluded(dest_file_to_remove.name, files_to_omit) and dest_file_to_remove.is_file()]
+#         if dest_files_to_remove:
+#             print(f"Found {len(dest_files_to_remove)} files to remove from {destination_folder}.")
+#             pprint(dest_files_to_remove)
+#             if choose_yes_no(f"Delete these files? y/n?"):
+#                 for dest_file_to_remove in dest_files_to_remove:
+#                     dest_file_to_remove.unlink()
+#                     print(f"Deleted files.\n")
+
+# If file_include_patterns is not set include all the files in the folder expect those omitted.
+if not file_include_patterns:
+    print(f"Found {len(subfolders)} folders. Looking for all source files in subfolders.")
+    source_files = [source_file for subfolder in tqdm(subfolders) for source_file in subfolder.iterdir() if not is_excluded(source_file.name, files_to_omit) and source_file.is_file()]
+# If file_include_patterns is set, only copy files matching those patterns.
 else:
+    print(f"Found {len(subfolders)} folders. Looking in subfolders for files matching these patterns")
+    pprint(file_include_patterns)
+    source_files = []
+    for subfolder in tqdm(subfolders):
+        for file_include_pattern in file_include_patterns:
+                source_files.extend([file for file in subfolder.glob(file_include_pattern)])
+
+
+#pprint(source_files[:10])
+copy_pairs = [(source_file, get_dest_file(source_file)) for source_file in source_files]
+filtered_copy_pairs = [(source_file, destination_file) for (source_file, destination_file) in copy_pairs if not destination_file.is_file()]
+experiments_with_scores = set(source_file.parent for (source_file, destination_file) in filtered_copy_pairs if "scores" in source_file.name )
+
+if filtered_copy_pairs:
+    if destination_folders_to_create:
+        print(f"Will create these destination folders:")
+        pprint(destination_folders_to_create)
+
+    print(f"Will copy {len(filtered_copy_pairs)} files, including {len(experiments_with_scores)} experiments with new scores.")
+    pprint(sorted(experiments_with_scores))
+    print(f"From: {filtered_copy_pairs[0][0]}\nTo {filtered_copy_pairs[0][1]}")
+    if not choose_yes_no("Continue with copy? y/n?"):
+        exit()
+
     for destination_folder_to_create in destination_folders_to_create:
         destination_folder_to_create.mkdir(parents=True, exist_ok=True)
         print(f"Created destination folder: {destination_folder_to_create}")
+    copied = Counter()
+    print(f"Copying from {source_base_folder} to {dest_base_folder}.")
+    for filtered_copy_pair in tqdm(filtered_copy_pairs): 
+        source_file, destination_file = filtered_copy_pair
+        copied.update([destination_file.name])
+        shutil.copy(source_file, destination_file)
+        #print(f"Copied {source_file} to {destination_file}")
+    # else:
+    #     if not destination_folders_to_create:
+    #         print(f"All {len(subfolders)} experiment folders already exist on the destination.")
+    print(f"Copied these files")
+    pprint(sorted(copied.most_common()))
 
-source_files = [file for subfolder in subfolders for file in subfolder.iterdir() if file.is_file()]
+else: 
+    print("All files already exist in the destination folder.")
+    exit()
 
-#pprint(files[:10])
-copy_pairs = [(source_file, dest_base_folder / str(source_file.parent)[len(source_base_folder_str)+1:] / source_file.name ) for source_file in source_files]
-filtered_copy_pairs = [(source_file, destination_file) for (source_file, destination_file) in copy_pairs if not destination_file.is_file()]
-print(f"Found {len(filtered_copy_pairs)} files to copy")
 
-for filtered_copy_pair in filtered_copy_pairs: 
-    source_file, destination_file = filtered_copy_pair
-    shutil.copy(source_file, destination_file)
-    print(f"Copied {source_file} to {destination_file}")
-exit()   
-
-# https://stackoverflow.com/questions/4568580/python-glob-multiple-filetypes
-#Not recursive?
-#files = [file for file in source.iterdir() if any(file.match(pattern) for pattern in patterns)]
-for subfolder in subfolders:
-    source = source / subfolder
-    #print(f"Looking for files to copy from {subfolder}")
-    #scores_files = [file for file in source.rglob(scores_pattern) if (file.parent / "config.yml").is_file()]
-    scores_files = [file for file in test_source.rglob(scores_pattern) if (file.parent / "config.yml").is_file()]
-    config_files = [file.with_name("config.yml") for file in scores_files]
-
-    source_folders = sorted(set([file.parent for file in scores_files]))
-
-    #infer_folders = []
-    #for source_folder in source_folders:
-    #    source_infer_folder = source_folder / infer_folder
-    #    if source_infer_folder.is_dir():
-    #        dest_infer_folder = dest / str(file_to_copy.parent)[len(source_folder_str) + 1:] / infer_folder
-    #        print(f"Copying {source_infer_folder} to {dest_infer_folder}")
-    #        #shutil.copytree(source_infer_folder ,dest_infer_folder)
-
-    #effective_config_files = []
-    #for source_folder in source_folders:
-    #    for file in source_folder.glob("effective-config*.yml"):
-    #        effective_config_files.append(file)
-
-    effective_config_files = [file for source_folder in source_folders for file in source_folder.glob("effective-config*.yml")]
-    inferred_files = [file for source_folder in source_folders for file in source_folder.rglob("*.sfm")]
-
-    files_to_copy = scores_files
-    files_to_copy.extend(config_files)
-    files_to_copy.extend(effective_config_files)
-    files_to_copy.extend(inferred_files)
-
-    # Filter out existing files
-    filtered_files_to_copy = []
-    for file_to_copy in files_to_copy:
-        
-        copy_to = dest / str(file_to_copy.parent)[len(source_folder_str) + 1:] / file_to_copy.name
-        #print(f"Checking to see if {copy_to} exists: {copy_to.is_file()}.")
-        if not copy_to.is_file():
-            filtered_files_to_copy.append((file_to_copy, copy_to))
-
-           
-    #     print(f"Found {len(files_to_copy)} files to copy from {subfolder}.  {len(files_to_copy) - len(filtered_files_to_copy)} already exist on the destination.")
-    # else: 
-    #     print(f"Found {len(files_to_copy)} files to copy from {subfolder}")
-
-    # if not filtered_files_to_copy:
-    #     continue
-    # elif not choose_yes_no("Continue y/n ?"):
-    #     exit()
-if filtered_files_to_copy:
-    for files in tqdm(filtered_files_to_copy):
-        source_file, dest_file = files
-        #print(s,d)
-        #print(s.is_file(), d.is_file())
-        dest_folder = dest / str(source_file.parent)[len(source_folder_str) + 1:]
-        #if not dest_folder.is_dir():
-        #    print(f"Creating folder:  {dest_folder}")
-        dest_folder.mkdir(parents=True, exist_ok=True)
-
-        # Write an exact copy of the file from the source to the new destination folder if necessary.
-        #print(f"Writing:  {dest_file}")
-        shutil.copyfile(source_file, dest_file)
-
-        #    copy_to = dest / str(file_to_copy.parent)[len(source_folder_str) + 1:] / file_to_copy.name
-        #    print(copy_to)
-        #    print(copy_to.is_file())
-else :
-    print(f"All specified files already exist in {dest}")
-exit()
-
-#for file_pattern in file_patterns:
-#    files = source.rglob(file_pattern)
-
-for file in files:
-    for idx, parent in enumerate(file.parents):
-#        print(parent, "    ", idx, "    ", parent.name)
-        if parent.name == bottom_shared_folder_name:
-            
-            # Create the folders on the destination drive.
-            new_dest = dest_root
-            #print(f"Starting to add to {new_dest}")
-            for i in reversed(range(idx)):
-                #print(f"Adding {file.parents[i].name}")
-                new_dest = Path(new_dest , file.parents[i].name)
-                #print(f"Dest is now: {new_dest}")
-
-            # Make the folders required if necessary
-            if not new_dest.is_dir():
-                print(f"Creating folder:  {new_dest}")
-                new_dest.mkdir(parents=True, exist_ok=True)
-            
-            destination_file = new_dest / file.name
-
-            # Write an exact copy of the file from the source to the new destination folder if necessary.
-            if not destination_file.is_file():
-                print(f"Writing:  {destination_file}")
-                shutil.copyfile(file, destination_file)
-
-            
 
 

@@ -1,0 +1,6 @@
+book,src_iso,trg_iso,num_refs,references,sent_len,scorer,score
+ALL,ksd,kqw,0,,250,BLEU,35.02/66.50/41.83/29.30/21.40/0.964/8992/9325
+ALL,ksd,kqw,0,,250,CHRF3,53.06
+ALL,ksd,kqw,0,,250,WER,48.11
+ALL,ksd,kqw,0,,250,TER,61.01
+ALL,ksd,kqw,0,,250,spBLEU,38.68

@@ -1,0 +1,8 @@
+model: fast_align
+seed: 111
+src_lang: swh-swhonen
+src_tokenizer: latin
+test_size: 250
+trg_lang: cwe-cwe
+trg_tokenizer: latin
+use_test_set_from: Niger-Congo\Overall.Run1

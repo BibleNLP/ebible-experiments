@@ -1,0 +1,6 @@
+book,src_iso,trg_iso,num_refs,references,sent_len,scorer,score
+ALL,tpi,yut,0,,250,BLEU,32.34/63.37/38.76/25.32/17.59/1.000/7641/7199
+ALL,tpi,yut,0,,250,CHRF3,60.87
+ALL,tpi,yut,0,,250,WER,48.94
+ALL,tpi,yut,0,,250,TER,62.15
+ALL,tpi,yut,0,,250,spBLEU,49.98

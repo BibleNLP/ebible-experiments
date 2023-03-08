@@ -1,0 +1,6 @@
+src_iso,trg_iso,sent_len,scorer,score
+tam,mal,250,BLEU,10.74/36.59/13.42/6.72/4.04/1.000/3894/3854
+tam,mal,250,chrF3,36.48
+tam,mal,250,spBLEU,20.10
+tam,mal,250,TER,85.79
+tam,mal,250,WER,53.96

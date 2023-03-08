@@ -31,6 +31,14 @@ def is_excluded(source, excludes):
         
     return False
 
+def is_included(source, includes):
+
+    for include in includes:
+        if include in source:
+            return True
+    return False
+
+
 # DON'T CHANGE THESE - SEE BELOW
 do_copy = False
 test_only = False
@@ -41,13 +49,13 @@ testing = False
 do_copy = True
 
 # Whether to copy them to the testing folder or the live folder
-#testing = True
+testing = True
 
 # Whether to add --test to the command line
 #test_only = True
 
 # Choose which ClearML queue to use
-queue = "langtech_40gb"
+#queue = "langtech_40gb"
 queue = "idx_40gb"
 
 
@@ -77,10 +85,10 @@ language_families_details = {
         "related_lang_code": {"guj": "guj_Gujr"},
     },
     "Niger-Congo": {
-        "1st_pair": {"src": "hau-hausa", "trg": "daa-daaNT"},
-        "2nd_pair": {"src": "hau-hausa", "trg": "fuh-fuhbkf"},
-        "lang_codes": {"hau": "hau_Latn", "daa": "daa_Latn"},
-        "related_lang_code": {"fuh": "fuh_Latn"},
+        "1st_pair": {"src": "swh-swhonen", "trg": "cwe-cwe"},
+        "2nd_pair": {"src": "swh-swhonen", "trg": "vid-vid"},
+        "lang_codes": {"swh": "swh_Latn", "cwe": "cwe_Latn"},
+        "related_lang_code": {"vid": "vid_Latn"},
     },
     "Otomanguean": {
         "1st_pair": {"src": "spa-sparvg", "trg": "zat-zatNTps"},
@@ -100,6 +108,12 @@ language_families_details = {
         "lang_codes": {"tpi": "tpi_Latn", "yut": "yut_Latn"},
         "related_lang_code": {"nca": "nca_Latn"},
     },
+    "Tagalog": {
+        "1st_pair": {"src": "ilo-iloulb", "trg": "tgl-tglulb"},
+        "2nd_pair": {"src": "ilo-iloulb", "trg": "ceb-cebulb"},
+        "lang_codes": {"ilo": "ilo_Latn", "tgl": "tgl_Latn"},
+        "related_lang_code": {"ceb": "ceb_Latn"},
+    },
 }
 
 language_families = [
@@ -113,12 +127,28 @@ language_families = [
     "Trans-NewGuinea",
 ]
 
+#Specify the language families to make configs for.
+language_family_configs_to_create = [
+    #"Afro-Asiatic",
+    #"Austronesian",
+    #"Dravidian",
+    #"Niger-Congo",
+    #"Indo-European",
+    #"Otomanguean",
+    #"Sino-Tibetan",
+    #"Trans-NewGuinea",
+    "Tagalog",
+]
+
+
 # These parts of foldernames represent the various kinds of experiments
 # that we've run.
-# ["NewToOld.GEN_RUT_JON", "Overall.Run", "PartialNT.Scenario" "RelatedLanguage.PartialNT.Scenario", "SourceText.Greek.Scenario",]
+# ["NewToOld.GEN_RUT_JON", "Overall.Run", "PartialNT.Scenario",""NewToOld", "RelatedLanguage.PartialNT.Scenario", "SourceText.Greek.Scenario",]
 # Specify parts of foldernames plain strings, not regexes
-# subfolders_to_omit = ["Overall.Run"]
-subfolders_to_omit = ["Overall.Run", "NewToOld","Overall.Run","RelatedLanguage", "PartialNT",]
+# subfolders_to_include = ["Overall.Run"]
+subfolders_to_include = ["Overall.Run1",]# "_2", "Greek","Clone", "GEN_RUT_JON" , "NewToOld",]
+#subfolders_to_include = ["PeekAhead"]
+subfolders_to_exclude = ["FastAlign", "NMT", "3.3"]
 
 # Set the series to create:
 # language_family = 'Afro-Asiatic'
@@ -128,83 +158,69 @@ greek_source = "grc-grcsbl"
 
 experiments_folder_str = "S:/eBible/MT/experiments"
 experiments_folder = Path(experiments_folder_str)
-test_destination_folder = Path("C:/Gutenberg/MT/experiments/")
+test_destination_folder = Path("F:/GitHub/BibleNLP/ebible-experiments/MT/experiments")
 
 source_language_family = "Niger-Congo"
 source_family_folder = experiments_folder / source_language_family
 source_subfolders = [folder for folder in source_family_folder.iterdir()]
-filtered_source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_omit)]
 
-language_families_to_omit = ["Niger-Congo"]
-language_families_to_omit.append(source_language_family)
-language_families = [language_family for language_family in language_families if not is_excluded(language_family, language_families_to_omit)]
+if subfolders_to_include:
+    print(f"Searching for subfolders to include matching: {subfolders_to_include}")
+    source_subfolders = [source_subfolder for source_subfolder in source_subfolders if is_included(source_subfolder.name, includes=subfolders_to_include)]
 
-        
+    if subfolders_to_exclude:
+        print(f"Excluding subfolders that match: {subfolders_to_exclude}")
+        source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_exclude)]
+
+elif subfolders_to_exclude:
+    print(f"Excluding subfolders that match: {subfolders_to_exclude}")
+    source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_exclude)]
+
+print(f"These folders will be used as templates:")
+pprint(source_subfolders)
+
+
 experiments = []
-language_family = language_families[2]
-language_family_details = language_families_details[language_family]
+for language_family in language_family_configs_to_create:
+    language_family_details = language_families_details[language_family]
 
-test_destination_family_folder = test_destination_folder / language_family
-destination_family_folder = experiments_folder / language_family   
+    test_destination_family_folder = test_destination_folder / language_family
+    destination_family_folder = experiments_folder / language_family   
 
-# if do_copy:
-#     print(
-#         f"Found {len(source_subfolders)} folders in {source_family_folder}\nThe destination is   {destination_family_folder}"
-#     )
-# else :
-#     print(
-#         f"Found {len(source_subfolders)} folders in {source_family_folder}"
-#     )
-
-# #print(f"Removing subfolders whose names contain these strings:")
-# #pprint(subfolders_to_omit)
-
-# #print(f"These source folders remain after filtering.")
-# #pprint(filtered_source_subfolders)
-
-# if do_copy:
-#     print(f"Looking for config.yml files to copy.")
-# else:
-#     if test_only:
-#         print(f"Looking for config.yml files to create experiment training commands.")
-#     else:
-#         print(f"Looking for config.yml files to create experiment test commands.")
-
-for filtered_source_subfolder in filtered_source_subfolders:
-    for source_file in filtered_source_subfolder.rglob(config_filename):
-        if source_file.is_file():
-            
-            if not testing:
-                dest_folder = destination_family_folder / filtered_source_subfolder.name
-            elif testing:
-                dest_folder = test_destination_family_folder / filtered_source_subfolder.name
-            else:
-                print("Can't determine whether testing is True or False: testing={testing}")
-                exit()                
-            
-            #print(dest_folder)
-            #continue
-            destination_file = dest_folder / source_file.name
+    for source_subfolder in source_subfolders:
+        for source_file in source_subfolder.rglob(config_filename):
+            if source_file.is_file():
+                
+                if not testing:
+                    dest_folder = destination_family_folder / source_subfolder.name
+                elif testing:
+                    dest_folder = test_destination_family_folder / source_subfolder.name
+                else:
+                    print("Can't determine whether testing is True or False: testing={testing}")
+                    exit()                
+                
+                #print(dest_folder)
+                #continue
+                destination_file = dest_folder / source_file.name
 
 
-            # Get the experiment details from the config.yml file.
-            with open(source_file, "r") as configfile:
-                config: Dict = yaml.safe_load(configfile)
+                # Get the experiment details from the config.yml file.
+                with open(source_file, "r") as configfile:
+                    config: Dict = yaml.safe_load(configfile)
 
-            experiments.append(
-                    {
-                        "Source folder": filtered_source_subfolder,
-                        "Source file": source_file,
-                        "Destination file": destination_file,
-                        "Destination folder": dest_folder,
-                        "Config": config,
-                        "Language family": language_family,
-                    }
-                )
+                experiments.append(
+                        {
+                            "Source folder": source_subfolder,
+                            "Source file": source_file,
+                            "Destination file": destination_file,
+                            "Destination folder": dest_folder,
+                            "Config": config,
+                            "Language family": language_family,
+                        }
+                    )
 
-print(f"\nFound {len(experiments)} {config_filename} files.")
-#pprint(experiments[0])
-
+#print(f"\nThere are {len(experiments)} {config_filename} files to create.")
+#pprint([experiment["Destination folder"] for experiment in experiments])
 
 for experiment in experiments:
 
@@ -237,7 +253,7 @@ for experiment in experiments:
 
         related_code = list(language_family_details["related_lang_code"].keys())[0]
         related_ws = language_family_details["related_lang_code"][related_code]
-        print(f"This related language code {related_code} has this writing system code: {related_ws}")
+        #print(f"This related language code {related_code} has this writing system code: {related_ws}")
 
         config["data"]["lang_codes"][related_code] = related_ws
 
@@ -256,6 +272,13 @@ for experiment in experiments:
         pprint(corpus_pairs)
         pprint(data_config["lang_codes"])
         print()
+    else:
+
+        print(f"Dry run so nothing written. Would write out modified config file to : {experiment['Destination file']}")
+        pprint(corpus_pairs)
+        pprint(data_config["lang_codes"])
+        print()
+        
 
 if not testing:
     print_commands(experiments, experiments_folder_str, test_only=test_only, queue=queue)

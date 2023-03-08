@@ -1,0 +1,107 @@
+data:
+  aligner: fast_align
+  character_coverage: 1.0
+  corpus_pairs:
+  - disjoint_test: false
+    disjoint_val: false
+    lexical: false
+    mapping: one_to_one
+    size: 1.0
+    src: npi-npiulb
+    test_size: 250
+    trg: taj-taj
+    type: train,test,val
+    use_test_set_from: Sino-Tibetan/Overall.Run1
+    val_size: 250
+  eval_features_file:
+  - /tmp/tmp30ay8nkq/Sino-Tibetan/Overall.Run1.NMT.1-1/val.src.txt
+  - /tmp/tmp30ay8nkq/Sino-Tibetan/Overall.Run1.NMT.1-1/val.vref.txt
+  eval_labels_file: /tmp/tmp30ay8nkq/Sino-Tibetan/Overall.Run1.NMT.1-1/val.trg.txt
+  guided_alignment: false
+  guided_alignment_train_size: 1000000
+  mirror: false
+  parent_use_average: false
+  parent_use_best: false
+  parent_use_vocab: false
+  seed: 111
+  share_vocab: false
+  source_vocabulary: /tmp/tmp30ay8nkq/Sino-Tibetan/Overall.Run1.NMT.1-1/src-onmt.vocab
+  sp_max_train_size: 1000000
+  src_casing: lower
+  src_vocab_size: 5000
+  src_vocab_split_by_unicode_script: true
+  src_vocab_type: unigram
+  stats_max_size: 100000
+  target_vocabulary: /tmp/tmp30ay8nkq/Sino-Tibetan/Overall.Run1.NMT.1-1/trg-onmt.vocab
+  terms:
+    categories: PN
+    dictionary: false
+    include_glosses: true
+    train: true
+  tokenize: true
+  train_features_file: /tmp/tmp30ay8nkq/Sino-Tibetan/Overall.Run1.NMT.1-1/train.src.txt
+  train_labels_file: /tmp/tmp30ay8nkq/Sino-Tibetan/Overall.Run1.NMT.1-1/train.trg.txt
+  transfer_alignment_heads: true
+  trg_casing: preserve
+  trg_vocab_size: 2000
+  trg_vocab_split_by_unicode_script: true
+  trg_vocab_type: unigram
+eval:
+  batch_size: 32
+  batch_type: examples
+  early_stopping:
+    metric: bleu
+    min_improvement: 0.2
+    steps: 4
+  export_format: checkpoint
+  export_on_best: bleu
+  external_evaluators: bleu_multi_ref
+  length_bucket_width: 5
+  max_exports_to_keep: 1
+  multi_ref_eval: false
+  steps: 1000
+  use_dictionary: true
+infer:
+  batch_size: 32
+  batch_type: examples
+  length_bucket_width: 5
+model: SILTransformerBase
+model_dir: /tmp/tmp30ay8nkq/Sino-Tibetan/Overall.Run1.NMT.1-1/run
+params:
+  average_loss_in_time: true
+  beam_width: 4
+  decay_params:
+    model_dim: 512
+    warmup_steps: 8000
+  decay_type: NoamDecay
+  guided_alignment_type: mse
+  guided_alignment_weight: 0.3
+  label_smoothing: 0.1
+  learning_rate: 2.0
+  length_penalty: 0.2
+  num_hypotheses: 1
+  optimizer: LazyAdam
+  optimizer_params:
+    beta_1: 0.9
+    beta_2: 0.998
+  transformer_attention_dropout: 0.1
+  transformer_dropout: 0.1
+  transformer_ffn_dropout: 0.1
+  word_dropout: 0
+score:
+  batch_size: 64
+  batch_type: examples
+  length_bucket_width: 5
+train:
+  average_last_checkpoints: 0
+  batch_size: 3072
+  batch_type: tokens
+  effective_batch_size: 25000
+  keep_checkpoint_max: 1
+  length_bucket_width: 2
+  max_step: 500000
+  maximum_features_length: 100
+  maximum_labels_length: 100
+  sample_buffer_size: -1
+  save_checkpoints_steps: 1000
+  save_summary_steps: 100
