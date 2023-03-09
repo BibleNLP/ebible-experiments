@@ -49,7 +49,7 @@ testing = False
 do_copy = True
 
 # Whether to copy them to the testing folder or the live folder
-#testing = True
+testing = True
 
 # Whether to add --test to the command line
 #test_only = True
@@ -108,6 +108,12 @@ language_families_details = {
         "lang_codes": {"tpi": "tpi_Latn", "yut": "yut_Latn"},
         "related_lang_code": {"nca": "nca_Latn"},
     },
+    "Tagalog": {
+        "1st_pair": {"src": "ilo-iloulb", "trg": "tgl-tglulb"},
+        "2nd_pair": {"src": "ilo-iloulb", "trg": "ceb-cebulb"},
+        "lang_codes": {"ilo": "ilo_Latn", "tgl": "tgl_Latn"},
+        "related_lang_code": {"ceb": "ceb_Latn"},
+    },
 }
 
 language_families = [
@@ -123,13 +129,15 @@ language_families = [
 
 #Specify the language families to make configs for.
 language_family_configs_to_create = [
-    # "Afro-Asiatic",
-    # "Austronesian",
-    # "Dravidian",
-    # "Indo-European",
-   "Otomanguean",
-   "Sino-Tibetan",
-   "Trans-NewGuinea",
+    #"Afro-Asiatic",
+    #"Austronesian",
+    #"Dravidian",
+    #"Niger-Congo",
+    #"Indo-European",
+    #"Otomanguean",
+    #"Sino-Tibetan",
+    #"Trans-NewGuinea",
+    "Tagalog",
 ]
 
 
@@ -138,9 +146,9 @@ language_family_configs_to_create = [
 # ["NewToOld.GEN_RUT_JON", "Overall.Run", "PartialNT.Scenario",""NewToOld", "RelatedLanguage.PartialNT.Scenario", "SourceText.Greek.Scenario",]
 # Specify parts of foldernames plain strings, not regexes
 # subfolders_to_include = ["Overall.Run"]
-subfolders_to_include = ["Overall.Run", "_2", "Greek","Clone", "GEN_RUT_JON" , "NewToOld",]
-subfolders_to_include = ["PeekAhead"]
-subfolders_to_exclude = ["Related", "Overall"]
+subfolders_to_include = ["Overall.Run1",]# "_2", "Greek","Clone", "GEN_RUT_JON" , "NewToOld",]
+#subfolders_to_include = ["PeekAhead"]
+subfolders_to_exclude = ["FastAlign", "NMT", "3.3"]
 
 # Set the series to create:
 # language_family = 'Afro-Asiatic'
@@ -150,22 +158,25 @@ greek_source = "grc-grcsbl"
 
 experiments_folder_str = "S:/eBible/MT/experiments"
 experiments_folder = Path(experiments_folder_str)
-test_destination_folder = Path("F:/GitHub/BibleNLP/ebible-experiments/MT")
+test_destination_folder = Path("F:/GitHub/BibleNLP/ebible-experiments/MT/experiments")
 
 source_language_family = "Niger-Congo"
 source_family_folder = experiments_folder / source_language_family
 source_subfolders = [folder for folder in source_family_folder.iterdir()]
-#print(f"Found the following folders:")
-#pprint(source_subfolders)
 
-filtered_source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_exclude)]
-included_source_subfolders = [source_subfolder for source_subfolder in source_subfolders if is_included(source_subfolder.name, includes=subfolders_to_include)]
+if subfolders_to_include:
+    print(f"Searching for subfolders to include matching: {subfolders_to_include}")
+    source_subfolders = [source_subfolder for source_subfolder in source_subfolders if is_included(source_subfolder.name, includes=subfolders_to_include)]
 
-# Choose included or filtered folders
-#source_subfolders = filtered_source_subfolders
-source_subfolders = included_source_subfolders
+    if subfolders_to_exclude:
+        print(f"Excluding subfolders that match: {subfolders_to_exclude}")
+        source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_exclude)]
 
-print(f"These folders will as templates:")
+elif subfolders_to_exclude:
+    print(f"Excluding subfolders that match: {subfolders_to_exclude}")
+    source_subfolders = [source_subfolder for source_subfolder in source_subfolders if not is_excluded(source_subfolder.name, excludes=subfolders_to_exclude)]
+
+print(f"These folders will be used as templates:")
 pprint(source_subfolders)
 
 
@@ -258,12 +269,15 @@ for experiment in experiments:
             yaml.dump(config, file)
     
         print(f"Wrote out modified config file to : {experiment['Destination file']}")
-        #pprint(corpus_pairs)
-        #pprint(data_config["lang_codes"])
-        #print()
+        pprint(corpus_pairs)
+        pprint(data_config["lang_codes"])
+        print()
     else:
+
         print(f"Dry run so nothing written. Would write out modified config file to : {experiment['Destination file']}")
-        
+        pprint(corpus_pairs)
+        pprint(data_config["lang_codes"])
+        print()
         
 
 if not testing:
