@@ -8,7 +8,7 @@ data:
     val_size: 75
   lang_codes:
     cwe: cwe_Latn
-    swh: swh_Latn
+    grc: grc_Grek
   seed: 111
   terms:
     dictionary: false

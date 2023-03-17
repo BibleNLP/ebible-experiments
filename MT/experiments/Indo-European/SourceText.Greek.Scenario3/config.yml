@@ -7,7 +7,7 @@ data:
     type: train,test,val
     val_size: 250
   lang_codes:
-    hin: hin_Deva
+    grc: grc_Grek
     pan: pan_Gurm
   seed: 111
   terms:
