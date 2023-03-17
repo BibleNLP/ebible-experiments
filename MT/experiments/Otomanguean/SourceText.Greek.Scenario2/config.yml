@@ -7,7 +7,7 @@ data:
     type: train,test,val
     val_size: 250
   lang_codes:
-    spa: spa_Latn
+    grc: grc_Grek
     zat: zat_Latn
   seed: 111
   terms:

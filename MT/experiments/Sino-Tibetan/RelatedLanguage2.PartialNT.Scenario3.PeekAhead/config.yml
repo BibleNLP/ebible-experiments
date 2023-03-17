@@ -8,11 +8,11 @@ data:
     val_size: 250
   - corpus_books: MAT,MRK,LUK,JHN,ACT,ROM,1CO,2CO,GAL,EPH,PHP,COL,1TH,2TH,1TI,2TI,TIT,PHM,HEB,JAS,1PE,2PE,1JN,2JN,3JN,JUD,REV
     src: npi-npiulb
-    trg: lif-lifNT
+    trg: suz-suzBl
     type: train
   lang_codes:
-    lif: lif_Deva
     npi: npi_Deva
+    suz: suz_Deva
     taj: taj_Deva
   seed: 111
   terms:

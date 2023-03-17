@@ -21,9 +21,10 @@ data:
     mapping: one_to_one
     size: 1.0
     src: npi-npiulb
-    trg: taj-taj
+    trg: cth-cth
     type: train
   lang_codes:
+    cth: cth_Latn
     npi: npi_Deva
     taj: taj_Deva
   mirror: false
@@ -78,7 +79,7 @@ train:
   gradient_checkpointing: true
   group_by_length: true
   log_level: passive
-  logging_dir: /tmp/tmp9dfmxk8m/Sino-Tibetan/RelatedLanguage3.PartialNT.Scenario2.PeekAhead/run/runs/Mar06_05-18-18_19042e15ca5f
+  logging_dir: /tmp/tmplwfhan3n/Sino-Tibetan/RelatedLanguage3.PartialNT.Scenario2.PeekAhead/run/runs/Mar08_16-13-55_0490d29d1584
   logging_first_step: false
   logging_nan_inf_filter: true
   logging_steps: 500
@@ -87,7 +88,7 @@ train:
   max_steps: 100000
   max_target_length: 200
   num_train_epochs: 3.0
-  output_dir: /tmp/tmp9dfmxk8m/Sino-Tibetan/RelatedLanguage3.PartialNT.Scenario2.PeekAhead/run
+  output_dir: /tmp/tmplwfhan3n/Sino-Tibetan/RelatedLanguage3.PartialNT.Scenario2.PeekAhead/run
   per_device_train_batch_size: 16
   save_on_each_node: false
   save_steps: 1000
