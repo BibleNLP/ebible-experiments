@@ -8,7 +8,7 @@ data:
     val_size: 75
   - corpus_books: MAT,MRK,LUK,JHN,ACT,1TH,2TH,1TI,2TI,TIT
     src: npi-npiulb
-    trg: lif-lifNT
+    trg: lif-lifNT2
     type: train
   lang_codes:
     lif: lif_Deva
