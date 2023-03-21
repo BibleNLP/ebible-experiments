@@ -1,5 +1,6 @@
 """Copy files specified with patterns and filters along with their folders."""
 from collections import Counter
+import filecmp
 from pathlib import Path
 from pprint import pprint
 from tqdm import tqdm
@@ -65,7 +66,9 @@ for family_folder in family_folders:
     dest_files_to_remove = []
     for family_subfolder in family_subfolders:
         destination_folder = dest_base_folder / str(family_subfolder)[len(source_base_folder_str)+1:]
-        dest_files_to_remove.extend([dest_file_to_remove for dest_file_to_remove in destination_folder.iterdir() if is_excluded(dest_file_to_remove.name, files_to_omit) and dest_file_to_remove.is_file()])
+        if destination_folder.is_dir():
+            dest_files_to_remove.extend([dest_file_to_remove for dest_file_to_remove in destination_folder.iterdir() if dest_file_to_remove.is_file() and is_excluded(dest_file_to_remove.name, files_to_omit) ])
+
     if dest_files_to_remove:
         print(f"Found {len(dest_files_to_remove)} files to remove from {family_folder}.")
         pprint([dest_file_to_remove.resolve() for dest_file_to_remove in dest_files_to_remove])
@@ -95,24 +98,31 @@ for subfolder in subfolders:
 #                     dest_file_to_remove.unlink()
 #                     print(f"Deleted files.\n")
 
-# If file_include_patterns is not set include all the files in the folder expect those omitted.
-if not file_include_patterns:
-    print(f"Found {len(subfolders)} folders. Looking for all source files in subfolders.")
-    source_files = [source_file for subfolder in tqdm(subfolders) for source_file in subfolder.iterdir() if not is_excluded(source_file.name, files_to_omit) and source_file.is_file()]
+
 # If file_include_patterns is set, only copy files matching those patterns.
-else:
+if file_include_patterns:
     print(f"Found {len(subfolders)} folders. Looking in subfolders for files matching these patterns")
     pprint(file_include_patterns)
     source_files = []
     for subfolder in tqdm(subfolders):
         for file_include_pattern in file_include_patterns:
                 source_files.extend([file for file in subfolder.glob(file_include_pattern)])
+else:
+    print(f"Found {len(subfolders)} folders. Looking for all source files in subfolders.")
+    source_files = [source_file for subfolder in tqdm(subfolders) for source_file in subfolder.iterdir() if not is_excluded(source_file.name, files_to_omit) and source_file.is_file()]
+
 
 
 #pprint(source_files[:10])
-copy_pairs = [(source_file, get_dest_file(source_file)) for source_file in source_files]
-filtered_copy_pairs = [(source_file, destination_file) for (source_file, destination_file) in copy_pairs if not destination_file.is_file()]
+print("Checking whether files have changed")
+filtered_copy_pairs = []
+for source_file in tqdm(source_files):
+    destination_file = get_dest_file(source_file)
+    if destination_file.is_file() and not filecmp.cmp(source_file, destination_file, shallow=True):
+        filtered_copy_pairs.append((source_file, destination_file))
+
 experiments_with_scores = set(source_file.parent for (source_file, destination_file) in filtered_copy_pairs if "scores" in source_file.name )
+
 
 if filtered_copy_pairs:
     if destination_folders_to_create:

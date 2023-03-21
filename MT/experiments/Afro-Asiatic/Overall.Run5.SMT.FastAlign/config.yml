@@ -1,8 +1,0 @@
-model: fast_align
-seed: 111
-src_lang: hau-hausa
-src_tokenizer: latin
-test_size: 250
-trg_lang: daa-daaNT
-trg_tokenizer: latin
-use_test_set_from: Afro-Asiatic\Overall.Run5
