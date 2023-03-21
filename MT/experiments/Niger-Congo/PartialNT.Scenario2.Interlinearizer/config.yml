@@ -1,0 +1,9 @@
+model: fast_align
+seed: 111
+src_lang: swh-swhonen
+trg_lang: cwe-cwe
+corpus_books: MAT,MRK,LUK,JHN,ACT
+test_books: 1TH,2TH,1TI,2TI,TIT
+test_size: 378
+src_tokenizer: latin
+trg_tokenizer: latin
