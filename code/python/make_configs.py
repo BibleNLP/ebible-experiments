@@ -49,13 +49,13 @@ testing = False
 do_copy = True
 
 # Whether to copy them to the testing folder or the live folder
-testing = True
+#testing = True
 
 # Whether to add --test to the command line
 #test_only = True
 
 # Choose which ClearML queue to use
-#queue = "langtech_40gb"
+queue = "langtech_40gb"
 queue = "idx_40gb"
 
 
@@ -116,6 +116,9 @@ language_families_details = {
     },
 }
 
+
+LANG_CODE_GREEK = {"grc" :"grc_Grek"}
+
 language_families = [
     "Afro-Asiatic",
     "Austronesian",
@@ -132,12 +135,12 @@ language_family_configs_to_create = [
     #"Afro-Asiatic",
     #"Austronesian",
     #"Dravidian",
-    #"Niger-Congo",
+    "Niger-Congo",
     #"Indo-European",
     #"Otomanguean",
-    #"Sino-Tibetan",
-    #"Trans-NewGuinea",
-    "Tagalog",
+    "Sino-Tibetan",
+    "Trans-NewGuinea",
+    #"Tagalog",
 ]
 
 
@@ -146,12 +149,12 @@ language_family_configs_to_create = [
 # ["NewToOld.GEN_RUT_JON", "Overall.Run", "PartialNT.Scenario",""NewToOld", "RelatedLanguage.PartialNT.Scenario", "SourceText.Greek.Scenario",]
 # Specify parts of foldernames plain strings, not regexes
 # subfolders_to_include = ["Overall.Run"]
-subfolders_to_include = ["Overall.Run1",]# "_2", "Greek","Clone", "GEN_RUT_JON" , "NewToOld",]
+subfolders_to_include = ["Greek", ]# "Overall.Run1", "_2", "Greek","Clone", "GEN_RUT_JON" , "NewToOld",]
 #subfolders_to_include = ["PeekAhead"]
 subfolders_to_exclude = ["FastAlign", "NMT", "3.3"]
 
 # Set the series to create:
-# language_family = 'Afro-Asiatic'
+language_family = 'Afro-Asiatic'
 
 config_filename = "config.yml"
 greek_source = "grc-grcsbl"
@@ -160,7 +163,7 @@ experiments_folder_str = "S:/eBible/MT/experiments"
 experiments_folder = Path(experiments_folder_str)
 test_destination_folder = Path("F:/GitHub/BibleNLP/ebible-experiments/MT/experiments")
 
-source_language_family = "Niger-Congo"
+source_language_family = 'Afro-Asiatic'
 source_family_folder = experiments_folder / source_language_family
 source_subfolders = [folder for folder in source_family_folder.iterdir()]
 
@@ -222,41 +225,56 @@ for language_family in language_family_configs_to_create:
 #print(f"\nThere are {len(experiments)} {config_filename} files to create.")
 #pprint([experiment["Destination folder"] for experiment in experiments])
 
+
 for experiment in experiments:
 
-    config: dict = experiment["Config"]
-    data_config: dict = config["data"]
-    corpus_pairs = data_config["corpus_pairs"]
-    #print(experiment["Destination file"])
-    #pprint(corpus_pairs)
-    #pprint(data_config["lang_codes"])
+    print(f"Creating {experiment['Destination file']}")
+    #print(experiment["Config"]["data"]["lang_codes"])
+    #pprint(experiment["Config"]["data"]["corpus_pairs"])
+    #pprint(experiment["Config"]["data"]["lang_codes"])
     #print()
+    
+    language_family = experiment["Language family"]
+    language_family_details = language_families_details[language_family]
 
-    if not config["data"]["corpus_pairs"][0]["src"] == greek_source:
-        config["data"]["corpus_pairs"][0]["src"] = language_family_details["1st_pair"][
+    if not experiment["Config"]["data"]["corpus_pairs"][0]["src"] == greek_source:
+        #print("Source isn't Greek")
+        experiment["Config"]["data"]["corpus_pairs"][0]["src"] = language_family_details["1st_pair"][
             "src"
         ]
-
-    config["data"]["corpus_pairs"][0]["trg"] = language_family_details["1st_pair"][
-        "trg"
-    ]
-    config["data"]["lang_codes"] = language_family_details["lang_codes"]
-    if len(corpus_pairs) == 2:
-        if not config["data"]["corpus_pairs"][1]["src"] == greek_source:
-            config["data"]["corpus_pairs"][1]["src"] = language_family_details[
-                "2nd_pair"
-            ]["src"]
-
-        config["data"]["corpus_pairs"][1]["trg"] = language_family_details["2nd_pair"][
+        experiment["Config"]["data"]["corpus_pairs"][0]["trg"] = language_family_details["1st_pair"][
             "trg"
         ]
+        experiment["Config"]["data"]["lang_codes"] = language_family_details["lang_codes"]
 
-        related_code = list(language_family_details["related_lang_code"].keys())[0]
-        related_ws = language_family_details["related_lang_code"][related_code]
-        #print(f"This related language code {related_code} has this writing system code: {related_ws}")
+        if len(experiment["Config"]["data"]["corpus_pairs"]) == 2:
+            experiment["Config"]["data"]["corpus_pairs"][1]["src"] = language_family_details["2nd_pair"]["src"]
+            experiment["Config"]["data"]["corpus_pairs"][1]["trg"] = language_family_details["2nd_pair"]["trg"]
 
-        config["data"]["lang_codes"][related_code] = related_ws
+            related_code = list(language_family_details["related_lang_code"].keys())[0]
+            related_ws = language_family_details["related_lang_code"][related_code]
+            print(f"This related language code {related_code} has this writing system code: {related_ws}")
 
+            experiment["Config"]["data"]["lang_codes"][related_code] = related_ws
+    
+    # If this is a Greek Source experiment
+    else :
+        #experiment["Config"]["data"]["corpus_pairs"][0]["src"] = greek_source
+        experiment["Config"]["data"]["corpus_pairs"][0]["trg"] = language_family_details["1st_pair"][
+            "trg"
+        ]
+        trg_iso = language_family_details["1st_pair"]["trg"][:3]
+        trg_ws  = language_family_details["lang_codes"][trg_iso]
+        
+        experiment["Config"]["data"]["lang_codes"] = LANG_CODE_GREEK.copy()
+        experiment["Config"]["data"]["lang_codes"][trg_iso] = trg_ws
+
+        print("Source is Greek.")
+        #pprint(experiment["Config"]["data"]["corpus_pairs"])
+        #print(f"Lang codes are {experiment['Config']['data']['lang_codes']}")
+        #print(f"LANG_CODE_GREEK is {LANG_CODE_GREEK}\n")
+
+    
     if do_copy :
         # Make necessary folders.
         if not experiment["Destination folder"].is_dir():
@@ -266,19 +284,13 @@ for experiment in experiments:
         # print(destination_config_file.parent , type(destination_config_file.parent))
         new_config_file = experiment["Destination file"]
         with new_config_file.open("w", encoding="utf-8") as file:
-            yaml.dump(config, file)
+            yaml.dump(experiment["Config"], file)
     
         print(f"Wrote out modified config file to : {experiment['Destination file']}")
-        pprint(corpus_pairs)
-        pprint(data_config["lang_codes"])
-        print()
     else:
-
+        pass
         print(f"Dry run so nothing written. Would write out modified config file to : {experiment['Destination file']}")
-        pprint(corpus_pairs)
-        pprint(data_config["lang_codes"])
-        print()
-        
+
 
 if not testing:
     print_commands(experiments, experiments_folder_str, test_only=test_only, queue=queue)

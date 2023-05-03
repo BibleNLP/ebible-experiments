@@ -7,8 +7,8 @@ data:
     type: train,test,val
     val_size: 250
   lang_codes:
+    grc: grc_Grek
     mal: mal_Mlym
-    tam: tam_Taml
   seed: 111
   terms:
     dictionary: false

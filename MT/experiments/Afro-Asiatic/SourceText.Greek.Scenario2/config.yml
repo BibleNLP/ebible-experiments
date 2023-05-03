@@ -8,7 +8,7 @@ data:
     val_size: 250
   lang_codes:
     daa: daa_Latn
-    hau: hau_Latn
+    grc: grc_Grek
   seed: 111
   terms:
     dictionary: false

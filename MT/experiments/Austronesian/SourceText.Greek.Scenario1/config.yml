@@ -7,8 +7,8 @@ data:
     type: train,test,val
     val_size: 75
   lang_codes:
+    grc: grc_Grek
     kqw: kqw_Latn
-    ksd: ksd_Latn
   seed: 111
   terms:
     dictionary: false

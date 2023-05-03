@@ -7,7 +7,7 @@ data:
     type: train,test,val
     val_size: 75
   lang_codes:
-    tpi: tpi_Latn
+    grc: grc_Grek
     yut: yut_Latn
   seed: 111
   terms:
