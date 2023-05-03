@@ -32,8 +32,6 @@ language_families = [
     "Trans-NewGuinea",
 ]
 
-# Only copy from folder if all these exist.
-# required_exp_files_patterns = ["config.yml",] # "effective-config*.yml","scores-*.csv", ]
 
 # Don't include any subfolders (i.e. run or engine)
 # For SMT folders include all the files.
@@ -118,7 +116,10 @@ print("Checking whether files have changed")
 filtered_copy_pairs = []
 for source_file in tqdm(source_files):
     destination_file = get_dest_file(source_file)
-    if destination_file.is_file() and not filecmp.cmp(source_file, destination_file, shallow=True):
+    if destination_file.is_file():
+        if not filecmp.cmp(source_file, destination_file, shallow=True):
+            filtered_copy_pairs.append((source_file, destination_file))
+    else :
         filtered_copy_pairs.append((source_file, destination_file))
 
 experiments_with_scores = set(source_file.parent for (source_file, destination_file) in filtered_copy_pairs if "scores" in source_file.name )
@@ -153,7 +154,7 @@ if filtered_copy_pairs:
 
 else: 
     print("All files already exist in the destination folder.")
-    exit()
+
 
 
 
