@@ -5,7 +5,6 @@ import os
 import pickle
 import time
 from concurrent.futures import ProcessPoolExecutor
-from multiprocessing import Pool
 from pathlib import Path
 
 import matplotlib
@@ -58,52 +57,6 @@ def calculate_bleu_score(args):
         [[ref_tokenized_texts[index]] for index in non_empty_line_indices],
         [hyp_tokenized_texts[index] for index in non_empty_line_indices],
     )
-
-
-def compare_files_bleu_multiprocessing(filepaths, cache_file=cache_file):
-    num_files = len(filepaths)
-    bleu_matrix = np.zeros((num_files, num_files))
-
-    filehashes = [file_hash(filepath) for filepath in filepaths]
-
-    if os.path.exists(cache_file):
-        with open(cache_file, "rb") as f:
-            bleu_score_cache = pickle.load(f)
-    else:
-        bleu_score_cache = {}
-
-    with Pool() as pool:
-        for i in range(num_files):
-            tokenized_texts_i = load_tokenized_file(filepaths[i])
-            for j in range(num_files):
-                if i != j:
-                    tokenized_texts_j = load_tokenized_file(filepaths[j])
-                    non_empty_line_indices = [
-                        index
-                        for index, line in enumerate(tokenized_texts_i)
-                        if line and tokenized_texts_j[index]
-                    ]
-
-                    if non_empty_line_indices:
-                        cache_key = get_cache_key(filehashes[i], filehashes[j])
-                        if cache_key in bleu_score_cache:
-                            bleu_matrix[i, j] = bleu_score_cache[cache_key]
-                        else:
-                            args = (
-                                tokenized_texts_i,
-                                tokenized_texts_j,
-                                non_empty_line_indices,
-                            )
-                            bleu_score = pool.apply_async(
-                                calculate_bleu_score, args
-                            ).get()
-                            bleu_matrix[i, j] = bleu_score
-                            bleu_score_cache[cache_key] = bleu_score
-
-    with open(cache_file, "wb") as f:
-        pickle.dump(bleu_score_cache, f)
-
-    return bleu_matrix
 
 
 def file_hash(filepath):
@@ -188,49 +141,6 @@ def compare_files_bleu(filepaths, cache_file=cache_file):
 
 
 
-def compare_files_bleu_original(filepaths, cache_file=cache_file):
-    num_files = len(filepaths)
-    bleu_matrix = np.zeros((num_files, num_files))
-
-    filehashes = [file_hash(filepath) for filepath in filepaths]
-
-    if os.path.exists(cache_file):
-        with open(cache_file, "rb") as f:
-            bleu_score_cache = pickle.load(f)
-    else:
-        bleu_score_cache = {}
-
-
-    for i in range(num_files):
-        tokenized_texts_i = load_tokenized_file(filepaths[i])
-        for j in range(num_files):
-            if i != j:
-                tokenized_texts_j = load_tokenized_file(filepaths[j])
-                non_empty_line_indices = [
-                    index
-                    for index, line in enumerate(tokenized_texts_i)
-                    if line and tokenized_texts_j[index]
-                ]
-
-                if non_empty_line_indices:
-                    cache_key = get_cache_key(filehashes[i], filehashes[j])
-                    if cache_key in bleu_score_cache:
-                        bleu_matrix[i, j] = bleu_score_cache[cache_key]
-                    else:
-                        bleu_score = corpus_bleu(
-                            [[tokenized_texts_i[index]] for index in non_empty_line_indices],
-                            [tokenized_texts_j[index] for index in non_empty_line_indices],
-                        )
-                        bleu_matrix[i, j] = bleu_score
-                        bleu_score_cache[cache_key] = bleu_score
-
-    with open(cache_file, "wb") as f:
-        pickle.dump(bleu_score_cache, f)
-
-    return bleu_matrix
-
-
-
 def plot_heatmap(matrix, labels, title):
     plt.figure(figsize=(8, 6))
     sns.heatmap(
@@ -302,32 +212,16 @@ if __name__ == "__main__":
     #tokenize_and_save_files(text_files)
     #exit()
 
-    #print(f"Found {len(text_files)} text files in folder {input_folder}.")
-    #exit()
-    # start_time_original = time.time()
-    # bleu_matrix_original = compare_files_bleu_original(text_files)
-    # end_time_original = time.time()
-    # time_taken_original = end_time_original - start_time_original
-
     # Measure the running time of the parallelized compare_files_bleu function using concurrent.futures
     start_time_parallel = time.time()
     bleu_matrix_parallel = compare_files_bleu(text_files)
     end_time_parallel = time.time()
     time_taken_parallel = end_time_parallel - start_time_parallel
 
-    # Measure the running time of the parallelized compare_files_bleu function using multiprocessing
-    # start_time_multiprocessing = time.time()
-    # bleu_matrix_multiprocessing = compare_files_bleu_multiprocessing(text_files)
-    # end_time_multiprocessing = time.time()
-    # time_taken_multiprocessing = end_time_multiprocessing - start_time_multiprocessing
 
-    #print(f"Time taken by original function: {time_taken_original:.2f} seconds")
     print(
         f"Time taken by parallelized function (concurrent.futures): {time_taken_parallel:.2f} seconds"
     )
-   # print(
-    #    f"Time taken by parallelized function (multiprocessing): {time_taken_multiprocessing:.2f} seconds"
-    #)
     
     save_cached_scores_to_tsv()
     
