@@ -148,6 +148,9 @@ column_headers = [
     "Source",
     "Target",
     "Experiment",
+    "Train size",
+    "Test Size",
+    "Val size",
     "Metric",
     "ALL",
 ]
@@ -163,6 +166,9 @@ by_book_columns = {
     "Source": "Source",
     "Target": "Target",
     "experiment": "Experiment",
+    "train_size": "Train size",
+    "test_size": "Test Size",
+    "val_size": "Val size",
     "scorer": "Metric",
     "ALL": "Overall",
 }
@@ -283,8 +289,29 @@ def get_config_data(config_file, fieldnames):
                 experiment[value] = config["params"][value]
             else:
                 experiment[value] = None
+    
     return experiment
 
+
+def count_lines(file):
+    with open(file, 'r') as f:
+        return len(f.readlines())
+   
+
+def get_set_sizes(experiment):
+
+    # Add code to get the length of the Train, validation and test sets.
+    exp_sets = ["test", "val", "train"]
+    for exp_set in exp_sets:
+        exp_set_file = experiment["folder"] / f"{exp_set}.vref.txt"
+        if exp_set_file.is_file():
+            set_length = count_lines(exp_set_file)
+            experiment[f"{exp_set}_size"] = set_length
+        else:
+            experiment[f"{exp_set}_size"] = 0
+
+    return experiment
+    
 
 def translate_experiment_names(experiment):
     
@@ -396,12 +423,14 @@ def get_experiments_config_data(experiment_configs, all_fieldnames)-> list:
             experiment = get_config_data(
                 effective_configs[0], all_fieldnames.keys()
             )
-        
+            
+            experiment = get_set_sizes(experiment=experiment)
 
         else:  # Use the config.yml file
             experiment = get_config_data(
                 experiment_config, all_fieldnames.keys()
             )
+            experiment = get_set_sizes(experiment=experiment)
 
         if not experiment:
             continue
@@ -472,7 +501,7 @@ def main() -> None:
         help="One or more folders to search recursively for scores. The summary file is stored in a subfolder named results in the first folder.",
     )
 
-    parser.add_argument("--output", type=Path, help="folder for summary csv file.")
+    parser.add_argument("--output", type=Path, default=Path("F:/GitHub/BibleNLP/ebible-experiments/results") ,help="folder for summary csv file.")
     args = parser.parse_args()
 
     try:
@@ -525,6 +554,7 @@ def main() -> None:
     # because the fieldnames have not been translated into the column names.
     #print(f"Prior to translating keys")
     #pprint(results[0])
+    #exit()
 
     tr_results = []
     for result in results:
